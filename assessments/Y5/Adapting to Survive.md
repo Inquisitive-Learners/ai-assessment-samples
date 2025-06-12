@@ -1,0 +1,1 @@
+Thank you for providing the exemplar assessment. I'll use the lessons and exemplar format to create the Year 5/6 Science & Technology assessment on "Adapting to Survive." I'll ensure the assessment is organized by content descriptors, includes multiple-choice and short-answer questions, and follows the provided format. Please give me a moment to complete this task.
