@@ -2,9 +2,9 @@
 
 **Total marks:** 20  
 **Format:** 15 questions  
- • 10 multiple‑choice (1 mark) • 5 short‑answer (2 marks)  
+ • 10 multiple‑choice (1 mark) • 5 short‑answer (2 marks)  
 **Syllabus:** NSW 2024  
-**Aligned outcomes:** ST2-DDT-02
+**Aligned outcomes:** ST2‑DDT‑02
 
 ---
 
@@ -15,144 +15,148 @@
 **Q1**  
 _What is an algorithm?_
 
-- [ ] A. A type of robot
-- [ ] B. A step-by-step set of instructions
-- [ ] C. A random series of events
-- [ ] D. A kind of software
+- [ ] A. A type of programming language 
+- [ ] B. A step-by-step instruction to solve a problem 
+- [ ] C. A random process 
+- [ ] D. A repetitive pattern 
 
 > **Correct answer:** B
 
 **Q2**  
-_What does a "repeat until" loop do?_
+_Which block helps repeat actions in coding?_
 
-- [ ] A. Repeats indefinitely
-- [ ] B. Repeats once, then stops
-- [ ] C. Repeats until a condition is satisfied
-- [ ] D. Never repeats
+- [ ] A. Start block 
+- [ ] B. End block 
+- [ ] C. Repeat block 
+- [ ] D. If block 
 
 > **Correct answer:** C
 
 **Q3**  
-_How does a "branching statement" work?_
+_What is the purpose of a "repeat until" loop?_
 
-- [ ] A. It stops the program
-- [ ] B. It makes choices based on conditions
-- [ ] C. It starts a new program
-- [ ] D. It repeats a task
+- [ ] A. To repeat actions forever 
+- [ ] B. To repeat until a condition is met 
+- [ ] C. To repeat once 
+- [ ] D. To prevent repetition 
 
 > **Correct answer:** B
 
 **Q4**  
-_Which of these best represents a sequence?_
+_What function does branching provide in an algorithm?_
 
-- Suggest an image of steps in a straight line
+- [ ] A. Ignoring certain actions 
+- [ ] B. Repeating the same action 
+- [ ] C. Making decisions based on conditions 
+- [ ] D. Stopping execution
 
-> **Correct answer:** Image of steps
+> **Correct answer:** C
 
 **Q5**  
-_What role do conditions play in a program?_
+_Which image correctly shows a looping process? (Select image option)**_
 
-- [ ] A. They add colors
-- [ ] B. They define rules
-- [ ] C. They choose directions
-- [ ] D. They create loops
+> **Correct answer:** Correct loop image
+
+**Q6**  
+_What helps improve efficiency in coding?_
+
+- [ ] A. Increasing code lines 
+- [ ] B. Using loops 
+- [ ] C. Avoiding conditions 
+- [ ] D. Manually repeating code
 
 > **Correct answer:** B
 
-### Multiple‑Choice (2 marks each)
-
-**Q6**  
-\*Which TWO tasks can algorithms perform? **Choose TWO\***
-
-- [ ] A. Create art
-- [ ] B. Automate tasks
-- [ ] C. Cook meals
-- [ ] D. Solve problems
-
-> **Correct answers:** B & D
-
 **Q7**  
-\*Which TWO control structures help with repetition? **Choose TWO\***
+_How does an algorithm improve problem-solving?_
 
-- [ ] A. If statements
-- [ ] B. Repeat loops
-- [ ] C. Variables
-- [ ] D. Repeat until loops
+- [ ] A. By making it more complex 
+- [ ] B. By structuring and organizing tasks 
+- [ ] C. By avoiding errors 
+- [ ] D. By adding visuals
 
-> **Correct answers:** B & D
+> **Correct answer:** B
 
 **Q8**  
-\*In a user interface design, which TWO features enhance usability? **Choose TWO\***
+_What block is used to check conditions in an algorithm?_
 
-- [ ] A. Complex menus
-- [ ] B. Clear navigation
-- [ ] C. Bright colors
-- [ ] D. Simple layout
+- [ ] A. Repeat block 
+- [ ] B. If block 
+- [ ] C. Start block 
+- [ ] D. End block 
 
-> **Correct answers:** B & D
+> **Correct answer:** B
 
 **Q9**  
-\*Which TWO statements about user stories are true? **Choose TWO\***
+_Which condition would stop a "repeat until" loop?_
 
-- [ ] A. They describe technical details
-- [ ] B. They reflect user needs
-- [ ] C. They always show code
-- [ ] D. They focus on user goals
+- [ ] A. The condition is false 
+- [ ] B. The condition is true 
+- [ ] C. The loop is initialized 
+- [ ] D. The loop starts
 
-> **Correct answers:** B & D
+> **Correct answer:** B
+
+**Q10**  
+_Why is using an "if" block necessary in algorithms?_
+
+- [ ] A. To start algorithms 
+- [ ] B. For making conditional decisions 
+- [ ] C. To finish tasks 
+- [ ] D. To repeat tasks
+
+> **Correct answer:** B
 
 ---
 
 ### ✍️ Short‑Answer (2 marks each)
 
-**Q10** – _Explain how a "repeat until" loop can be used in a real-life scenario._
+**Q11** – _Describe how a "repeat until" loop works with an example._
 
-> **Model answer:** A "repeat until" loop in a game can keep running until a player reaches a goal, ensuring continuous gameplay.
+> **Model answer:** A "repeat until" loop continues until a specific condition is met. Example: A robot vacuum cleans until the floor is clean.  
+> **Marks breakdown:** 1 for explanation, 1 for example
 
----
+**Q12** – _Explain the role of algorithms in solving complex tasks with an example._
 
-**Q11** – _Describe how branching could be used to make a decision in cooking._
+> **Model answer:** Algorithms break tasks into clear, manageable steps, simplifying complex tasks. Example: Recipe steps ensure a cake bakes correctly.  
+> **Marks breakdown:** 1 for role explanation, 1 for example
 
-> **Model answer:** Use branching to decide whether to add salt if a soup tastes bland; otherwise, continue cooking.
+**Q13** – _Create and describe a simple algorithm using if blocks._
 
----
+> **Model answer:** Start > Check if light is red > If yes, stop > If no, move. This adds decision-making to algorithms.  
+> **Marks breakdown:** 1 for algorithm design, 1 for description
 
-**Q12** – _How do "repeat" blocks make coding more efficient?_
+**Q14** – _How does looping in coding optimize tasks? Provide an example._
 
-> **Model answer:** They reduce the need for repeating code lines by automatically repeating a block of code several times.
+> **Model answer:** Loops reduce code repetition and streamline processes. Example: A loop prints numbers 1 to 10 efficiently.  
+> **Marks breakdown:** 1 for benefit explanation, 1 for example
 
----
+**Q15** – _Outline a user interface improvement for coding apps with an example._
 
-**Q13** – _Design a simple user interface feature for a weather app and describe its purpose._
-
-> **Model answer:** A simple button to refresh the weather data to ensure users have the latest forecasts.
-
----
-
-**Q14** – _Discuss how a user story could improve an educational app._
-
-> **Model answer:** By describing student needs, developers can align app features like quizzes and progress tracking to improve learning.
+> **Model answer:** Enhancing navigation clarity improves usability. Example: A menu button directs users to home in one tap.  
+> **Marks breakdown:** 1 for improvement explanation, 1 for example
 
 ---
 
 ## ✅ Answer Key & Marks Breakdown
 
-| Q   | Answer(s)                      | Marks | Outcome       | Content Descriptor                           |
-| --- | ------------------------------ | ----: | ------------- | -------------------------------------------- |
-| 1   | B                              |     1 | ST2-DDT-02    | Definition of algorithm                      |
-| 2   | C                              |     1 | ST2-DDT-02    | Function of loops                            |
-| 3   | B                              |     1 | ST2-DDT-02    | Branching functionality                      |
-| 4   | Image of steps                 |     1 | ST2-DDT-02    | Representation of sequence                   |
-| 5   | B                              |     1 | ST2-DDT-02    | Role of conditions                           |
-| 6   | B & D                          |     2 | ST2-DDT-02    | Algorithm capabilities                       |
-| 7   | B & D                          |     2 | ST2-DDT-02    | Control structures                           |
-| 8   | B & D                          |     2 | ST2-DDT-02    | User interface features                      |
-| 9   | B & D                          |     2 | ST2-DDT-02    | Nature of user stories                       |
-| 10  | Real-life application          |     2 | ST2-DDT-02    | Loop applications                            |
-| 11  | Decision-making in cooking     |     2 | ST2-DDT-02    | Application of branching                     |
-| 12  | Efficiency in coding           |     2 | ST2-DDT-02    | Impact of loops                              |
-| 13  | UI design                      |     2 | ST2-DDT-02    | Designing user interfaces                    |
-| 14  | Role of user stories           |     2 | ST2-DDT-02    | Improving applications through user stories  |
+| Q   | Answer(s)                      | Marks | Outcome      | Content Descriptor             |
+| --- | ------------------------------ | ----: | ------------ | ------------------------------ |
+| 1   | B                              |     1 | ST2‑DDT‑02   | Algorithm basics               |
+| 2   | C                              |     1 | ST2‑DDT‑02   | Repeat usage                   |
+| 3   | B                              |     1 | ST2‑DDT‑02   | Loop functionality             |
+| 4   | C                              |     1 | ST2‑DDT‑02   | Branching use                  |
+| 5   | Correct loop image             |     1 | ST2‑DDT‑02   | Visual representation          |
+| 6   | B                              |     1 | ST2‑DDT‑02   | Efficiency in coding           |
+| 7   | B                              |     1 | ST2‑DDT‑02   | Problem-solving with algorithms|
+| 8   | B                              |     1 | ST2‑DDT‑02   | Conditional checks             |
+| 9   | B                              |     1 | ST2‑DDT‑02   | Loop stopping condition        |
+| 10  | B                              |     1 | ST2‑DDT‑02   | Use of if blocks               |
+| 11  | Detailed description           |     2 | ST2‑DDT‑02   | Understanding iteration        |
+| 12  | Explanation & example          |     2 | ST2‑DDT‑02   | Solving with algorithms        |
+| 13  | Design & description           |     2 | ST2‑DDT‑02   | Design with conditions         |
+| 14  | Benefit & example              |     2 | ST2‑DDT‑02   | Optimization with loops        |
+| 15  | Improvement & example          |     2 | ST2‑DDT‑02   | User interface concepts        |
 
 ---
 
