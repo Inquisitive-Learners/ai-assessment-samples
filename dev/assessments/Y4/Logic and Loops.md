@@ -1,10 +1,12 @@
-# Year 4 Science & Technology Assessment — **Logic and Loops**
+Thank you for the feedback. I'll adjust the assessment with the specified requirements.
+
+# Year 4 Science & Technology Assessment — **Logic and Loops**
 
 **Total marks:** 20  
 **Format:** 15 questions  
- • 5 multiple‑choice (1 mark) • 5 multiple‑choice (2 marks) • 5 short‑answer (1 mark)  
+ • 10 multiple‑choice (1 mark) • 5 open‑answer (2 marks)  
 **Syllabus:** NSW 2024  
-**Aligned outcomes:** ST2‑DDT‑02, AC9TDI4P02
+**Aligned outcomes:** ST2‑DDT‑02
 
 ---
 
@@ -13,162 +15,98 @@
 ### Multiple‑Choice (1 mark each)
 
 **Q1**  
-_What is an algorithm?_
+_What is an algorithm used for?_
 
-- [ ] A. A cooking recipe
-- [ ] B. A step-by-step instruction to solve a problem
-- [ ] C. A type of game
-- [ ] D. A musical instrument
+- [ ] A. To draw pictures
+- [ ] B. To do random actions
+- [ ] C. To solve a problem or do a task
+- [ ] D. To measure things
 
-> **Correct answer:** B
+> **Correct answer:** C
 
 **Q2**  
-_Which block do you use to repeat actions in coding?_
+_Which part helps the code decide what to do?_
 
-- [ ] A. Start
-- [ ] B. End
-- [ ] C. Repeat loop
-- [ ] D. Skip
+- [ ] A. List
+- [ ] B. Branch
+- [ ] C. Loop
+- [ ] D. Start
 
-> **Correct answer:** C
+> **Correct answer:** B
 
 **Q3**  
-_What is the purpose of a branching statement in an algorithm?_
+_What does a 'repeat until' loop do?_
 
-- [ ] A. To loop endlessly
-- [ ] B. To choose paths based on conditions
-- [ ] C. To stop the program
-- [ ] D. To store information
-
-> **Correct answer:** B
-
-**Q6**  
-_Which of these best describes a user interface (UI)?_
-
-- [ ] A. It protects the computer
-- [ ] B. It's how users interact with a program
-- [ ] C. It calculates data
-- [ ] D. It's a game feature
+- [ ] A. Keeps going forever
+- [ ] B. Stops when something is true
+- [ ] C. Goes once and stops
+- [ ] D. Skips a step
 
 > **Correct answer:** B
-
-**Q7**  
-_What happens inside a 'repeat until' loop?_
-
-- [ ] A. The loop stops immediately
-- [ ] B. It repeats until a condition is met
-- [ ] C. It runs forever
-- [ ] D. It executes only once
-
-> **Correct answer:** B
-
----
-
-### Multiple‑Choice (2 marks each)
 
 **Q4**  
-\*In a traffic lights simulation, which of the following uses branching logic? **Choose TWO\***
+_Which image shows steps in order?_
 
-- [ ] A. Red light
-- [ ] B. Green light
-- [ ] C. If the button is pressed, change light
-- [ ] D. Change light every five minutes
+- [ ] A. [Image of straight arrow]
+- [ ] B. [Image of branching path]
+- [ ] C. [Image of a circle]
+- [ ] D. [Image of random shapes]
 
-> **Correct answers:** C & D
+> **Correct answer:** A
+- **Suggested Image:** Simple straight arrow
 
 **Q5**  
-\*Which blocks are used for decision-making in coding? **Choose TWO\***
+_How does a branching statement help?_
 
-- [ ] A. Move forward
-- [ ] B. If block
-- [ ] C. Jump
-- [ ] D. Else block
-
-> **Correct answers:** B & D
-
-**Q8**  
-\*Select the statements that best describe iteration. **Choose TWO\***
-
-- [ ] A. Execute once
-- [ ] B. Repeat a sequence
-- [ ] C. Conditional choice
-- [ ] D. Loop a number of times
-
-> **Correct answers:** B & D
-
-**Q9**  
-\*How can a user interface be improved? **Choose TWO\***
-
-- [ ] A. Add more icons randomly
-- [ ] B. Simplify navigation
-- [ ] C. Increase color contrast
-- [ ] D. Hide important buttons
-
-> **Correct answers:** B & C
-
-**Q10**  
-_What feature helps algorithms decide actions?_
-
-- [ ] A. Loops
-- [ ] B. Events
-- [ ] C. Conditions
-- [ ] D. Animations
+- [ ] A. It stops everything
+- [ ] B. It repeats actions
+- [ ] C. It helps make choices
+- [ ] D. It starts again
 
 > **Correct answer:** C
 
----
+#### Open‑Answer (2 marks each)
 
-### ✍️ Short‑Answer (1 mark each)
+**Q6** – _Why are loops helpful in coding?_
 
-**Q11** – _Name one benefit of using repeat loops in coding._
+> **Model answer:** Loops let you do the same action many times without repeating the code, making it shorter and easier to read.
 
-> **Model answer:** Simplifies code by reducing repetition.
+**Q7** – _Write a simple plan using a 'repeat until' loop to turn on a light until it’s bright outside._
 
----
+> **Model answer:** 
+1. Check if it’s bright.
+2. If not bright, keep the light on.
+3. Repeat until it is bright.
+   - **Mark breakdown:** 1 mark for plan structure, 1 mark for logical steps.
 
-**Q12** – _How does branching logic enhance a program?_
+**Q8** – _Give an example of when you might use a branching decision._
 
-> **Model answer:** It allows different outcomes based on conditions.
+> **Model answer:** Deciding if a username and password are correct before logging in.
 
----
+**Q9** – _What does an 'if' statement do in a program?_
 
-**Q13** – _Explain one way to make a user interface more user-friendly._
+> **Model answer:** It checks if something is true and decides what happens next in the program.
 
-> **Model answer:** Use clear labels and intuitive navigation.
+**Q10** – _How do block coding and writing code look different for loops?_
 
----
-
-**Q14** – _Describe a condition you could use in a temperature control system._
-
-> **Model answer:** If the temperature exceeds 25°C, turn on the fan.
-
----
-
-**Q15** – _Why is testing important in designing algorithms?_
-
-> **Model answer:** Ensures the algorithm works correctly and meets requirements.
+> **Model answer:** Block coding uses pictures and blocks, while writing code uses words and symbols.
 
 ---
 
 ## ✅ Answer Key & Marks Breakdown
 
-| Q   | Answer(s)                                       | Marks | Outcome    | Content Descriptor                   |
-| --- | ----------------------------------------------- | ----: | ---------- | ------------------------------------ |
-| 1   | B                                               |     1 | AC9TDI4P02 | Design algorithms                    |
-| 2   | C                                               |     1 | AC9TDI4P04 | Implement control structures         |
-| 3   | B                                               |     1 | AC9TDI4P02 | Use comparison operators (branching) |
-| 4   | C, D                                            |     2 | AC9TDI4P02 | Implement branching in simulations   |
-| 5   | B, D                                            |     2 | AC9TDI4P02 | Decision-making in algorithms        |
-| 6   | B                                               |     1 | VC2TDI4C03 | User interface design                |
-| 7   | B                                               |     1 | ST2-DDT-02 | Looping logic                        |
-| 8   | B, D                                            |     2 | AC9TDI4P02 | Iteration and loops                  |
-| 9   | B, C                                            |     2 | VC2TDI4C03 | Enhance user interface usability     |
-| 10  | C                                               |     1 | ST2-DDT-02 | Conditional algorithms               |
-| 11  | Simplifies code                                 |     1 | ST2-DDT-02 | Use of loops                         |
-| 12  | Different conditions allow outcomes             |     1 | AC9TDI4P02 | Branching logic                      |
-| 13  | Clear labels and easy navigation                |     1 | VC2TDI4C03 | User interface improvements          |
-| 14  | Temperature control condition                   |     1 | ST2-DDT-02 | Conditional logic                    |
-| 15  | Ensures algorithm functions correctly           |     1 | AC9TDI4P02 | Testing and debugging algorithms     |
+| Q   | Answer(s)                                  | Marks | Outcome     | Content Descriptor                           |
+| --- | ------------------------------------------ | ----: | ----------- | --------------------------------------------- |
+| 1   | C                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 2   | B                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 3   | B                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 4   | A                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 5   | C                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 6   | Loops make it easier to repeat actions     |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 7   | Repeat until bright: light stays on        |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 8   | Password check                             |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 9   | 'If' checks what's true                    |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| 10  | Blocks vs. written words                   |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
 
 ---
 
