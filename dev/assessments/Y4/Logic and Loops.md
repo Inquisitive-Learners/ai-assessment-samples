@@ -1,12 +1,14 @@
-Thank you for the feedback. I'll adjust the assessment with the specified requirements.
+Certainly! I'll adjust the assessment to ensure compliance with your requirements.
+
+---
 
 # Year 4 Science & Technology Assessment — **Logic and Loops**
 
 **Total marks:** 20  
 **Format:** 15 questions  
- • 10 multiple‑choice (1 mark) • 5 open‑answer (2 marks)  
+ • 10 multiple‑choice (1 mark) • 5 short‑answer (2 marks each)  
 **Syllabus:** NSW 2024  
-**Aligned outcomes:** ST2‑DDT‑02
+**Aligned outcomes:** ST2-DDT-02  
 
 ---
 
@@ -15,98 +17,168 @@ Thank you for the feedback. I'll adjust the assessment with the specified requir
 ### Multiple‑Choice (1 mark each)
 
 **Q1**  
-_What is an algorithm used for?_
+_What is an algorithm?_
 
-- [ ] A. To draw pictures
-- [ ] B. To do random actions
-- [ ] C. To solve a problem or do a task
-- [ ] D. To measure things
+- [ ] A. A random sequence of numbers
+- [ ] B. A step-by-step set of instructions
+- [ ] C. A type of food
+- [ ] D. A character in a book
 
-> **Correct answer:** C
+> **Correct answer:** B
 
 **Q2**  
-_Which part helps the code decide what to do?_
+_What does the "Repeat" block do in coding?_
 
-- [ ] A. List
-- [ ] B. Branch
-- [ ] C. Loop
-- [ ] D. Start
+- [ ] A. Stops the program
+- [ ] B. Repeats instructions a certain number of times
+- [ ] C. Erases previous steps
+- [ ] D. Changes the text color
 
 > **Correct answer:** B
 
 **Q3**  
-_What does a 'repeat until' loop do?_
+_Which block helps make decisions in coding?_
 
-- [ ] A. Keeps going forever
-- [ ] B. Stops when something is true
-- [ ] C. Goes once and stops
-- [ ] D. Skips a step
-
-> **Correct answer:** B
-
-**Q4**  
-_Which image shows steps in order?_
-
-- [ ] A. [Image of straight arrow]
-- [ ] B. [Image of branching path]
-- [ ] C. [Image of a circle]
-- [ ] D. [Image of random shapes]
-
-> **Correct answer:** A
-- **Suggested Image:** Simple straight arrow
-
-**Q5**  
-_How does a branching statement help?_
-
-- [ ] A. It stops everything
-- [ ] B. It repeats actions
-- [ ] C. It helps make choices
-- [ ] D. It starts again
+- [ ] A. Repeat
+- [ ] B. Loop
+- [ ] C. If
+- [ ] D. Start
 
 > **Correct answer:** C
 
-#### Open‑Answer (2 marks each)
+**Q4**  
+_What happens if an algorithm's steps are out of order?_
 
-**Q6** – _Why are loops helpful in coding?_
+- [ ] A. The task might not work properly
+- [ ] B. The blocks turn red
+- [ ] C. The code fixes itself
+- [ ] D. Nothing changes
 
-> **Model answer:** Loops let you do the same action many times without repeating the code, making it shorter and easier to read.
+> **Correct answer:** A
 
-**Q7** – _Write a simple plan using a 'repeat until' loop to turn on a light until it’s bright outside._
+**Q5**  
+_What symbol often shows a condition with a yes or no answer?_
 
-> **Model answer:** 
-1. Check if it’s bright.
-2. If not bright, keep the light on.
-3. Repeat until it is bright.
-   - **Mark breakdown:** 1 mark for plan structure, 1 mark for logical steps.
+- [ ] A. Circle
+- [ ] B. Square
+- [ ] C. Star
+- [ ] D. Question mark
 
-**Q8** – _Give an example of when you might use a branching decision._
+> **Correct answer:** D
 
-> **Model answer:** Deciding if a username and password are correct before logging in.
+**Q6**  
+_What is the purpose of a nested repeat block?_
 
-**Q9** – _What does an 'if' statement do in a program?_
+- [ ] A. To stop all repeats
+- [ ] B. To make complex instructions simpler
+- [ ] C. To enlarge blocks
+- [ ] D. To remove mistakes
 
-> **Model answer:** It checks if something is true and decides what happens next in the program.
+> **Correct answer:** B
 
-**Q10** – _How do block coding and writing code look different for loops?_
+**Q7**  
+_Which of these is a visual programming language we used?_
 
-> **Model answer:** Block coding uses pictures and blocks, while writing code uses words and symbols.
+- [ ] A. Python
+- [ ] B. Blockly
+- [ ] C. Java
+- [ ] D. HTML
+
+> **Correct answer:** B
+
+**Q8**  
+_How does a "Repeat until" block work?_
+
+- [ ] A. It goes on forever
+- [ ] B. It repeats until a condition is met
+- [ ] C. It stops everything
+- [ ] D. It changes the background color
+
+> **Correct answer:** B
+
+**Q9**  
+_What does branching mean in coding?_
+
+- [ ] A. Going backwards in code
+- [ ] B. Making choices using conditions
+- [ ] C. Coloring blocks
+- [ ] D. Repeating everything
+
+> **Correct answer:** B
+
+**Q10**  
+_Why do we use loops in our programs?_
+
+- [ ] A. To store information
+- [ ] B. To repeat tasks easily
+- [ ] C. To insert pictures
+- [ ] D. To print documents
+
+> **Correct answer:** B
+
+---
+
+### ✍️ Short‑Answer (2 marks each)
+
+**Q11**  
+_How can an algorithm help you solve problems?_
+
+> **Model answer:** An algorithm breaks a big problem into smaller steps, making it easier to solve.  
+> **(1 mark for breaking down, 1 mark for solving easier)**
+
+---
+
+**Q12**  
+_What role do "if" blocks play in decisions in code?_
+
+> **Model answer:** "If" blocks check conditions and decide what happens based on whether the condition is true or false.  
+> **(1 mark for checking conditions, 1 mark for decision-making)**
+
+---
+
+**Q13**  
+_Describe a time you could use a "Repeat until" block outside the computer._
+
+> **Model answer:** Use a "Repeat until" block to keep brushing your teeth until a timer rings.  
+> **(1 mark for real-world example, 1 mark for application)**
+
+---
+
+**Q14**  
+_Why might using blocks be easier for kids who are beginning to code?_
+
+> **Model answer:** Blocks are easier because you can drag and drop them and see how the code looks visually.  
+> **(1 mark for drag-and-drop, 1 mark for visual aids)**
+
+---
+
+**Q15**  
+_What happens when you use multiple loops inside each other (nested loops)?_
+
+> **Model answer:** Nested loops help repeat more complicated tasks, making the code shorter and handling patterns better.  
+> **(1 mark for repeating tasks, 1 mark for patterns)**
 
 ---
 
 ## ✅ Answer Key & Marks Breakdown
 
-| Q   | Answer(s)                                  | Marks | Outcome     | Content Descriptor                           |
-| --- | ------------------------------------------ | ----: | ----------- | --------------------------------------------- |
-| 1   | C                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 2   | B                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 3   | B                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 4   | A                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 5   | C                                          |     1 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 6   | Loops make it easier to repeat actions     |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 7   | Repeat until bright: light stays on        |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 8   | Password check                             |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 9   | 'If' checks what's true                    |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
-| 10  | Blocks vs. written words                   |     2 | ST2‑DDT‑02  | Design algorithms that use branching and iteration to document and program a procedure |
+| Q   | Answer(s)                      | Marks | Outcome   | Content Descriptor                               | Cognitive Level          |
+| --- | ------------------------------ | ----: | --------- | ----------------------------------- | ------------------------ |
+| 1   | B                              |     1 | ST2-DDT-02 | Design algorithms                       | Knowledge                |
+| 2   | B                              |     1 | ST2-DDT-02 | Design algorithms                       | Knowledge                |
+| 3   | C                              |     1 | ST2-DDT-02 | Design algorithms                       | Knowledge                |
+| 4   | A                              |     1 | ST2-DDT-02 | Design algorithms                       | Understanding            |
+| 5   | D                              |     1 | ST2-DDT-02 | Design algorithms                       | Knowledge                |
+| 6   | B                              |     1 | ST2-DDT-02 | Design algorithms                       | Knowledge                |
+| 7   | B                              |     1 | ST2-DDT-02 | Design algorithms                       | Knowledge                |
+| 8   | B                              |     1 | ST2-DDT-02 | Design algorithms                       | Understanding            |
+| 9   | B                              |     1 | ST2-DDT-02 | Design algorithms                       | Understanding            |
+| 10  | B                              |     1 | ST2-DDT-02 | Design algorithms                       | Understanding            |
+| 11  | Step-by-step helps solve         |     2 | ST2-DDT-02 | Design algorithms                       | Skills                   |
+| 12  | Checks conditions & decisions     |     2 | ST2-DDT-02 | Design algorithms                       | Understanding            |
+| 13  | Real examples of "Repeat until"  |     2 | ST2-DDT-02 | Design algorithms                       | Skills                   |
+| 14  | Easy blocks for beginners       |     2 | ST2-DDT-02 | Design algorithms                       | Understanding            |
+| 15  | Patterns with nested loops      |     2 | ST2-DDT-02 | Design algorithms                       | Skills                   |
 
 ---
 
