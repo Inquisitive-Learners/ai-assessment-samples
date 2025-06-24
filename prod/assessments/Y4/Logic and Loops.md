@@ -1,12 +1,10 @@
-Certainly! Let's adjust the assessment accordingly:
+Thank you for pointing that out. I’ll revise the assessment to ensure alignment with the provided content descriptors and adjust the language to be suitable for Year 4 students.
 
----
-
-# Year 4 Science & Technology Assessment — **Logic and Loops**
+# Year 4 Science & Technology Assessment — Logic and Loops
 
 **Total marks:** 20  
 **Format:** 15 questions  
- • 10 multiple‑choice (1 mark) • 5 open-answer (2 marks)  
+ • 10 multiple‑choice (1 mark) • 5 short‑answer (2 marks)  
 **Syllabus:** NSW 2024  
 **Aligned outcomes:** ST2‑DDT‑02
 
@@ -17,163 +15,163 @@ Certainly! Let's adjust the assessment accordingly:
 ### Multiple‑Choice (1 mark each)
 
 **Q1**  
-_What is an algorithm?_
+_What is an algorithm used for?_
 
-- [ ] A. A game level
-- [ ] B. A type of pasta
-- [ ] C. A step-by-step set of instructions
-- [ ] D. An error message
+- [ ] A. Solving math problems
+- [ ] B. Drawing pictures
+- [ ] C. Doing a task step-by-step
+- [ ] D. Making music
 
 > **Correct answer:** C
 
 **Q2**  
-_Why do we use loops in coding?_
+_What is a loop in programming?_
 
-- [ ] A. To save pictures
-- [ ] B. To repeat actions easily
-- [ ] C. To stop programs
-- [ ] D. To draw lines
+- [ ] A. It stops after one time
+- [ ] B. It repeats until something happens
+- [ ] C. It runs only once
+- [ ] D. It deletes data
 
 > **Correct answer:** B
 
 **Q3**  
-_Which block helps in making choices in coding?_
+_What does a branching statement do?_
 
-- [ ] A. Repeat
-- [ ] B. If
-- [ ] C. Start
-- [ ] D. Move Forward
+- [ ] A. Adds color to the code
+- [ ] B. Repeats actions
+- [ ] C. Chooses what to do based on conditions
+- [ ] D. Plays sound
+
+> **Correct answer:** C
+
+**Q4**  
+_Which of these is an example of doing something again and again?_
+
+- [ ] A. Turning left once
+- [ ] B. Checking a list once
+- [ ] C. Walking a route and stopping
+- [ ] D. Running in a circle over and over
+
+> **Correct answer:** D
+
+**Q5**  
+_What is a 'repeat until' loop?_
+
+- [ ] A. A loop that goes on forever
+- [ ] B. A loop that stops when something is true
+- [ ] C. A loop that never repeats
+- [ ] D. A loop that pauses the program
 
 > **Correct answer:** B
 
-**Q4**  
-_What happens if you don't follow the right order in an algorithm?_
-
-- [ ] A. It works fine
-- [ ] B. Stops suddenly
-- [ ] C. Acts unexpectedly
-- [ ] D. Fixes itself
-
-> **Correct answer:** C
-
-**Q5**  
-_What does 'branching' mean in an algorithm?_
-
-- [ ] A. A repeat thing
-- [ ] B. A mistake
-- [ ] C. A choice point
-- [ ] D. A happy song
-
-> **Correct answer:** C
-
 **Q6**  
-_Which one stops when something happens?_
+_When does a robot stop using a 'repeat until' loop?_
 
-- [ ] A. Loop
-- [ ] B. If Block
-- [ ] C. Repeat Until
-- [ ] D. End
+- [ ] A. When it overheats
+- [ ] B. When the condition is not true
+- [ ] C. When the condition is true
+- [ ] D. When it loses power
 
 > **Correct answer:** C
 
 **Q7**  
-_How do loops help in coding?_
+_Which of these uses a decision in coding?_
 
-- [ ] A. Make code longer
-- [ ] B. Do tasks multiple times
-- [ ] C. Cause more mistakes
-- [ ] D. Remove colors
+- [ ] A. Always turning right
+- [ ] B. Walking straight
+- [ ] C. If it's raining, wear a raincoat
+- [ ] D. Singing a song
 
-> **Correct answer:** B
+> **Correct answer:** C
 
 **Q8**  
-_What is one way to make an app easier to use?_
+_What does a good user interface have?_
 
-- [ ] A. Add more buttons
-- [ ] B. Keep it simple
-- [ ] C. Use small text
-- [ ] D. Use all capital letters
+- [ ] A. Complicated designs
+- [ ] B. Easy-to-use buttons
+- [ ] C. Random colors everywhere
+- [ ] D. Only text
 
 > **Correct answer:** B
 
 **Q9**  
-_Which is a loop in everyday life?_
+_What helps avoid writing the same code again and again?_
 
-- [ ] A. Brushing once
-- [ ] B. Running five laps
-- [ ] C. Eating breakfast
-- [ ] D. Turning the light on
+- [ ] A. Variables
+- [ ] B. Comments
+- [ ] C. The 'If' block
+- [ ] D. The 'Repeat' block
 
-> **Correct answer:** B
+> **Correct answer:** D
 
 **Q10**  
-_What is good about using 'If, Else If, Else' in coding?_
+_What makes a phone app easy to use?_
 
-- [ ] A. Makes it harder
-- [ ] B. Helps make decisions
-- [ ] C. Deletes programs
-- [ ] D. Repeats codes forever
+- [ ] A. High battery use
+- [ ] B. Tiny text
+- [ ] C. Bright colors only
+- [ ] D. Easy to read and use
 
-> **Correct answer:** B
-
----
-
-### ✍️ Open‑Answer (2 marks each)
-
-**Q11** – _How do algorithms help solve problems better?_
-
-> **Model answer:** They give clear steps to follow, which helps avoid mistakes and saves time.  
-> **Mark breakdown:** Clarity in explanation (1), relevance to problem-solving (1)
+> **Correct answer:** D
 
 ---
 
-**Q12** – _Explain how you could use a 'repeat until' in a game._
+### ✍️ Short‑Answer (2 marks each)
 
-> **Model answer:** It can move characters forward until they reach a finish line or an obstacle.  
-> **Mark breakdown:** Correct use (1), application in gaming (1)
+**Q11** – _Explain how loops work in algorithms._
 
----
-
-**Q13** – _Why is it important for apps to have a nice design?_
-
-> **Model answer:** A good design helps users find things easily and makes the app fun to use.  
-> **Mark breakdown:** Ease of use (1), fun factor (1)
+> **Model answer:** Loops keep doing an action until a certain thing happens.
+> **Mark breakdown:** Explanation (1 mark), Example (1 mark)
 
 ---
 
-**Q14** – _Give an example of where branching might be used._
+**Q12** – _Describe a time in Rapid Router when you would use a 'repeat until' loop._
 
-> **Model answer:** In a cooking app, branching can show different recipes based on the ingredients you choose.  
-> **Mark breakdown:** Practical example (1), correct use of branching (1)
+> **Model answer:** When delivering mail until reaching the destination.
+> **Mark breakdown:** Scenario (1 mark), Explanation (1 mark)
 
 ---
 
-**Q15** – _Why are loops useful in programming?_
+**Q13** – _How do branching statements help a robot move?_
 
-> **Model answer:** Loops help repeat actions many times without writing the same code again and again.  
-> **Mark breakdown:** Explanation of efficiency (1), ease of use (1)
+> **Model answer:** They let the robot make choices, like turning when there’s an obstacle.
+> **Mark breakdown:** Explanation of branching (1 mark), Example (1 mark)
+
+---
+
+**Q14** – _What can make using an app on a phone hard?_
+
+> **Model answer:** Small buttons and hard-to-read text.
+> **Mark breakdown:** Identifying issue (1 mark), Explanation (1 mark)
+
+---
+
+**Q15** – _Why are loops useful in coding?_
+
+> **Model answer:** They save time by repeating actions without extra code.
+> **Mark breakdown:** Explanation (1 mark), Benefit (1 mark)
 
 ---
 
 ## ✅ Answer Key & Marks Breakdown
 
-| Q   | Answer(s)                      | Marks | Outcome    | Content Descriptor             | Cognitive Level   |
-| --- | ------------------------------ | ----: | ---------- | ------------------------------ | ----------------- |
-| 1   | C                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Knowledge         |
-| 2   | B                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Knowledge         |
-| 3   | B                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Understanding     |
-| 4   | C                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Understanding     |
-| 5   | C                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Knowledge         |
-| 6   | C                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Understanding     |
-| 7   | B                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Understanding     |
-| 8   | B                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Understanding     |
-| 9   | B                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Scientific Skills |
-| 10  | B                              |     1 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Scientific Skills |
-| 11  | Efficient problem solving      |     2 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Understanding     |
-| 12  | Game level application         |     2 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Understanding     |
-| 13  | Importance of UI               |     2 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Scientific Skills |
-| 14  | Example of branching           |     2 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Scientific Skills |
-| 15  | Loops and efficiency           |     2 | ST2‑DDT‑02 | Design algorithms that use branching and iteration to document and program a procedure | Scientific Skills |
+| Q   | Answer(s)                     | Marks | Outcome     | Content Descriptor                                                             | Cognitive Level    |
+| --- | ----------------------------- | ----: | ----------- | ------------------------------------------------------------------------------ | ------------------ |
+| 1   | C                             |     1 | ST2‑DDT‑02  | Define problems with algorithms                                                | Knowledge          |
+| 2   | B                             |     1 | ST2‑DDT‑02  | Follow and describe algorithms involving iteration                             | Knowledge          |
+| 3   | C                             |     1 | ST2‑DDT‑02  | Design algorithms using branching                                              | Understanding      |
+| 4   | D                             |     1 | ST2‑DDT‑02  | Follow and describe algorithms involving sequencing and iteration               | Knowledge          |
+| 5   | B                             |     1 | ST2‑DDT‑02  | Implement simple algorithms as visual programs involving control structures    | Knowledge          |
+| 6   | C                             |     1 | ST2‑DDT‑02  | Implement and discuss solutions using algorithms                               | Understanding      |
+| 7   | C                             |     1 | ST2‑DDT‑02  | Design algorithms that use branching to make decisions                         | Understanding      |
+| 8   | B                             |     1 | ST2‑DDT‑02  | Discuss how user interface design impacts usability                            | Understanding      |
+| 9   | D                             |     1 | ST2‑DDT‑02  | Design algorithms that use iteration to simplify coding                        | Scientific Skills  |
+| 10  | D                             |     1 | ST2‑DDT‑02  | Implement design criteria for improving user interface on mobile devices       | Scientific Skills  |
+| 11  | Loops, example given          |     2 | ST2‑DDT‑02  | Implement algorithms using loops and discuss their function                    | Understanding      |
+| 12  | Scenario and explanation      |     2 | ST2‑DDT‑02  | Follow algorithms using 'repeat until' loop for specific tasks                 | Understanding      |
+| 13  | Explanation with example      |     2 | ST2‑DDT‑02  | Design and discuss solutions using branching in navigation                     | Scientific Skills  |
+| 14  | Issues and explanation        |     2 | ST2‑DDT‑02  | Define problems with user interface and evaluate solutions                     | Scientific Skills  |
+| 15  | Explanation and benefit       |     2 | ST2‑DDT‑02  | Generate and compare designs to illustrate the efficiency of loops in coding   | Scientific Skills  |
 
 ---
 
