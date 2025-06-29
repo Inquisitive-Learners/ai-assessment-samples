@@ -1,268 +1,311 @@
-Thank you for the reminder. The revised assessment and answer key below are fully aligned with your requirements:
+Thank you for your guidance. Below is the complete, fully revised assessment. I have:
 
-1. **All Content Descriptors use your exact wording** (as in your messages above—no paraphrasing or invention).
-2. **All vocabulary is checked and simplified** for clarity and Year 6 accessibility.
-3. The **assessment is complete, ordered by Content Descriptor**, and all tables/marking sections are updated for you to use directly.
+- Used exactly the official wording for each Content Descriptor in the answer key, **without alteration**.
+- Carefully simplified and clarified the vocabulary in all questions for Year 6 accessibility.
+- Retained clear assessment formatting as per your template.
 
 ---
 
-# Year 6 Science & Technology Assessment
-
+# Year 6 Science & Technology Assessment  
 **Unit:** Exploring Beyond Our Solar System  
-**Total marks:** 30  
-**Format:** 20 questions (10 multiple-choice, 5 short-answer, 3 extended response)  
-**Aligned outcomes:** ST3‑SCI‑01, ST3‑CWT‑01
+**Total marks:** 30  
+**Format:** 20 questions (10 multiple‑choice, 5 short‑answer, 3 extended response)  
+**Aligned outcomes:** ST3‑SCI‑01, ST3‑DAT‑01, ST3‑CWT‑01
 
 ---
 
-## 🌟 Grouped by Content Descriptor
-
----
+## 🌌 Grouped by Content Descriptor
 
 ### 1. Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system  
-<sub>(Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system – ST3‑SCI‑01)</sub>
+<sub>(ST3‑SCI‑01 — 5 marks)</sub>
 
-**Q1 (1 mark, Multiple Choice)**  
-_Which of these is a nebula?_
+**Q1 (1 mark, Multiple Choice)**  
+_Which of these is found outside our solar system?_
 
-- [ ] A. A giant group of stars held together by gravity
-- [ ] B. A cloud of gas and dust where new stars can form
-- [ ] C. A planet outside our solar system
-- [ ] D. A black hole
-
-(Suggest image for B: Pillars of Creation, Eagle Nebula)
+- [ ] A. The Moon
+- [ ] B. Mars
+- [ ] C. The Andromeda Galaxy
+- [ ] D. The Sun
 
 ---
 
-**Q2 (1 mark, Multiple Choice)**  
-_Which image shows a galaxy?_
+**Q2 (1 mark, Multiple Choice—Image-based)**  
+_Which picture shows a nebula?_
 
-_Image options: spiral galaxy (correct), exoplanet, nebula, black hole_
+- [ ] A. ![A](Nebula image: colourful gas clouds)
+- [ ] B. ![B](Spiral galaxy)
+- [ ] C. ![C](Space probe)
+- [ ] D. ![D](Rocky planet)
 
-(Suggest image: Spiral galaxy such as the Milky Way)
-
----
-
-**Q3 (1 mark, Multiple Choice)**  
-_What is usually found in the centre of many galaxies?_
-
-- [ ] A. A nebula  
-- [ ] B. A black hole  
-- [ ] C. The Sun  
-- [ ] D. An exoplanet  
+_Suggested: Use NASA Pillars of Creation/Horsehead Nebula as the nebula image._
 
 ---
 
-**Q4 (1 mark, Multiple Choice)**  
+**Q3 (1 mark, Multiple Choice)**  
+_What is a black hole?_
+
+- [ ] A. A very big star that is still shining
+- [ ] B. A place where gravity is so strong that not even light can escape
+- [ ] C. A large rocky planet with no air
+- [ ] D. A cloud of gas and dust
+
+---
+
+**Q4 (2 marks, Short Answer)**  
+_Write two ways that a star is different from a planet. How can you tell them apart when you look at the night sky?_
+
+---
+
+**Q5 (1 mark, Multiple Choice)**  
 _What is an exoplanet?_
 
-- [ ] A. A planet in our solar system  
-- [ ] B. A planet that orbits a star outside our solar system  
-- [ ] C. A small star  
-- [ ] D. A kind of space rock  
-
----
-
-**Q5 (2 marks, Short Answer)**  
-_Name and describe two different astronomical features that exist beyond our solar system. Explain why one is important._
+- [ ] A. A planet in our solar system
+- [ ] B. A planet that goes around a star outside our solar system
+- [ ] C. A tiny moon
+- [ ] D. A black hole's centre
 
 ---
 
 ### 2. Research how living things can travel and survive in space  
-<sub>(Research how living things can travel and survive in space – ST3‑SCI‑01)</sub>
+<sub>(ST3‑SCI‑01 — 6 marks)</sub>
 
-**Q6 (1 mark, Multiple Choice)**  
-_Why do astronauts wear special suits outside their spacecraft?_
+**Q6 (1 mark, Multiple Choice)**  
+_Why do astronauts recycle water on the space station?_
 
-- [ ] A. To look cool  
-- [ ] B. To protect them from no air and extreme temperatures
-- [ ] C. To hold their tools  
-- [ ] D. To see better in space  
-
----
-
-**Q7 (1 mark, Multiple Choice)**  
-_What is one challenge living things face in space?_
-
-- [ ] A. Too much food  
-- [ ] B. No gravity to keep them on the floor  
-- [ ] C. Too dark  
-- [ ] D. Too many visitors  
+- [ ] A. Because water floats away
+- [ ] B. Because there is not much water in space
+- [ ] C. For fun
+- [ ] D. Because water is too hot in space
 
 ---
 
-**Q8 (2 marks, Short Answer)**  
-_Describe one health problem astronauts might have after coming back from space and how they try to stop it from happening._
+**Q7 (2 marks, Short Answer)**  
+_List two challenges astronauts face in space and explain how scientists solve each problem._
 
 ---
 
-**Q9 (1 mark, Multiple Choice)**  
-_Why do astronauts exercise every day in space?_
+**Q8 (1 mark, Multiple Choice)**  
+_Which animal has NOT gone to space?_
 
-- [ ] A. For fun  
-- [ ] B. To keep their muscles and bones strong  
-- [ ] C. To win races  
-- [ ] D. To see the space station  
+- [ ] A. Dog
+- [ ] B. Jellyfish
+- [ ] C. Cat
+- [ ] D. Mouse
 
 ---
 
-**Q10 (2 marks, Short Answer)**  
-_Choose one everyday activity (like eating, sleeping, or brushing your teeth). Explain how it is done differently in space and why it needs to be done that way._
+**Q9 (2 marks, Short Answer)**  
+_Choose one everyday activity (eating, drinking, sleeping, brushing teeth). Describe how it is done differently in space and explain why._
+
+---
+
+**Q10 (1 mark, Multiple Choice)**  
+_Why do astronauts need to exercise in space?_
+
+- [ ] A. To make new friends
+- [ ] B. To keep bones and muscles healthy in microgravity
+- [ ] C. For fun
+- [ ] D. To race each other
 
 ---
 
 ### 3. Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind  
-<sub>(Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind – ST3‑SCI‑01)</sub>
+<sub>(ST3‑DAT‑01 — 5 marks)</sub>
 
-**Q11 (1 mark, Multiple Choice)**  
-_Which technology was first used for space exploration and is now used by people on Earth?_
+**Q11 (1 mark, Multiple Choice)**  
+_What is one reason the James Webb Space Telescope is important?_
 
-- [ ] A. Cordless vacuum cleaner  
-- [ ] B. Mountain bike  
-- [ ] C. Skateboard  
-- [ ] D. MP3 player  
+- [ ] A. It cooks food for astronauts
+- [ ] B. It helps us study faraway galaxies and exoplanets
+- [ ] C. It is a fast rocket
+- [ ] D. It studies volcanoes on Earth
 
 ---
 
-**Q12 (1 mark, Multiple Choice, select two)**  
-_Which TWO items below are ways space technology helps people on Earth?_  
+**Q12 (2 marks, Short Answer)**  
+_Choose one space technology (like GPS, memory foam, or solar panels). Explain how it is used in space and one way it is helpful to people on Earth._
+
+---
+
+**Q13 (1 mark, Multiple Choice—Image-based)**  
+_Which picture shows a discovery made with a space probe?_
+
+- [ ] A. Close-up of the Moon with craters
+- [ ] B. Astronauts floating
+- [ ] C. Aboriginal star picture
+- [ ] D. Plastic rocket model
+
+---
+
+**Q14 (1 mark, Multiple Choice)**  
+_Which TWO of these things were invented for space and are now used on Earth? (Select two answers)_
+
 - [ ] A. GPS
-- [ ] B. Space suit
-- [ ] C. Solar panels
-- [ ] D. Rocket fuel
+- [ ] B. Black hole detectors
+- [ ] C. Memory foam
+- [ ] D. Petrol stations
 
 ---
 
-**Q13 (2 marks, Short Answer)**  
-_Explain how tools like the Hubble Space Telescope or James Webb Space Telescope have changed what we know about space. Give one fact as evidence._
-
----
-
-**Q14 (2 marks, Short Answer)**  
-_Scientists took the first picture of a black hole using special telescopes. How did this help scientists, and what fact did the photo show?_
+**Q15 (2 marks, Short Answer)**  
+_Describe one major discovery we learned in this unit. Name the technology (like a space probe or telescope) that helped make the discovery, and what we learned from it._
 
 ---
 
 ### 4. Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding  
-<sub>(Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding – ST3‑SCI‑01)</sub>
+<sub>(ST3‑SCI‑01 — 4 marks)</sub>
 
-**Q15 (1 mark, Multiple Choice)**  
-_Aboriginal and Torres Strait Islander Peoples use star maps to:_
+**Q16 (1 mark, Multiple Choice)**  
+_What is one way that Aboriginal and Torres Strait Islander Peoples use star maps?_
 
-- [ ] A. Plan parties  
-- [ ] B. Travel across Country  
-- [ ] C. Draw pictures  
-- [ ] D. Play night games  
-
----
-
-**Q16 (1 mark, Multiple Choice)**  
-_Why do some Aboriginal star maps look like modern highways?_
-
-- [ ] A. Modern roads were built along traditional star paths  
-- [ ] B. So cars can look at the stars  
-- [ ] C. For fun  
-- [ ] D. By accident  
+- [ ] A. Only for art
+- [ ] B. To help travel across Country
+- [ ] C. For planting flowers
+- [ ] D. To see the Moon
 
 ---
 
-**Q17 (2 marks, Short Answer)**  
-_Explain two ways Aboriginal and Torres Strait Islander Peoples use the Sun, Moon or stars to help with navigation or understanding Country._
+**Q17 (2 marks, Short Answer)**  
+_Explain how Aboriginal or Torres Strait Islander Peoples use the Sun or Moon to support travel or wayfinding._
+
+---
+
+**Q18 (1 mark, Multiple Choice—Image-based)**  
+_Which picture shows part of an Aboriginal or Torres Strait Islander star map?_
+
+- [ ] A. Emu in the Sky shape in the Milky Way
+- [ ] B. Large telescope
+- [ ] C. Rocket on a launchpad
+- [ ] D. Picture of the Sun
 
 ---
 
 ### 5. Use nominalisations to convey scientific and technological concepts and processes succinctly  
-<sub>(Use nominalisations to convey scientific and technological concepts and processes succinctly – ST3‑CWT‑01)</sub>
+<sub>(ST3‑CWT‑01 — 1 mark)</sub>
 
-**Q18 (1 mark, Multiple Choice)**  
-_Which sentence uses a science word (nominalisation)?_
+**Q19 (1 mark, Multiple Choice)**  
+_Which sentence uses a nominalisation and would be best in a science report?_
 
-- [ ] A. Scientists looked through telescopes at space.  
-- [ ] B. The discovery of new planets has changed science.  
-- [ ] C. I saw a big planet with my telescope.  
-- [ ] D. Science is fun!  
-
----
-
-### 6. Add authority to written texts by using data to support an evidence‑based explanation or argument  
-<sub>(Add authority to written texts by using data to support an evidence-based explanation or argument – ST3‑CWT‑01)</sub>
-
-**Q19 (1 mark, Multiple Choice)**  
-_What makes a science explanation more trustworthy?_
-
-- [ ] A. Telling a funny story  
-- [ ] B. Using data and evidence  
-- [ ] C. Using lots of adjectives  
-- [ ] D. Making up facts  
+- [ ] A. Astronauts found water on the Moon.
+- [ ] B. The discovery of water on the Moon changed how we see space.
+- [ ] C. The Moon is important.
+- [ ] D. An astronaut was excited to land on the Moon.
 
 ---
 
-### 7. Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept or investigation  
-<sub>(Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept or investigation – ST3‑CWT‑01)</sub>
+### 6. Add authority to written texts by using data to support an evidence-based explanation or argument; Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept or investigation; Acknowledge sources of information used in own texts  
+<sub>(ST3‑CWT‑01, ST3‑DAT‑01 — 5 marks)</sub>
 
-**Q20 (2 marks, Short Answer + Diagram)**  
-_Draw and label a simple diagram of a process or technology (like a rocket, telescope, or constellation). Write one sentence to explain how this helps people learn about space or Earth._
+**Q20 (3 marks, Extended Response/Diagram)**  
+_Draw and label a diagram to show either:_
+- _How a telescope works, **or**_
+- _How a rocket launches, **or**_
+- _How Aboriginal and Torres Strait Islander Peoples use the stars for navigation._
 
----
-
-## ✍️ Extended Response Questions — 10 marks total
-
----
-
-### ER1 (4 marks)  
-_Choose one Aboriginal or Torres Strait Islander star story or star map that you learned about. Explain how it helps people understand their journey, Country, or the seasons. Use a science word from the unit._
+_Write two sentences using scientific words and give at least one fact or data point you learned from the unit._
 
 ---
 
-### ER2 (3 marks)  
-_Astronauts face lots of challenges living in space. Name two problems they must solve. For each problem, describe a solution and include a fact or example._
+## ✍️ Extended Response Questions (Total: 10 marks)
+
+### ER1 (4 marks) — Aboriginal and Torres Strait Islander Knowledge & Scientific Explanation  
+_Choose one Aboriginal or Torres Strait Islander star story or star map you learned about in this unit. Explain how it helps people understand their journey, the land, or the seasons._
 
 ---
 
-### ER3 (3 marks)  
-_Imagine you have to explain what a **galaxy** is to a younger student. Write a short explanation. Draw and label a simple diagram to help them understand._
+### ER2 (3 marks) — Living in Space & Evidence-Based Explanation  
+_Choose two problems astronauts face in space. For each problem, explain how scientists solve it. Use facts or examples from your lessons._
 
 ---
 
-_End of questions._
+### ER3 (3 marks) — Astronomy & Multimodal Explanation  
+_Your friend asks you what a galaxy is and why galaxies help us understand the universe. Write a short explanation using a compound or complex sentence, and draw a labelled diagram to support your answer._
 
 ---
 
-## ✅ Answer Key
-
-| Q   | Answer/Model Answer                                                                                   | Mark breakdown              | Marks | Outcome      | Content Descriptor                                                                      | Cognitive Level           | Common Misconceptions                                   |
-| --- | ----------------------------------------------------------------------------------------------------- | --------------------------- | ----: | ----------- | --------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------- |
-| 1   | B                                                                                                     | -                           |     1 | ST3-SCI-01  | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Knowledge                | A is galaxy, C is exoplanet, D is black hole            |
-| 2   | Spiral galaxy image                                                                                   | -                           |     1 | ST3-SCI-01  | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Understanding            | Nebula/black hole images can be confused                |
-| 3   | B                                                                                                     | -                           |     1 | ST3-SCI-01  | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Understanding            | C is Sun; A or D plausible but not usual in centre      |
-| 4   | B                                                                                                     | -                           |     1 | ST3-SCI-01  | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Knowledge                | A is wrong—exo means outside                            |
-| 5   | Example: 1) Galaxy: a group of billions of stars, gas and dust; 2) Nebula: cloud of gas and dust where stars form. Nebulae are important because they create new stars. | Each ID=1, 1 for importance |     2 | ST3-SCI-01  | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Understanding            | -                                                     |
-| 6   | B                                                                                                     | -                           |     1 | ST3-SCI-01  | Research how living things can travel and survive in space                              | Knowledge                | Space suits are for survival, not just visuals           |
-| 7   | B                                                                                                     | -                           |     1 | ST3-SCI-01  | Research how living things can travel and survive in space                              | Understanding            | Gravity is a key challenge in space                    |
-| 8   | Example: Bones get weaker in space (microgravity); astronauts exercise to keep their bones strong.    | 1 problem, 1 solution       |     2 | ST3-SCI-01  | Research how living things can travel and survive in space                              | Understanding            | -                                                     |
-| 9   | B                                                                                                     | -                           |     1 | ST3-SCI-01  | Research how living things can travel and survive in space                              | Understanding            | Not just for fun                                       |
-| 10  | Example: Brushing teeth—astronauts use little water and swallow the toothpaste because water floats in space. | Difference=1, Reason=1       |     2 | ST3-SCI-01  | Research how living things can travel and survive in space                              | Understanding            | -                                                     |
-| 11  | A                                                                                                     | -                           |     1 | ST3-SCI-01  | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Knowledge                | Others are not space-derived                           |
-| 12  | A, C                                                                                                  | 1 each                      |     1 | ST3-SCI-01  | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Understanding            | B is only for space; D isn't widely used on Earth      |
-| 13  | Example: James Webb lets us see first galaxies after the Big Bang.                                    | Explanation=1, Fact=1       |     2 | ST3-SCI-01  | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Understanding            | -                                                     |
-| 14  | Example: The picture proved black holes really exist. It matched what scientists expected to see (a ring of light around a dark centre). | How=1, Fact=1               |     2 | ST3-SCI-01  | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Understanding            | -                                                     |
-| 15  | B                                                                                                     | -                           |     1 | ST3-SCI-01  | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Knowledge                | Main use is for travelling and navigation              |
-| 16  | A                                                                                                     | -                           |     1 | ST3-SCI-01  | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Understanding            | Shows traditional knowledge shapes modern roads        |
-| 17  | Example: 1) The Sun rising in the east helps tell direction; 2) The 'Emu in the Sky' star map tells when to collect eggs (season). | Each idea=1                 |     2 | ST3-SCI-01  | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Understanding            | -                                                     |
-| 18  | B                                                                                                     | -                           |     1 | ST3-CWT-01  | Use nominalisations to convey scientific and technological concepts and processes succinctly | Scientific Skills        | Nominalisation means using a noun like "discovery"     |
-| 19  | B                                                                                                     | -                           |     1 | ST3-CWT-01  | Add authority to written texts by using data to support an evidence-based explanation or argument | Scientific Skills        | Data makes arguments trustworthy                      |
-| 20  | Example: (diagram of telescope/rocket/constellation), sentence: "A telescope collects light so we can see far away stars and planets." | Diagram=1, Sentence=1       |     2 | ST3-CWT-01  | Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept or investigation | Scientific Skills        | -                                                     |
+_End of assessment._
 
 ---
 
-### Extended Response Model Answers & Marking
+## ✅ Multiple‑Choice & Short-Answer Model Solution Key
 
-| Q    | Model Answer Summary                                                                                                                   | Mark breakdown                           | Marks | Outcome      | Content Descriptor                                                                  | Cognitive Level           |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ----: | ----------- | ----------------------------------------------------------------------------------- | ------------------------- |
-| ER1  | (Sample) "Emu in the Sky" is a star pattern. It helps show when to collect emu eggs (season), and also helps people travel (navigation). This knowledge shows the connection to Country. | 1+ use=1, explain=1, science word=1       |     4 | ST3-SCI-01, ST3-CWT-01 | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Understanding             |
-| ER2  | Problem 1: No air—spacesuits supply air; Example: suits recycle air. Problem 2: Weak muscles—exercise machines help keep astronauts strong. | Each with solution+fact=1.5               |     3 | ST3-SCI-01 | Research how living things can travel and survive in space                        | Understanding/Skills      |
-| ER3  | Galaxy: A huge group of stars, gas and dust. Draws a spiral galaxy with labels ("stars," "arms," etc.).                              | Text=1, diagram=1, clear explanation=1     |     3 | ST3-CWT-01  | Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept or investigation | Understanding/Skills      |
+| Q   | Answer/Model                                                                                           | Marks | Outcome       | Content Descriptor                                                                                                         | Cognitive Level               | Common Misconceptions                                     |
+| --- | ------------------------------------------------------------------------------------------------------ | ----: | ------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------- |
+| 1   | C                                                                                                      |     1 | ST3‑SCI‑01    | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Knowledge                    | All others are local objects                              |
+| 2   | A (colourful gas cloud/nebula image)                                                                   |     1 | ST3‑SCI‑01    | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Understanding                | B: Galaxies sometimes confused for gas/dust; others wrong |
+| 3   | B                                                                                                      |     1 | ST3‑SCI‑01    | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Knowledge                    | Many students confuse stars with black holes               |
+| 4   | (See below: any two – Stars give own light, are hot balls of gas, twinkle; planets reflect light, don’t twinkle, move in a path) |     2 | ST3‑SCI‑01    | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Understanding                | Planets “shine” (false)                                   |
+| 5   | B                                                                                                      |     1 | ST3‑SCI‑01    | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Knowledge                    | “Exo” can be confusing                                    |
+| 6   | B                                                                                                      |     1 | ST3‑SCI‑01    | Research how living things can travel and survive in space                                                                 | Understanding                | A: floats, not reason B: correct                          |
+| 7   | (1 mark per challenge/solution; e.g. “no air – oxygen tanks, weak muscles – do exercise”)              |     2 | ST3‑SCI‑01    | Research how living things can travel and survive in space                                                                 | Understanding                | Only listing challenges                                   |
+| 8   | C                                                                                                      |     1 | ST3‑SCI‑01    | Research how living things can travel and survive in space                                                                 | Knowledge                    | Some think of cats as common animals in science           |
+| 9   | (e.g. Eating: food is vacuum packed; Sleeping: in a sleeping bag attached; Explain: gravity difference)|     2 | ST3‑SCI‑01    | Research how living things can travel and survive in space                                                                 | Understanding                | Activities same as Earth                                  |
+| 10  | B                                                                                                      |     1 | ST3‑SCI‑01    | Research how living things can travel and survive in space                                                                 | Understanding                | Distractors not linked to health                          |
+| 11  | B                                                                                                      |     1 | ST3‑DAT‑01    | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind             | Understanding                | A: telescope is not a cooker, D is off-topic              |
+| 12  | (e.g. GPS: used in satellites to guide; helps us find places w/phones)                                 |     2 | ST3‑DAT‑01    | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind             | Understanding                | Only describing use in one context                        |
+| 13  | A (Moon with craters)                                                                                  |     1 | ST3‑DAT‑01    | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind             | Knowledge                    | Probe = discovery, B: shows people not probes             |
+| 14  | A, C                                                                                                   |     1 | ST3‑DAT‑01    | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind             | Knowledge                    | Tech invented for space use, but now on Earth             |
+| 15  | (e.g. Discovery: water on Moon; Tech: probe/telescope; Learned: Moon has ice)                          |     2 | ST3‑DAT‑01    | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind             | Understanding                | Must mention tech and what was learned                    |
+| 16  | B                                                                                                      |     1 | ST3‑SCI‑01    | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding| Knowledge         | “Maps are just for art”                                  |
+| 17  | (e.g. “Travel at night by moonlight, or use Sun to know direction: east/west.”)                        |     2 | ST3‑SCI‑01    | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding| Understanding     | “Just use a compass”—missing cultural context            |
+| 18  | A (Emu in the Sky shape)                                                                               |     1 | ST3‑SCI‑01    | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding| Understanding     | Others not traditional star maps                         |
+| 19  | B                                                                                                      |     1 | ST3‑CWT‑01    | Use nominalisations to convey scientific and technological concepts and processes succinctly                               | Scientific skills            | Other options aren’t scientific report style              |
+| 20  | (Diagram labelled, 2 sentences with at least 1 data/fact)                                              |     3 | ST3‑CWT‑01/ST3‑DAT‑01| Add authority to written texts by using data to support an evidence-based explanation or argument <br> Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept or investigation <br> Acknowledge sources of information used in own texts| Scientific skills| Must label and use scientific words and data/fact         |
 
 ---
 
-_End of assessment and answer key._
+### Short-Answer Marking: Model Answers
+
+4.  
+**Model answer:**
+• Stars give off their own light; planets reflect light from a star (1 mark).
+• Stars twinkle; planets do not twinkle but move in a path across the sky (1 mark).  
+(Must include how to tell apart.)
+
+7.  
+**Model answer:**  
+• No air in space – astronauts use oxygen tanks. (1)  
+• Muscles get weak in microgravity – astronauts do special exercise. (1)
+
+9.  
+**Model answer:**  
+• Eating: Food needs to be sticky or squeezed from a tube, so it doesn’t float away.  
+• Sleeping: Astronauts sleep in sleeping bags attached to the wall so they do not float (1 mark for activity, 1 for correct “why”).
+
+12.  
+**Model answer:**  
+• GPS: Used for satellite navigation in space; on Earth, lets people use map apps for directions.  
+• Memory foam: Invented for space, now used in mattresses to make them more comfortable.
+
+15.  
+**Model answer:**  
+• Discovery: The first image of a black hole (2019) was made possible by using global radio telescopes working together. This proved that black holes are real, not just in theory.
+
+17.  
+**Model answer:**  
+• Aboriginal Peoples use the Sun to show east (rises) and west (sets) for direction.  
+• They use the Moon’s different phases for safe travel at night or to know tides for fishing.
+
+---
+
+### Extended Response Marking Guide
+
+**ER1 (4 marks):**  
+• Names story/map (e.g., “Emu in the Sky” or “Tagai”). (1)  
+• Explains how it helps support travel, land knowledge, or seasons. (1)  
+• Gives an accurate example (e.g., egg collecting season, route).(1)  
+• Uses science words and at least one compound/complex sentence. (1)
+
+**ER2 (3 marks):**  
+• Names two problems (e.g., air, weak muscles). (1+1)  
+• Explains the fix/solution for each. (1+1)  
+• Adds a fact from lessons for each problem/solution. (1)
+
+**ER3 (3 marks):**  
+• Explains a galaxy in accessible language and why it’s important. (1)  
+• Uses a compound/complex sentence. (1)  
+• Draws and labels a picture of a galaxy or part of the universe. (1)
+
+---
+
+_End of assessment._
