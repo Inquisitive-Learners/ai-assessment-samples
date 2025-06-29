@@ -1,10 +1,8 @@
-Certainly! Here's the revised assessment with the correct wording for the Content Descriptors and simplified language for Year 6 students.
-
-# Years 5–6 Science & Technology Assessment
+# Years 5–6 Science & Technology Assessment
 
 **Total marks:** 30  
-**Format:** 20 questions (10 multiple-choice, 5 short-answer, 3 extended-answer)  
-**Aligned outcomes:** ST3-SCI-01, ST3-CWT-01
+**Format:** 20 questions (10 multiple-choice, 5 short-answer, 3 extended response)  
+**Aligned outcomes:** ST3-CWT-01, ST3-SCI-01
 
 ---
 
@@ -12,212 +10,200 @@ Certainly! Here's the revised assessment with the correct wording for the Conten
 
 ### 1. Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system
 
-<sub>(ST3-SCI-01 — 5 marks)</sub>
+<sub>(ST3-SCI-01 — 5 marks)</sub>
 
-**Q1 (1 mark, Multiple Choice)**  
-_What is a star?_
+**Q1 (1 mark, Multiple Choice)**  
+_What is a galaxy?_
 
-- [ ] A. A body that orbits Earth
-- [ ] B. A bright object that makes its own light
-- [ ] C. A planet in the solar system
-- [ ] D. A shiny planet
+- [ ] A. A large cluster of stars, dust, and gas
+- [ ] B. A giant planet
+- [ ] C. A type of comet
+- [ ] D. A lunar surface feature
+
+> **Correct answer:** A
+
+**Q2 (1 mark, Multiple Choice)**  
+_Which astronomical feature is known as a "stellar nursery"?_
+
+- [ ] A. Black hole
+- [ ] B. Nebula
+- [ ] C. Meteor
+- [ ] D. Exoplanet
 
 > **Correct answer:** B
 
-**Q2 (1 mark, Multiple Choice)**  
-_Which image shows a black hole?_
+**Q3 (1 mark, Multiple Choice with Image Option)**  
+_Which image shows a nebula?_
 
-_Image options: black space with bright edges, rocky planet, colorful nebula, satellite_
+_Image options: galaxy, nebula, black hole, exoplanet_
 
-> **Correct answer:** Black space with bright edges image
+> **Correct answer:** Nebula image
 
-**Q3 (1 mark, Short Answer)**  
-_What is a galaxy?_
+**Q4 (1 mark, Short Answer)**  
+_What is an exoplanet?_
 
-> **Model answer:** A galaxy is a group of stars, gas, and dust held together by gravity.
+> **Model answer:** A planet that orbits a star outside our solar system.
 
-**Q4 (2 marks, Short Answer)**  
-_Why do scientists study exoplanets?_
+**Q5 (1 mark, Short Answer)**  
+_Why are black holes important to scientists?_
 
-> **Model answer:** Exoplanets help scientists find other worlds that might be like Earth (1 mark) and learn more about the universe (1 mark).
+> **Model answer:** Black holes help us understand gravity and the formation of galaxies.
 
 ---
 
 ### 2. Research how living things can travel and survive in space
 
-<sub>(ST3-SCI-01 — 6 marks)</sub>
+<sub>(ST3-SCI-01 — 6 marks)</sub>
 
-**Q5 (1 mark, Multiple Choice)**  
-_What is a space suit used for?_
+**Q6 (1 mark, Multiple Choice)**  
+_What do astronauts need to survive in space?_
 
-- [ ] A. Fashion
-- [ ] B. Air conditioning
-- [ ] C. Keeping astronauts safe and giving them air
-- [ ] D. Music
-
-> **Correct answer:** C
-
-**Q6 (1 mark, Multiple Choice)**  
-_Why do astronauts exercise in space?_
-
-- [ ] A. They enjoy it
-- [ ] B. It helps keep their muscles and bones strong
-- [ ] C. It helps them eat better
-- [ ] D. For space games
+- [ ] A. Fresh fruit
+- [ ] B. Oxygen and a space suit
+- [ ] C. Regular clothing
+- [ ] D. An umbrella
 
 > **Correct answer:** B
 
-**Q7 (2 marks, Short Answer)**  
-_What are two challenges of living in space?_
+**Q7 (1 mark, Multiple Choice)**  
+_How do astronauts keep fit in space?_
 
-> **Model answer:** No gravity makes muscles weak (1 mark), and there's no air to breathe naturally (1 mark).
+- [ ] A. By running outside the spacecraft
+- [ ] B. By using resistance machines
+- [ ] C. By swimming in a zero-gravity pool
+- [ ] D. By flying around the cabin
 
-**Q8 (2 marks, Short Answer)**  
-_How do astronauts eat food in space?_
+> **Correct answer:** B
 
-> **Model answer:** Food is packed tightly so it doesn't float away (1 mark), and they use special tools to eat (1 mark).
+**Q8 (2 marks, Short Answer)**  
+_Name two challenges astronauts face in space, and one technology that helps with each._
+
+> **Model answer:** Lack of gravity affects bones; exercise machines help. No breathable air; space suits provide oxygen.
+
+**Q9 (2 marks, Short Answer)**  
+_Explain one way daily tasks are done differently in space._
+
+> **Model answer:** Drinking fluids through a straw in sealed containers to prevent spillage in zero gravity.
 
 ---
 
 ### 3. Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind
 
-<sub>(ST3-SCI-01 — 5 marks)</sub>
+<sub>(ST3-SCI-01 — 6 marks)</sub>
 
-**Q9 (1 mark, Multiple Choice)**  
-_What was the Voyager 1 mission?_
+**Q10 (1 mark, Multiple Choice)**  
+_What did the Hubble Telescope help discover?_
 
-- [ ] A. To go to the moon
-- [ ] B. To explore oceans
-- [ ] C. To travel out of our solar system
-- [ ] D. To map Earth
-
-> **Correct answer:** C
-
-**Q10 (1 mark, Multiple Choice)**  
-_Which tool helps find exoplanets?_
-
-- [ ] A. Cameras
-- [ ] B. Radios
-- [ ] C. Space telescopes
-- [ ] D. Balloons
-
-> **Correct answer:** C
-
-**Q11 (3 marks, Short Answer)**  
-_Name two ways space technology helps us on Earth._
-
-> **Model answer:** Satellites help with weather reports (1 mark), and they also help GPS devices work (1 mark). These make travel and planning easier (1 mark).
-
----
-
-### 4. Describe how Aboriginal and/or Torres Strait Islander Peoples’ Knowledges of the positions of the Sun, Moon, and stars are used for navigation and wayfinding
-
-<sub>(ST3-SCI-01 — 4 marks)</sub>
-
-**Q12 (1 mark, Multiple Choice)**  
-_What do Aboriginal star maps help with?_
-
-- [ ] A. Building houses
-- [ ] B. Traveling on land and water
-- [ ] C. Reading books
-- [ ] D. Cooking
+- [ ] A. The taste of moon rocks
+- [ ] B. The size and age of the universe
+- [ ] C. Alien life
+- [ ] D. Underground lakes on Earth
 
 > **Correct answer:** B
 
-**Q13 (1 mark, Multiple Choice)**  
-_What do Aboriginal star maps align with?_
+**Q11 (1 mark, Multiple Choice)**  
+_Which technology is used to identify exoplanets?_
 
-- [ ] A. GPS paths
-- [ ] B. Modern road maps
-- [ ] C. Ancient books
-- [ ] D. Forest trails
+- [ ] A. Space shuttles
+- [ ] B. Radio towers
+- [ ] C. Telescopes
+- [ ] D. Weather satellites
 
-> **Correct answer:** B
+> **Correct answer:** C
 
-**Q14 (2 marks, Short Answer)**  
-_Why are these star maps important?_
+**Q12 (1 mark, Multiple Choice)**  
+_Which image is captured by the James Webb Telescope?_
 
-> **Model answer:** They help guide people where to go (1 mark) and hold special cultural meanings (1 mark).
+_Image options: nebula, Earth from space, solar panel array, city skyline_
 
----
+> **Correct answer:** Nebula image
 
-### 5. Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept, or investigation
+**Q13 (1 mark, Short Answer)**  
+_How have space telescopes enhanced our understanding of the universe?_
 
-<sub>(ST3-CWT-01 — 3 marks)</sub>
+> **Model answer:** They allow us to see distant galaxies and understand the universe's expansion.
 
-**Q15 (3 marks, Diagram + Short Answer)**  
-_Explain how telescopes work and why they are important in exploring space._
+**Q14 (2 marks, Short Answer)**  
+_Choose one space technology originally designed for space. Explain its use on Earth and its benefit._
 
-> **Model answer:** Telescopes gather light and make faraway things look bigger (1 mark). They help us learn more about stars and planets (1 mark). **Diagram:** Label the parts of a telescope (1 mark).
-
----
-
-## ✍️ Extended Response Questions — 7 marks total
-
-### ER1 (3 marks) — Aboriginal Knowledge & Scientific Explanation
-
-_Choose an Aboriginal star map you learned about. Explain how it helps with navigation or understanding the land._
-
-> **Model answer:** The Emu in the Sky helps people know when to collect emu eggs. When it's visible, it's time to collect the eggs and follow certain traditions.
-
-**Marking guide**
-
-| Criterion                                           | Mark |
-| --------------------------------------------------- | ----: |
-| Names star map/story                                |     1 |
-| Links to navigation or season understanding         |     1 |
-| Clear explanation using simple words                |     1 |
-
-### ER2 (2 marks) — Living in Space & Evidence-Based Explanation
-
-_Describe one problem astronauts face in space and a technology that helps solve it._
-
-> **Model answer:** Microgravity makes muscles weak, and exercise machines help keep astronauts strong.
-
-### ER3 (2 marks) — Astronomy & Multimodal Explanation
-
-_Explain what a nebula is. Draw a picture to help explain it._
-
-> **Model answer:** A nebula is a big cloud of gas and dust in space where stars form. **Drawing:** Show parts like gas, dust, and stars forming.
+> **Model answer:** GPS technology helps with navigation on Earth, improving travel safety.
 
 ---
 
-## ✅ Multiple-Choice Questions — Answer Key
+### 4. Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding
 
-| Q   | Answer                          | Marks | Outcome   | Content Descriptor                                       | Cognitive Level   | Common Misconceptions                                         |
-| --- | ------------------------------- | ----: | --------- | -------------------------------------------------------- | ----------------- | ------------------------------------------------------------- |
-| 1   | B                               |     1 | ST3-SCI-01| Recognise stars, galaxies, nebulae, exoplanets, and black holes as astronomical features that exist beyond our solar system | Knowledge         | A & C confuse planets' light with stars' light                |
-| 2   | Black hole image                |     1 | ST3-SCI-01| Recognise stars, galaxies, nebulae, exoplanets, and black holes as astronomical features that exist beyond our solar system | Understanding     | Other images may distract due to similar colors               |
-| 5   | C                               |     1 | ST3-SCI-01| Research how living things can travel and survive in space | Understanding     | Other options are non-scientific                              |
-| 6   | B                               |     1 | ST3-SCI-01| Research how living things can travel and survive in space | Understanding     | Other options are less relevant to space conditions           |
-| 9   | C                               |     1 | ST3-SCI-01| Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Knowledge         | Other missions may be conflated regarding goals               |
-| 10  | C                               |     1 | ST3-SCI-01| Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Knowledge         | Misunderstanding the role of technology in space exploration  |
-| 12  | B                               |     1 | ST3-SCI-01| Describe how Aboriginal and/or Torres Strait Islander Peoples’ Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Understanding     | Other activities less directly tied to navigation             |
-| 13  | B                               |     1 | ST3-SCI-01| Describe how Aboriginal and/or Torres Strait Islander Peoples’ Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Understanding     | Other options may seem plausible but unrelated                |
+<sub>(ST3-SCI-01 — 5 marks)</sub>
+
+**Q15 (2 marks, Multiple Choice)**  
+_Which two of the following are true about Aboriginal star maps?_
+
+- [ ] A. They are only used at night
+- [ ] B. They guide seasonal migration
+- [ ] C. They include information about constellations
+- [ ] D. They are written on paper maps
+
+> **Correct answers:** B & C
+
+**Q16 (1 mark, Short Answer)**  
+_How do star maps support wayfinding?_
+
+> **Model answer:** They help navigate across landscapes by using positions of stars.
+
+**Q17 (2 marks, Extended Response)**  
+_How has Aboriginal astronomical knowledge enhanced modern navigation techniques?_
+
+> **Model answer:** Aboriginal knowledge complements GPS technology by providing guidance based on natural landmarks and celestial bodies, respecting the landscape and offering sustainable methods.
+
+---
+
+## ✍️ Extended Response Questions — 8 marks total
+
+**ER1 (3 marks) — Aboriginal and Torres Strait Islander Star Maps & Knowledge**
+
+_Describe a specific star map from Aboriginal culture and explain how it aids navigation and understanding of the land._
+
+> **Model answer:** The "Emu in the Sky" helps denote the time for harvesting emu eggs. It aligns with seasonal changes, ensuring sustainable practices linked to celestial patterns.
+
+**ER2 (3 marks) — Living in Space & Technological Explanation**
+
+_Explain two vital technologies for astronauts and how they solve space living problems._
+
+> **Model answer:** Space suits provide oxygen and temperature regulation. Exercise equipment prevents muscle loss in microgravity.
+
+**ER3 (2 marks) — Telescope Discoveries & Scientific Explanation**
+
+_Write about a discovery made by the James Webb Telescope, including one clear fact and its significance._
+
+> **Model answer:** The telescope discovered new distant galaxies, providing insights into the early universe's formation and evolution.
+
+---
+
+## ✅ Multiple-Choice Questions — Answer Key
+
+| Q   | Answer              | Marks | Outcome    | Content Descriptor                                                                   | Cognitive Level   | Common Misconceptions                                      |
+| --- | ------------------- | ----: | ---------- | ------------------------------------------------------------------------------------ | ----------------- | ---------------------------------------------------------- |
+| 1   | A                   |     1 | ST3-SCI-01 | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Knowledge         | Other options represent different celestial features       |
+| 2   | B                   |     1 | ST3-SCI-01 | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Understanding     | Confusion between nebula and black holes or planets        |
+| 3   | Nebula image        |     1 | ST3-SCI-01 | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system | Understanding     | Galaxy and nebula may appear similar due to colorful visuals|
+| 6   | B                   |     1 | ST3-SCI-01 | Research how living things can travel and survive in space                          | Understanding     | Confusion between regular clothing and space suits         |
+| 7   | B                   |     1 | ST3-SCI-01 | Research how living things can travel and survive in space                          | Understanding     | Options like running and swimming are impractical in space |
+| 10  | B                   |     1 | ST3-SCI-01 | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Knowledge         | Other options do not relate to space discoveries           |
+| 11  | C                   |     1 | ST3-SCI-01 | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Knowledge         | Options relate to different technology areas               |
+| 12  | Nebula image        |     1 | ST3-SCI-01 | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Understanding     | Other images not captured by space telescopes              |
+| 15  | B, C                |     2 | ST3-SCI-01 | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Understanding     | Choice of doc documentation is incorrect                   |
 
 ---
 
 ## ✍️ Short-Answer Questions — Model Answers & Marking
 
-| Q   | Model Answer (summary)                                   | Marks | Outcome    | Content Descriptor                  | Cognitive Level   |
-| --- | -------------------------------------------------------- | ----: | ---------- | ----------------------------------- | ----------------- |
-| 3   | A group of stars, gas, and dust held by gravity.          |     1 | ST3-SCI-01 | Recognise stars, galaxies, nebulae, exoplanets, and black holes as astronomical features that exist beyond our solar system | Knowledge         |
-| 4   | Learn about other worlds, broadens universe knowledge.   |     2 | ST3-SCI-01 | Recognise stars, galaxies, nebulae, exoplanets, and black holes as astronomical features that exist beyond our solar system | Understanding     |
-| 7   | Muscles weaken without gravity, and no air to breathe.   |     2 | ST3-SCI-01 | Research how living things can travel and survive in space | Understanding     |
-| 8   | Food is packed to avoid floating, special eating tools.  |     2 | ST3-SCI-01 | Research how living things can travel and survive in space | Understanding     |
-| 11  | Satellites help weather and GPS, improving Earth life.    |     3 | ST3-SCI-01 | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind | Understanding     |
-| 14  | Guides travel and holds cultural importance.             |     2 | ST3-SCI-01 | Describe how Aboriginal and/or Torres Strait Islander Peoples’ Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Understanding     |
-| 15  | Telescopes magnify distant objects, important for space learning. |     3 | ST3-CWT-01 | Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept, or investigation | Scientific Skills |
-
----
-
-## 🧠 Extended Response — Answer Guide
-
-| Q   | Model Answer Summary                                      | Marks | Outcomes         | Content Descriptor                   | Cognitive Level                   |
-| --- | --------------------------------------------------------- | ----: | ----------------| -------------------------------------| --------------------------------- |
-| ER1 | Star map name + navigational/seasonal function + explanation|     3 | ST3-SCI-01      | Describe how Aboriginal and/or Torres Strait Islander Peoples’ Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding | Understanding                     |
-| ER2 | Problem + tech solution with example                      |     2 | ST3-SCI-01      | Research how living things can travel and survive in space | Understanding & Skills            |
-| ER3 | Definition of nebula + simple drawing                     |     2 | ST3-CWT-01      | Use compound and complex sentences and labelled diagrams to create a text that explains a process, concept, or investigation | Understanding & Skills            |
+| Q   | Model Answer (summary)                                           | Marks | Outcome                 | Content Descriptor                  | Cognitive Level   |
+| --- | -------------------------------------------------------------- | ----: | ----------------------- | ----------------------------------- | ----------------- |
+| 4   | A planet outside our solar system.                             |     1 | ST3-SCI-01              | Recognise stars, galaxies, nebulae, exoplanets and black holes as astronomical features that exist beyond our solar system     | Understanding     |
+| 8   | Daily tasks adjusted due to lack of gravity, e.g. drinking.    |     2 | ST3-SCI-01              | Research how living things can travel and survive in space              | Understanding     |
+| 13  | Space telescopes help us see galaxies.                        |     1 | ST3-SCI-01              | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind   | Knowledge         |
+| 14  | GPS technology use and benefit on Earth.                      |     2 | ST3-SCI-01              | Examine the development of our knowledge through discoveries and technologies, and how these benefit humankind           | Understanding     |
+| 16  | Star maps provide direction using celestial bodies.           |     1 | ST3-SCI-01              | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding        | Understanding     |
+| 17  | Aboriginal knowledge enhances modern tech with ethical methods. |     2 | ST3-CWT-01 / ST3-SCI-01 | Describe how Aboriginal and/or Torres Strait Islander Peoples' Knowledges of the positions of the Sun, Moon and stars are used for navigation and wayfinding   | Scientific Skills |
 
 ---
 
