@@ -17,10 +17,9 @@
 **Q1**  
 _Which picture shows a **push** force?_  
 
-- A. ![pulling wagon](pull_wagon.png)  
-- B. ![pushing toy car](push_car.png)  
-- C. ![sitting still](sit.png)  
-- D. ![holding balloon](hold.png)  
+| **A.** ![Pulling wagon](https://github.com/user-attachments/assets/f6232746-5a31-43ab-a49c-825d34e26346) | **B.** ![Pushing toy car](https://github.com/user-attachments/assets/8a7a1ac3-7318-4e4e-b409-b203ed55b4e5) |
+|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **C.** ![Sitting still](https://github.com/user-attachments/assets/d0a6d497-6ba3-4cb1-a475-90be5ab4a20f)  | **D.** ![Holding balloon](https://github.com/user-attachments/assets/42d5c4df-d690-4a93-b281-5d88230502fe) |
 
 ---
 
