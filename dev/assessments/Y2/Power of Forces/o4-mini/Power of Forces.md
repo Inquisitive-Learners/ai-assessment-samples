@@ -1,74 +1,111 @@
-# Year 3 Body Systems and Movement  
-**End-of-Unit Assessment**
+# Year 3 Science & Technology Assessment — [Unit Title]
+
+**Total marks:** 20  
+**Format:** 15 questions  
+- 5 × multiple-choice (1 mark each)  
+- 5 × multiple-choice (2 marks each; two correct answers)  
+- 5 × short-answer (1 mark each)  
+
+**Syllabus:** NSW 2024  
+**Aligned outcomes:** [ST2-XXX-01], [ST2-YYY-01], …
 
 ---
 
-## 1. Key Information
-- **Year level:** Year 3  
-- **Subject:** Science & Technology  
-- **Unit title:** Body Systems and Movement  
-- **Total marks:** 20  
-- **Time allowance:** 35 minutes  
-- **Syllabus:** NSW 2024, Stage 2 Science & Technology  
-- **Outcomes:**  
-  - **ST2-SCI-01**   
-    Living things have structural features and functions that help them to survive in their environment  
-  - **ST2-PQU-01**   
-    Planning and conducting investigations  
+## 1. Assessment Questions
+
+### A. Multiple-Choice (1 mark each)
+
+1. **Q1.** [Core concept A]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+2. **Q2.** [Core concept B]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+3. **Q3.** [Core concept C]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+4. **Q4.** [Core concept D]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+5. **Q5.** [Core concept E]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+### B. Multiple-Choice (2 marks each; choose TWO)
+
+6. **Q6.** [Topic F — two correct responses]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+7. **Q7.** [Topic G — two correct responses]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+8. **Q8.** [Topic H — two correct responses]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+9. **Q9.** [Topic I — two correct responses]  
+   - A. …  
+   - B. …  
+   - C. …  
+   - D. …  
+
+10. **Q10.** [Topic J — two correct responses]  
+    - A. …  
+    - B. …  
+    - C. …  
+    - D. …  
+
+### C. Short-Answer (1 mark each)
+
+11. **Q11.** [Recall or identify]  
+12. **Q12.** [Explain or describe]  
+13. **Q13.** [Fair-testing or investigation skill]  
+14. **Q14.** [Compare or contrast]  
+15. **Q15.** [Apply or justify]  
 
 ---
 
-## 2. Assessment Organisation
-| Section | Question Type                                      | No. of Questions | Marks per Question | Total Marks |
-|---------|----------------------------------------------------|------------------|--------------------|-------------|
-| 1       | Multiple-choice (1 mark each)                      | 5                | 1                  | 5           |
-| 2       | Multiple-choice (select **TWO** correct; 2 marks)  | 5                | 2                  | 10          |
-| 3       | Short-answer (1 mark each)                         | 5                | 1                  | 5           |
-| **Total** |                                                    | **15**           |                    | **20**      |
+## 2. Answer Key & Marks Breakdown
+
+*(To mirror your table: Q number, correct answer(s), marks, outcome, descriptor, cognitive level.)*
+
+| Q#  | Answer(s) | Marks | Outcome      | Descriptor                 | Cognitive Level |
+|-----|-----------|-------|--------------|----------------------------|-----------------|
+| 1   | …         | 1     | ST2-XXX-01   | …                          | Remember        |
+| 2   | …         | 1     | ST2-YYY-01   | …                          | Understand      |
+| …   | …         | …     | …            | …                          | …               |
+| 15  | …         | 1     | ST2-ZZZ-01   | …                          | Apply           |
 
 ---
 
-## 3. Question Structure
-- **Cognitive levels**  
-  - Knowledge/Recall ≈ 70 % (11 items)  
-  - Understanding/Explanation ≈ 20 % (3 items)  
-  - Scientific skills (fair test, questioning) ≈ 10 % (1 item)  
-- **Bloom’s targets:** Identify, Describe, Explain, Apply  
+## Next Steps
 
----
+Please confirm or supply:  
+- The exact learning outcomes to be assessed (e.g. ST2-XXX-01)  
+- The five 1-mark “core concepts” for Q1–Q5  
+- The five 2-mark topics (with two correct options) for Q6–Q10  
+- The five short-answer prompts for Q11–Q15  
 
-## 4. Question-Writing Conventions
-- **Language:** Year 3 readability; simple stems; no double negatives.  
-- **Multiple-choice:**  
-  - 1-mark: “Which…?” or “What…?”  
-  - 2-mark: “Which **TWO**…?”  
-- **Distractors:** All plausible; same part of speech; grammatically parallel.  
-- **Short-answer:** One-sentence responses; 10–20 words.  
-
----
-
-## 5. Marking & Feedback Criteria
-- **1-mark MC:**  
-  - Correct = 1  
-  - Incorrect/blank = 0  
-- **2-mark MC (select TWO):**  
-  - Both correct = 2  
-  - One correct = 1  
-  - None correct = 0  
-- **Short answers (1 mark):**  
-  - **1 mark:** Includes key term(s) and directly answers the question  
-  - **0 marks:** Missing key term or off-topic  
-- **Feedback prompts:**  
-  - MC: “Check your understanding of …”  
-  - Short answer: “Good use of scientific vocabulary. Next time, you might also …”  
-
----
-
-## 6. Syllabus Alignment & Tagging
-- **Q1, Q2, Q6–Q9** → ST2-SCI-01 (identify structure/function)  
-- **Q10, Q13** → ST2-PQU-01 (scientific questioning/fair testing)  
-- **Q12, Q14, Q15** → ST2-SCI-01 (systems interaction/comparison)  
-
----
-
-*Use this blueprint to slot in your item stems, correct answers and model responses.*
+Once provided, I’ll draft each question in full, plus model answers and the detailed marking key.
