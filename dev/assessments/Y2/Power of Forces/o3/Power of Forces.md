@@ -1,107 +1,132 @@
-# Year 3 Science & Technology — Summative Assessment  
-**Unit:** Body Systems and Movement (NSW Syllabus 2024)  
-**Aligned outcomes:** ST2-SCI-01, ST2-PQU-01  
-**Total marks:** 20  
-**Question count:** 15  
+# Year 3 Science & Technology – Body Systems & Movement  
+*End-of-Unit Summative Assessment*
+
+**Total marks:** 20  **Time allowed:** 30 minutes  
+**Question types:** 15 questions  
+* 5 multiple-choice (1 mark each)  
+* 5 multiple-choice – “Choose TWO” (2 marks each)  
+* 5 short-answer (1 mark each)  
+
+Aligned syllabus outcomes (NSW 2024): **ST2-SCI-01, ST2-PQU-01**
 
 ---
 
-## 1. Assessment Questions
-
-### 1.1 Multiple-choice — ONE correct answer (1 mark each)
-
-**Q1** What organ does the skull mainly protect?  
-A. Heart B. Brain C. Lungs D. Stomach  
-
-**Q2** Which bones form the framework of your fingers and thumbs?  
-A. Femurs B. Phalanges C. Tibias D. Vertebrae  
-
-**Q6** A hinge joint (for example, the knee) allows movement mostly in …  
-A. One direction, like a door B. All directions C. A full circle D. No direction  
-
-**Q7** Cartilage found at the ends of bones is important because it …  
-A. Produces blood cells B. Stores fat C. Reduces friction in joints D. Creates electrical signals  
-
-**Q9** Which of these animals is a vertebrate?  
-A. Earthworm B. Butterfly C. Sea star D. Koala  
+### Instructions  
+1. Read every question carefully.  
+2. Circle or write your answers clearly.  
+3. Calculators are **not** allowed.
 
 ---
 
-### 1.2 Multiple-choice — TWO correct answers (2 marks each)
+## Section A – Multiple-Choice (1 mark each)
 
-Select **exactly two** options.  
-• 2 correct = 2 marks • 1 correct = 1 mark • 0 correct = 0 marks  
+**Q1** What is the main job of the ribcage?  
+A. Help us chew food  
+B. Support our arms  
+C. Protect our heart and lungs  
+D. Connect our legs to our hips  
 
-**Q3** Which of the following are *functions of muscles*?  
-A. Pump blood through arteries  
-B. Store calcium for the body  
-C. Create movement of body parts  
-D. Produce body heat  
+**Q2** Which part of the skeleton connects the upper body to the legs?  
+A. Skull  
+B. Pelvis  
+C. Spine  
+D. Ribcage  
 
-**Q4** When you *straighten your leg at the knee*, which of the following occur?  
-A. Quadriceps contract  
-B. Hamstrings contract  
-C. The lower-leg bone (tibia) moves forward  
-D. The kneecap (patella) becomes longer  
+**Q3** A ball-and-socket joint allows:  
+A. Only bending  
+B. No movement  
+C. Movement in all directions  
+D. Jumping  
 
-**Q5** Which body parts work *directly together to turn your head*?  
-A. Atlas and axis vertebrae  
-B. Jaw-bone  
-C. Neck muscles  
-D. Pelvis  
+**Q4** What is the job of a joint in your skeleton?  
+A. To protect your brain  
+B. To help you move by connecting bones  
+C. To make bones grow longer  
+D. To pump blood around your body  
 
-**Q8** Which animals have an *external skeleton (exoskeleton)*?  
-A. Crab  
-B. Cat  
-C. Millipede  
-D. Snail  
-
-**Q10** Which of the questions below are *scientific because they can be tested*?  
-A. Do plants grow faster in sunlight or shade?  
-B. Why is chocolate the tastiest sweet?  
-C. How many colours are in a rainbow?  
-D. Does adding salt change the freezing point of water?  
+**Q5** Which animal has no spine?  
+A. Fish  
+B. Dog  
+C. Octopus  
+D. Frog  
 
 ---
 
-### 1.3 Short-answer (1 mark each)
+## Section B – Multiple-Choice (Choose TWO, 2 marks each)
 
-**Q11** Name one bone that protects internal organs.  
-*(e.g. ribs, skull, vertebrae)*  
+**Q6** Which of the following are jobs of the human skeleton? **Choose TWO.**  
+A. Make blood  
+B. Help digestion  
+C. Protect organs  
+D. Support the body  
 
-**Q12** Explain how tendons help the muscular and skeletal systems work together.  
+**Q7** When you bend your arm, which of the following happens? **Choose TWO.**  
+A. The bicep muscle shortens  
+B. The tricep muscle shortens  
+C. The lower-arm bone moves  
+D. The elbow joint shortens  
 
-**Q13** You are testing whether doing warm-up exercises changes students’ jumping height.  
-State one variable you would keep the same to make the test fair.  
+**Q8** Which body parts are involved in making the arm bend? **Choose TWO.**  
+A. Shoulder joint  
+B. Elbow joint  
+C. Bicep muscle  
+D. Skull  
 
-**Q14** Describe one way an earthworm moves even though it has no bones.  
+**Q9** Which animals are invertebrates? **Choose TWO.**  
+A. Hamster  
+B. Squid  
+C. Stag beetle  
+D. Frog  
 
-**Q15** Give one reason why astronauts can lose bone mass while living in space.  
-
----
-
-## 2. Answer Key & Marking Guide
-
-| Q | Correct answer(s) | Marks | Outcome | Content descriptor | Cognitive level |
-|---|-------------------|:----:|---------|--------------------|-----------------|
-| 1 | B | 1 | ST2-SCI-01 | Skeletal protection (skull) | Recall |
-| 2 | B | 1 | ST2-SCI-01 | Identify hand bones | Recall |
-| 3 | C & D | 2 | ST2-SCI-01 | Functions of muscles | Understand |
-| 4 | A & C | 2 | ST2-SCI-01 | Muscle action & movement | Understand |
-| 5 | A & C | 2 | ST2-SCI-01 | Bones & muscles in neck | Understand |
-| 6 | A | 1 | ST2-SCI-01 | Joint types & movement | Recall |
-| 7 | C | 1 | ST2-SCI-01 | Role of cartilage | Recall |
-| 8 | A & C | 2 | ST2-SCI-01 | Identify exoskeleton animals | Recall |
-| 9 | D | 1 | ST2-SCI-01 | Vertebrate vs invertebrate | Recall |
-|10 | A & D | 2 | ST2-PQU-01 | Testable questions | Understand |
-|11 | Any valid: ribs / skull / vertebrae … | 1 | ST2-SCI-01 | Protection bones | Recall |
-|12 | Tendons attach muscles to bones; when a muscle contracts it pulls on the tendon, moving the bone. | 1 | ST2-SCI-01 | Systems interaction | Explain |
-|13 | Any suitable control variable (e.g. same surface, same footwear, same measuring tool). | 1 | ST2-PQU-01 | Fair testing | Apply |
-|14 | Earthworm contracts body muscles in waves (peristalsis) and uses bristles to grip soil. | 1 | ST2-SCI-01 | Movement without skeleton | Explain |
-|15 | Microgravity removes weight-bearing stress, so less calcium is kept and bones weaken. | 1 | ST2-SCI-01 | Bone health | Explain |
-
-**Total marks:** 20  
+**Q10** What makes a question a scientific question?  
+A. It has a long answer  
+B. It is about animals or people  
+C. It can be tested through an investigation  
+D. It has only one correct answer  
 
 ---
 
-End of assessment.
+## Section C – Short-Answer (1 mark each)
+
+Write your answers on the line provided.
+
+**Q11** Name one part of the human skeleton that supports the body.  
+______________________________________________________________
+
+**Q12** How do the skeletal and muscular systems work together?  
+______________________________________________________________
+
+**Q13** You are testing whether students with longer arms can throw a ball further. Describe one way to make sure your test is fair.  
+______________________________________________________________
+
+**Q14** How do invertebrates move differently from vertebrates?  
+______________________________________________________________
+
+**Q15** Why might a crab need an external skeleton?  
+______________________________________________________________
+
+---
+
+## Answer Key & Marking Guide
+
+| Q | Correct answer(s) | Marks | Outcome |
+|---|-------------------|:----:|---------|
+| 1 | C | 1 | ST2-SCI-01 |
+| 2 | B | 1 | ST2-SCI-01 |
+| 3 | C | 1 | ST2-SCI-01 |
+| 4 | B | 1 | ST2-SCI-01 |
+| 5 | C | 1 | ST2-SCI-01 |
+| 6 | C, D | 2 | ST2-SCI-01 |
+| 7 | A, C | 2 | ST2-SCI-01 |
+| 8 | B, C | 2 | ST2-SCI-01 |
+| 9 | B, C | 2 | ST2-SCI-01 |
+| 10 | C | 1 | ST2-PQU-01 |
+| 11 | Spine / pelvis / femur (any **one**) | 1 | ST2-SCI-01 |
+| 12 | Muscles pull on bones to create movement | 1 | ST2-SCI-01 |
+| 13 | e.g. use the same ball and throwing position for everyone | 1 | ST2-PQU-01 |
+| 14 | Invertebrates move without bones (crawl, slither, float, etc.) | 1 | ST2-SCI-01 |
+| 15 | It provides protection and support for the body | 1 | ST2-SCI-01 |
+
+---
+
+**End of assessment**
