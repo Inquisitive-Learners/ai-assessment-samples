@@ -1,126 +1,118 @@
-```markdown
 # Year 3 Science & Technology Assessment  
-### Unit: **Body Systems and Movement**  
-**Total Marks:** 20  **Items:** 15 (see breakdown)  
-**Syllabus (NSW 2024) Outcomes:** ST2-SCI-01 • ST2-PQU-01  
+*Unit: Forces, Motion & Simple Machines*  
+
+**Total marks**: 20  **Questions**: 15  
+• 5 × MC (1 mark) • 5 × MC (2 marks) • 5 × Short answer (1 mark)
+
+Aligned outcomes (NSW Syllabus 2024): **ST2-PWU-01**, **ST2-SI-01**
 
 ---
 
-## 1. Question Set
+## 🔍 Questions
 
-### 1.1 Multiple-Choice (1 mark each)
+### Part A Multiple-choice – 1 mark each
 
-**Q1** Which organ is protected by the skull?  
-- A. Heart  - B. Brain  - C. Lungs  - D. Stomach  
+1. **What force pulls everything toward the centre of Earth?**  
+   - A. Magnetism  
+   - B. Electricity  
+   - C. Gravity  
+   - D. Light  
 
-**Q2** What is the long bone in the upper arm called?  
-- A. Femur  - B. Tibia  - C. Humerus  - D. Ulna  
+2. **Which simple machine is a playground seesaw an example of?**  
+   - A. Pulley  
+   - B. Lever  
+   - C. Wheel and axle  
+   - D. Screw  
 
-**Q3** Which type of joint is found at the knee?  
-- A. Ball-and-socket  - B. Hinge  - C. Pivot  - D. Fixed  
+3. **What force slows a bicycle when the rider stops pedalling?**  
+   - A. Buoyancy  
+   - B. Friction  
+   - C. Gravity  
+   - D. Lift  
 
-**Q4** The vertebral column (spine) mainly helps to:  
-- A. Pump blood  
-- B. Move food through the gut  
-- C. Support the body *and* protect the spinal cord  
-- D. Produce hormones  
+4. **On which surface would a toy car experience the *least* friction?**  
+   - A. Carpet  
+   - B. Sandpaper  
+   - C. Ice  
+   - D. Grass  
 
-**Q5** Which of the following animals is a vertebrate?  
-- A. Snail  - B. Earthworm  - C. Shark  - D. Butterfly  
-
----
-
-### 1.2 Multiple-Choice (2 marks each)
-
-(Select **TWO** correct options for each question.)
-
-**Q6** Which of the following are functions of muscles?  
-- A. Move the skeleton  
-- B. Produce stomach acid  
-- C. Keep the body upright (posture)  
-- D. Form red blood cells  
-
-**Q7** When you straighten your leg, which of the following happen?  
-- A. The quadriceps muscle shortens  
-- B. The hamstring muscle shortens  
-- C. The lower-leg bones move away from the thigh  
-- D. The knee joint disappears  
-
-**Q8** Which joints are hinge joints?  
-- A. Elbow  - B. Shoulder  - C. Ankle  - D. Skull sutures  
-
-**Q9** You are testing which shoe sole grips best on a wet floor.  
-To keep the test *fair*, which factors should stay the same?  
-- A. The type of floor surface  
-- B. The amount of water on the floor  
-- C. The colour of the shoes  
-- D. The brand logo on the shoes  
-
-**Q10** Which statements describe a scientific question?  
-- A. It can be answered by performing an investigation  
-- B. It is about living *or* non-living things  
-- C. It uses words that are difficult to spell  
-- D. Its answer can be measured or observed  
+5. **Which of these objects uses a wheel and axle to make work easier?**  
+   - A. Hammer  
+   - B. Flag-pole rope  
+   - C. Door knob  
+   - D. Ramp  
 
 ---
 
-### 1.3 Short-Answer (1 mark each)
+### Part B Multiple-choice – 2 marks each  
+*(Select TWO correct options for each question.)*
 
-**Q11** Name one part of the skeleton that protects the lungs.  
-*Answer line:* _____________________________________________  
+6. **Which forces act on a ball after it is thrown straight up?**  
+   - A. Gravity  
+   - B. Air resistance  
+   - C. Magnetism  
+   - D. Light  
 
-**Q12** Why do skeletal muscles have to work in pairs?  
-*Answer line:* _____________________________________________  
+7. **Which simple machines are found in a pair of scissors?**  
+   - A. Lever  
+   - B. Wedge  
+   - C. Pulley  
+   - D. Inclined plane  
 
-**Q13** Describe one variable you would keep the same when testing whether ball size affects how far it rolls.  
-*Answer line:* _____________________________________________  
+8. **Which changes are most likely to make a toy car roll faster down a ramp?**  
+   - A. Make the ramp steeper  
+   - B. Use a smoother ramp surface  
+   - C. Shorten the ramp  
+   - D. Add a rough cloth to the ramp  
 
-**Q14** Give one way an external skeleton (exoskeleton) helps an insect move *or* survive.  
-*Answer line:* _____________________________________________  
+9. **Which actions are examples of a *push* force?**  
+   - A. Pressing a doorbell  
+   - B. Pulling a rope in tug-of-war  
+   - C. Kicking a soccer ball  
+   - D. Lifting a bucket straight up  
 
-**Q15** What should a scientific conclusion be based on?  
-*Answer line:* _____________________________________________  
-
----
-
-## 2. Answer Key & Marking Guide
-
-| Q | Correct Answer(s) | Marks | Outcome | Cognitive Level |
-|---|-------------------|:----:|---------|-----------------|
-| 1 | B | 1 | ST2-SCI-01 | Knowledge |
-| 2 | C | 1 | ST2-SCI-01 | Knowledge |
-| 3 | B | 1 | ST2-SCI-01 | Knowledge |
-| 4 | C | 1 | ST2-SCI-01 | Knowledge |
-| 5 | C | 1 | ST2-SCI-01 | Knowledge |
-| 6 | A, C | 2 | ST2-SCI-01 | Comprehension |
-| 7 | A, C | 2 | ST2-SCI-01 | Comprehension |
-| 8 | A, C | 2 | ST2-SCI-01 | Knowledge |
-| 9 | A, B | 2 | ST2-PQU-01 | Application |
-| 10 | A, D | 2 | ST2-PQU-01 | Knowledge |
-| 11 | Ribcage / ribs | 1 | ST2-SCI-01 | Knowledge |
-| 12 | Muscles can only pull; one contracts while its partner relaxes to move a bone | 1 | ST2-SCI-01 | Comprehension |
-| 13 | Any justified constant (e.g. same ramp surface, push force, release height) | 1 | ST2-PQU-01 | Application |
-| 14 | Protection, support, muscle attachment, prevents water loss (any valid) | 1 | ST2-SCI-01 | Comprehension |
-| 15 | Data/evidence collected in the investigation | 1 | ST2-PQU-01 | Knowledge |
+10. **Which statement best describes a fair scientific test?**  
+    - A. It has lots of questions.  
+    - B. Only one variable is changed and others are kept the same.  
+    - C. It is done by many different people.  
+    - D. The results match the hypothesis.  
 
 ---
 
-### 3. Mark Distribution
+### Part C Short-answer – 1 mark each
 
-• Multiple-choice (1 mark)  5 ×1 = 5  
-• Multiple-choice (2 marks) 5 ×2 = 10  
-• Short-answer (1 mark)   5 ×1 = 5  
-**Total** = 20 marks  
+11. Name **one** type of simple machine used at home.  
 
----
+12. How does *friction* affect the motion of objects?  
 
-### 4. Teacher Notes
+13. Describe **one** way to measure how far a toy car travels in an investigation.  
 
-1. Award full marks for any scientifically accurate synonyms (e.g. “backbone” for vertebral column).  
-2. For short-answer items, accept responses demonstrating equivalent understanding.  
-3. Use the cognitive level column to inform feedback: reinforce knowledge gaps vs. process skills.  
+14. Why do downhill skiers wax their skis?  
+
+15. Explain why adding wheels to a heavy box makes it easier to move.  
 
 ---
 
-_End of Assessment_
-```
+## ✅ Answer key & mark allocation
+
+| Q | Answer(s) | Marks |
+|---|-----------|------:|
+| 1 | C | 1 |
+| 2 | B | 1 |
+| 3 | B | 1 |
+| 4 | C | 1 |
+| 5 | C | 1 |
+| 6 | A, B | 2 |
+| 7 | A, B | 2 |
+| 8 | A, B | 2 |
+| 9 | A, C | 2 |
+|10 | B | 2 |
+|11 | Any valid simple machine (e.g., wheel-and-axle, lever, pulley, screw, wedge, inclined plane) | 1 |
+|12 | Friction slows or stops motion by acting opposite the direction of movement | 1 |
+|13 | E.g., place a metre ruler from the start line and record the distance reached by the car’s front | 1 |
+|14 | Wax reduces friction between skis and snow so the skier can move faster | 1 |
+|15 | Wheels change sliding friction to lower rolling friction, so less force is needed | 1 |
+
+---
+
+End of assessment
