@@ -1,125 +1,99 @@
-Below is the assessment re-formatted entirely in Markdown.  
-(You can copy-paste it straight into any Markdown editor or LMS that supports GitHub-flavoured Markdown.)
+# Year 3 Science & Technology  
+## Summative Assessment – *Forces & Motion*
 
-```markdown
-# Year 3 Science & Technology Assessment  
-### Unit: Body Systems and Movement  
-**Total marks:** 20 | **Questions:** 15  
-**Syllabus:** NSW Science & Technology 2024  
-**Outcomes:** ST2-SCI-01, ST2-PQU-01  
+**Total marks:** 20 | **Number of questions:** 15  
+**Syllabus:** NSW 2024  
+**Aligned outcomes:** ST2-SCI-02, ST2-PQU-01  
 
 ---
 
-## 🔢 Questions
+## 1. Assessment Questions
 
-### 1. Multiple-choice (1 mark each)
+### 1.1 Multiple-Choice (1 mark each)
 
-1. **Which organ does the skull protect?**  
-   - A. Heart  
-   - B. Brain  
-   - C. Lungs  
-   - D. Stomach  
+| Q | Question | Options |
+|---|----------|---------|
+| **1** | What force pulls every object toward Earth? | A. Gravity B. Magnetism C. Friction D. Push |
+| **2** | Which surface would create the **most** friction on a sliding book? | A. An ice rink B. Polished wood floor C. Gravel road D. Wet bathroom tile |
+| **6** | A magnet will attract which item below? | A. Plastic spoon B. Glass marble C. Iron nail D. Plastic paper-clip |
+| **7** | Pushing harder on a playground swing makes it go higher because you: | A. Increase air resistance B. Apply a greater force C. Decrease its mass D. Use gravity in reverse |
+| **9** | Which situation shows balanced forces? | A. A book resting on a table B. A ball rolling downhill C. A kite rising in the wind D. A toy car speeding up |
 
-2. **Which bones make up your backbone?**  
-   - A. Ribs  
-   - B. Vertebrae  
-   - C. Phalanges  
-   - D. Femur  
+### 1.2 Multiple-Choice (2 marks each)
 
-3. **Where is your patella located?**  
-   - A. Elbow  
-   - B. Knee  
-   - C. Shoulder  
-   - D. Neck  
+*Tick **two** correct answers in each question.*
 
-4. **Which body system carries messages between the brain and the muscles?**  
-   - A. Digestive system  
-   - B. Respiratory system  
-   - C. Nervous system  
-   - D. Circulatory system  
+| Q | Question | Options |
+|---|----------|---------|
+| **3** | Which statements describe friction? | A. It slows moving objects. B. It acts only in water. C. It can produce heat. D. It works only with heavy objects. |
+| **4** | When you ride a bicycle uphill, which forces are you mainly working against? | A. Gravity B. Magnetism C. Air resistance D. Buoyancy |
+| **5** | Which simple machines are found on a wheelbarrow? | A. Wheel and axle B. Lever C. Pulley D. Screw |
+| **8** | Which actions show a magnet **repelling** another magnet? | A. N–S poles stick together B. N–N poles push apart C. S–S poles push apart D. S–N poles pull together |
+| **10** | What makes an investigation of friction a scientific test? | A. Changing many variables at once B. Measuring how far an object slides on different surfaces C. Using only personal opinions D. Skipping repeated trials |
 
-5. **An example of a hinge joint is found in your:**  
-   - A. Hip  
-   - B. Knee  
-   - C. Skull  
-   - D. Wrist  
+### 1.3 Short-Answer (1 mark each)
+
+11. Name **one** example of a simple machine.  
+12. How can you reduce friction on a playground slide?  
+13. State one safety rule for using magnets near electronic devices.  
+14. If a toy car slows down and stops on its own, which force mainly caused it to slow down?  
+15. Why do astronauts seem to float inside the International Space Station?
 
 ---
 
-### 2. Multiple-choice — Select TWO (2 marks each)
+## 2. Answer Key
 
-6. **Which *two* bones are found in the lower arm?**  
-   - A. Ulna  
-   - B. Tibia  
-   - C. Radius  
-   - D. Fibula  
+### 2.1 Correct Responses
 
-7. **When you straighten your leg, which *two* of the following occur?**  
-   - A. The quadriceps muscle shortens  
-   - B. The hamstring muscle shortens  
-   - C. The knee joint extends  
-   - D. The femur shrinks  
+| Q | Answer(s) |
+|---|-----------|
+| 1 | A |
+| 2 | C |
+| 3 | A & C |
+| 4 | A & C |
+| 5 | A & B |
+| 6 | C |
+| 7 | B |
+| 8 | B & C |
+| 9 | A |
+| 10 | B |
+| 11 | Any valid simple machine (e.g., lever, pulley, wheel-and-axle, inclined plane, screw, wedge) |
+| 12 | Make the surface smoother or add water/lubricant |
+| 13 | Keep magnets away from computers/phones to avoid damage |
+| 14 | Friction |
+| 15 | They are in microgravity / continuous free-fall |
 
-8. **Which *two* animals are vertebrates?**  
-   - A. Earthworm  
-   - B. Kangaroo  
-   - C. Sparrow  
-   - D. Snail  
+### 2.2 Marks Breakdown
 
-9. **Which *two* actions help to make a fair scientific test?**  
-   - A. Changing several variables at once  
-   - B. Writing a prediction  
-   - C. Controlling variables not being tested  
-   - D. Ignoring unexpected results  
+| Q | Marks | Outcome | Skill/Cognitive Level |
+|---|------:|---------|-----------------------|
+| 1 | 1 | ST2-SCI-02 | Knowledge |
+| 2 | 1 | ST2-SCI-02 | Knowledge |
+| 3 | 2 | ST2-SCI-02 | Comprehension |
+| 4 | 2 | ST2-SCI-02 | Application |
+| 5 | 2 | ST2-SCI-02 | Comprehension |
+| 6 | 1 | ST2-SCI-02 | Knowledge |
+| 7 | 1 | ST2-SCI-02 | Application |
+| 8 | 2 | ST2-SCI-02 | Comprehension |
+| 9 | 1 | ST2-SCI-02 | Knowledge |
+| 10 | 1 | ST2-PQU-01 | Comprehension |
+| 11 | 1 | ST2-SCI-02 | Knowledge |
+| 12 | 1 | ST2-SCI-02 | Application |
+| 13 | 1 | ST2-SCI-02 | Application |
+| 14 | 1 | ST2-SCI-02 | Knowledge |
+| 15 | 1 | ST2-SCI-02 | Comprehension |
 
-10. **Which *two* statements best describe a scientific prediction?**  
-    - A. It is based on prior knowledge or evidence  
-    - B. It is always correct  
-    - C. It can be tested by investigation  
-    - D. It is a question  
-
----
-
-### 3. Short-answer (1 mark each)
-
-11. **Name one bone that protects internal organs.**  
-    _Sample answer: Skull, ribs or pelvis._
-
-12. **Explain briefly how muscles and bones work together to move your arm.**  
-    _Sample answer: A contracting muscle pulls on its attached bone, acting like a lever to move the arm._
-
-13. **You are testing if different shoe types affect running speed. State one variable you would keep the same to make the test fair.**  
-    _Sample answer: Keep the running distance (or the runner, surface, time of day, etc.) the same._
-
-14. **Give one reason insects can move quickly even though they have no internal bones.**  
-    _Sample answer: Their lightweight exoskeleton with jointed legs allows rapid movement._
-
-15. **Why is a hinge joint suitable for the knee?**  
-    _Sample answer: It allows bending in one direction, supporting walking, running and standing._
+Total possible marks: **20**
 
 ---
 
-## ✅ Answer Key & Marks Breakdown
+## 3. Outcome Alignment
 
-| Q | Correct answer(s) | Marks | Outcome | Descriptor | Cognitive level |
-|---|-------------------|:----:|---------|------------|-----------------|
-| 1 | B | 1 | ST2-SCI-01 | Protection (skull) | Knowledge |
-| 2 | B | 1 | ST2-SCI-01 | Backbone structure | Knowledge |
-| 3 | B | 1 | ST2-SCI-01 | Bone identification | Knowledge |
-| 4 | C | 1 | ST2-SCI-01 | Body systems | Knowledge |
-| 5 | B | 1 | ST2-SCI-01 | Joint types | Knowledge |
-| 6 | A & C | 2 | ST2-SCI-01 | Arm bones | Knowledge |
-| 7 | A & C | 2 | ST2-SCI-01 | Muscles & movement | Understanding |
-| 8 | B & C | 2 | ST2-SCI-01 | Vertebrate/invertebrate | Knowledge |
-| 9 | B & C | 2 | ST2-PQU-01 | Fair testing | Understanding |
-|10 | A & C | 2 | ST2-PQU-01 | Nature of prediction | Understanding |
-|11 | Skull / ribs / pelvis | 1 | ST2-SCI-01 | Skeletal protection | Knowledge |
-|12 | Muscles pull bones | 1 | ST2-SCI-01 | Systems interaction | Understanding |
-|13 | Any valid control | 1 | ST2-PQU-01 | Fair testing | Application |
-|14 | Lightweight exoskeleton | 1 | ST2-SCI-01 | Movement comparison | Understanding |
-|15 | Allows controlled bending | 1 | ST2-SCI-01 | Joint function | Understanding |
+• **ST2-SCI-02** – A student describes how contact and non-contact forces affect an object’s motion.  
+• **ST2-PQU-01** – A student investigates the effect of changing variables on fair tests.
+
+All questions map directly to the descriptors above, ensuring syllabus coverage and cognitive progression from knowledge to application.
 
 ---
 
-*End of assessment.*
-```
+*End of Assessment*
