@@ -1,118 +1,119 @@
-# Year 3 Science & Technology – Summative Assessment  
-Topic: **Body Systems & Human Movement**
-
-**Total marks:** 20  **Time allowed:** 35 minutes  
-**Question types:**  
-• 5 × multiple-choice (1 mark each)  
-• 5 × multiple-choice (2 marks each)  
-• 5 × short-answer (1 mark each)
-
-**Syllabus:** NSW Science & Technology 2024  
-**Aligned outcomes:** ST2-SCI-01, ST2-PQU-01  
+# Year 3 Science & Technology Assessment  
+**Unit:** Body Systems and Movement  
+**Total marks:** 20  
+**Question count:** 15  
+(NSW Syllabus outcomes: ST2-SCI-01, ST2-PQU-01)
 
 ---
 
-## 🔢 Questions
+## Questions
 
-### A. Multiple-Choice (1 mark each)
+### Multiple-choice (1 mark each)
 
-1. Which organ does the skull protect?  
-   A. Heart B. Brain C. Lungs D. Stomach  
+**Q1** Which bone protects your brain?  
+- A. Femur  
+- B. Skull  
+- C. Ribs  
+- D. Humerus  
 
-2. The longest bone in the human body is the:  
-   A. Humerus B. Femur C. Tibia D. Spine  
+**Q2** What is the main role of the cartilage found between bones in a joint?  
+- A. To grow new blood cells  
+- B. To stop muscles moving  
+- C. To cushion and stop bones rubbing  
+- D. To make the bone harder  
 
-3. What type of joint is found at the knee?  
-   A. Fixed B. Ball-and-socket C. Hinge D. Pivot  
+**Q3** Where in the body would you find your quadricep muscle?  
+- A. Upper arm  
+- B. Lower leg  
+- C. Chest  
+- D. Front of the thigh  
 
-4. Which sense would you mainly use to decide if a surface is too hot to touch?  
-   A. Sight B. Hearing C. Smell D. Touch  
+**Q4** Which organ is protected by the ribcage?  
+- A. Lungs  
+- B. Eyes  
+- C. Skin  
+- D. Ears  
 
-5. A scientist’s question must be…  
-   A. testable through investigation  
-   B. answered only by experts  
-   C. written as a yes/no statement  
-   D. about living things only  
-
----
-
-### B. Multiple-Choice (2 marks each)  
-(Each question has **two correct answers**.)
-
-6. Which TWO functions are performed by the muscular system?  
-   A. Producing blood cells  
-   B. Creating body movement  
-   C. Pumping blood through the body  
-   D. Storing minerals  
-
-7. When you straighten your arm:  
-   A. The bicep relaxes  
-   B. The tricep contracts  
-   C. The elbow joint locks permanently  
-   D. The shoulder blade disappears  
-
-8. Which TWO animals are vertebrates?  
-   A. Earthworm  
-   B. Sparrow  
-   C. Sea star  
-   D. Blue-tongue lizard  
-
-9. Select TWO ways scientists keep an investigation fair.  
-   A. Change several variables at once  
-   B. Use measuring tools correctly  
-   C. Keep conditions the same for all trials  
-   D. Allow different groups to choose any equipment they like  
-
-10. Which TWO structures help protect internal organs?  
-    A. Ribcage  
-    B. Small intestine  
-    C. Pelvis  
-    D. Trachea  
+**Q5** Animals with a spine are called:  
+- A. Invertebrates  
+- B. Vertebrates  
+- C. Arthropods  
+- D. Molluscs  
 
 ---
 
-### C. Short-Answer (1 mark each)
+### Multiple-choice (2 marks each)  
+(Choose **two** answers for each question.)
 
-11. Name one muscle in the upper arm.  
-    ________________________________________________________
+**Q6** Which two bones form the elbow joint?  
+- A. Ulna  
+- B. Tibia  
+- C. Radius  
+- D. Femur  
 
-12. Explain why joints are needed between bones.  
-    ________________________________________________________
+**Q7** Which two statements describe how muscles work?  
+- A. They push bones to move them  
+- B. They pull bones to move them  
+- C. They contract (shorten) when working  
+- D. They become bones after exercise  
 
-13. You want to test whether heavier balls travel further when rolled down a ramp.  
-    State one variable you would keep the same.  
-    ________________________________________________________
+**Q8** Which two joints can only bend in one main direction?  
+- A. Knee  
+- B. Shoulder  
+- C. Elbow  
+- D. Hip  
 
-14. Give one reason an octopus can squeeze through very small gaps.  
-    ________________________________________________________
+**Q9** Which two animals are invertebrates?  
+- A. Earthworm  
+- B. Koala  
+- C. Blue-ringed octopus  
+- D. Magpie  
 
-15. How do the skeletal and muscular systems work together to let you kick a ball?  
-    ________________________________________________________
-
----
-
-## ✅ Answer Key & Marking Guide
-
-| Q | Answer(s) | Marks | Outcome | Cognitive level |
-|---|-----------|:-----:|---------|-----------------|
-| 1 | B | 1 | ST2-SCI-01 | Knowledge |
-| 2 | B | 1 | ST2-SCI-01 | Knowledge |
-| 3 | C | 1 | ST2-SCI-01 | Knowledge |
-| 4 | D | 1 | ST2-SCI-01 | Comprehension |
-| 5 | A | 1 | ST2-PQU-01 | Knowledge |
-| 6 | B & C | 2 | ST2-SCI-01 | Comprehension |
-| 7 | A & B | 2 | ST2-SCI-01 | Understanding |
-| 8 | B & D | 2 | ST2-SCI-01 | Knowledge |
-| 9 | B & C | 2 | ST2-PQU-01 | Application |
-| 10 | A & C | 2 | ST2-SCI-01 | Knowledge |
-| 11 | Bicep / tricep / deltoid | 1 | ST2-SCI-01 | Knowledge |
-| 12 | They allow movement between bones | 1 | ST2-SCI-01 | Understanding |
-| 13 | Same ramp angle / surface / release point / ball size | 1 | ST2-PQU-01 | Application |
-| 14 | It has no bones (soft body) | 1 | ST2-SCI-01 | Comprehension |
-| 15 | Muscles contract to pull on leg bones, moving the joint | 1 | ST2-SCI-01 | Application |
-
-**Total marks: 20**
+**Q10** Which two features make a test a “fair test”?  
+- A. Changing many variables at once  
+- B. Measuring with the same equipment each time  
+- C. Keeping all variables the same except one  
+- D. Having the longest possible report  
 
 ---
 
-_End of assessment_
+### Short-answer (1 mark each)
+
+**Q11** Name one bone that helps support the upper body.  
+&nbsp;  
+
+**Q12** Explain why the spine needs to be flexible as well as strong.  
+&nbsp;  
+
+**Q13** You want to find out if running speed changes when students carry a backpack. State one variable you would keep the same.  
+&nbsp;  
+
+**Q14** Describe one movement a hinge joint cannot do that a ball-and-socket joint can do.  
+&nbsp;  
+
+**Q15** Give one reason insects have an external skeleton (exoskeleton).  
+&nbsp;  
+
+---
+
+## Answer Key
+
+| Q | Correct answer(s) | Marks |
+|---|-------------------|------:|
+| 1 | B | 1 |
+| 2 | C | 1 |
+| 3 | D | 1 |
+| 4 | A | 1 |
+| 5 | B | 1 |
+| 6 | A & C | 2 |
+| 7 | B & C | 2 |
+| 8 | A & C | 2 |
+| 9 | A & C | 2 |
+|10 | B & C | 2 |
+|11 | Any appropriate supporting bone (e.g., spine, ribs, pelvis) | 1 |
+|12 | The spine bends so we can move, while strong vertebrae protect the spinal cord. | 1 |
+|13 | Any suitable controlled variable (e.g., same track, same shoes, same distance). | 1 |
+|14 | Rotation/circular movement; a hinge joint only bends and straightens. | 1 |
+|15 | Protection, support for muscles, or reduced water loss (any one). | 1 |
+
+**Total:** 20 marks
