@@ -1,188 +1,118 @@
-# Year 3 Science & Technology – End-of-Unit Assessment  
-## Forces: Pushes, Pulls & Movement  
+# Year 3 Science & Technology — **Body Systems & Movement**  
+End-of-Unit Summative Assessment (NSW Syllabus 2024)
 
-**Total marks:** 20  
-**Question count:** 15 (see distribution below)  
-**Syllabus:** NSW 2024  
-**Aligned outcomes:** ST2-PHYS-01, ST2-PHYS-02, ST2-PQU-01  
-
----
-
-### Question Distribution
-
-| Section | Items | Marks | Item numbers |
-|---------|-------|-------|--------------|
-| Multiple-choice (1 mark) | 5 | 5 | Q1–Q2, Q6–Q7, Q9 |
-| Multiple-choice (2 marks) | 5 | 10 | Q3–Q5, Q8, Q10 |
-| Short answer (1 mark) | 5 | 5 | Q11–Q15 |
-| **Total** | **15** | **20** | |
+**Total marks:** 20  **Items:** 15  
+• 5 × MCQ (1 mark) • 5 × MCQ (2 marks) • 5 × Short-answer (1 mark)  
+**Aligned outcomes:** ST2-SCI-01, ST2-PQU-01  
 
 ---
 
-## 🔢 Assessment Questions
+## 🔢 Questions
 
-### Multiple-Choice – 1 mark each
+### A. Multiple-Choice — 1 mark each
 
-**Q1**  
-Which force pulls objects toward the centre of the Earth?  
+1. **What is the main job of the skull?**  
+   - [ ] A. Help us walk  
+   - [ ] B. Protect the brain  
+   - [ ] C. Digest food  
+   - [ ] D. Pump blood  
 
-- A. Magnetism  
-- B. Friction  
-- C. **Gravity** ✅  
-- D. Push  
+2. **Which body part is made of many small bones stacked together so we can twist and bend?**  
+   - [ ] A. Spine  
+   - [ ] B. Pelvis  
+   - [ ] C. Ribcage  
+   - [ ] D. Femur  
 
----
+3. **A hinge joint (like the knee) allows movement in:**  
+   - [ ] A. One main direction  
+   - [ ] B. All directions  
+   - [ ] C. No direction  
+   - [ ] D. A complete circle  
 
-**Q2**  
-When you kick a soccer ball you are applying a:  
+4. **What connects muscles to bones?**  
+   - [ ] A. Cartilage  
+   - [ ] B. Ligaments  
+   - [ ] C. Tendons  
+   - [ ] D. Nerves  
 
-- A. Pull force  
-- B. **Push force** ✅  
-- C. Gravity force  
-- D. Magnetic force  
-
----
-
-**Q6**  
-Which surface would create the MOST friction on a sliding box?  
-
-- A. Ice rink  
-- B. Polished wood floor  
-- C. **Carpet** ✅  
-- D. Wet tiles  
-
----
-
-**Q7**  
-The north pole of a bar magnet will attract the:  
-
-- A. North pole of another magnet  
-- B. **South pole of another magnet** ✅  
-- C. Middle of the magnet  
-- D. Plastic end of the magnet  
+5. **Which of these animals is an invertebrate?**  
+   - [ ] A. Snake  
+   - [ ] B. Sparrow  
+   - [ ] C. Jellyfish  
+   - [ ] D. Cat  
 
 ---
 
-**Q9**  
-A toy car slows down as it rolls along concrete mainly because of:  
+### B. Multiple-Choice — 2 marks each  
+(Select **two** correct answers.)
 
-- A. Gravity  
-- B. Magnetism  
-- C. **Friction** ✅  
-- D. Pull force  
+6. **Which two jobs are performed by our muscles?**  
+   - [ ] A. Produce movement  
+   - [ ] B. Store calcium  
+   - [ ] C. Keep body posture  
+   - [ ] D. Make red blood cells  
 
----
+7. **When you straighten your leg, which two of the following happen?**  
+   - [ ] A. The quadricep muscle contracts  
+   - [ ] B. The hamstring muscle contracts  
+   - [ ] C. The lower-leg bone moves  
+   - [ ] D. The knee joint disappears  
 
-### Multiple-Choice – 2 marks each  
-*(Choose TWO correct answers in each item.)*
+8. **Which two are parts of the axial skeleton?**  
+   - [ ] A. Skull  
+   - [ ] B. Humerus  
+   - [ ] C. Ribs  
+   - [ ] D. Tibia  
 
-**Q3**  
-Which of the following are examples of **contact forces**?  
+9. **Which two animals have an external skeleton (exoskeleton)?**  
+   - [ ] A. Crab  
+   - [ ] B. Earthworm  
+   - [ ] C. Butterfly  
+   - [ ] D. Lizard  
 
-- A. **Friction** ✅  
-- B. Gravity  
-- C. **Air resistance** ✅  
-- D. Magnetism  
-
----
-
-**Q4**  
-When a cyclist starts pedalling faster, which TWO changes happen?  
-
-- A. **The push force on the pedals increases** ✅  
-- B. **Friction between tyres and road increases** ✅  
-- C. Earth’s magnetic force increases  
-- D. The rider’s weight increases  
-
----
-
-**Q5**  
-A paper clip jumps toward a magnet. Which TWO statements describe the forces at work?  
-
-- A. **A non-contact force acts on the clip** ✅  
-- B. The magnet pushes the clip away  
-- C. **The magnet attracts the iron in the clip** ✅  
-- D. Gravity stops acting on the clip  
+10. **Which two statements describe a fair scientific test?**  
+    - [ ] A. Only one variable is changed at a time  
+    - [ ] B. Results are measured or observed carefully  
+    - [ ] C. The equipment is colourful  
+    - [ ] D. No observations are recorded  
 
 ---
 
-**Q8**  
-Which TWO actions would help a block slide FURTHER along a surface?  
+### C. Short-Answer — 1 mark each
 
-- A. **Add oil between the block and surface** ✅  
-- B. Increase the block’s weight  
-- C. Make the surface rougher  
-- D. **Use a smoother surface** ✅  
+11. Name **one** bone found in the human arm.  
 
----
+12. Explain how **tendons** help your body move.  
 
-**Q10**  
-You are testing how ramp height affects the speed of a toy car. To make the test fair you should:  
+13. You want to test whether wearing heavy shoes affects how high students can jump.  
+    State **one** variable you would keep the same for all students.  
 
-- A. **Change only the ramp height each trial** ✅  
-- B. Use a different toy car for each trial  
-- C. **Measure distance or time the same way each trial** ✅  
-- D. Push the car with a different force each trial  
+14. Give **one** way a fish’s skeleton is different from a human skeleton.  
+
+15. Why do insects need to **shed (moult) their exoskeleton** as they grow?  
 
 ---
 
-### ✍️ Short-Answer – 1 mark each  
+## ✅ Answer Key & Marking Guide
 
-**Q11**  
-Name one non-contact force other than gravity.  
-
-Model answer: *Magnetism* (electrostatic force also acceptable)
-
----
-
-**Q12**  
-Explain how friction affects a sled moving on snow.  
-
-Model answer: *Low friction between the sled and snow lets the sled move faster and further.*
-
----
-
-**Q13**  
-Give one safety reason for having high-friction soles on shoes.  
-
-Model answer: *High friction helps grip the ground so people don’t slip.*
-
----
-
-**Q14**  
-Describe one way to make a toy car roll further down the same ramp **without** changing the ramp’s height.  
-
-Model answer: *Reduce friction (e.g. polish or oil the wheels / use smoother wheels).*
+| Q | Answer(s) | Marks | Outcome | Cognitive focus |
+|---|-----------|------:|---------|-----------------|
+| 1 | B | 1 | ST2-SCI-01 | Recall |
+| 2 | A | 1 | ST2-SCI-01 | Recall |
+| 3 | A | 1 | ST2-SCI-01 | Comprehension |
+| 4 | C | 1 | ST2-SCI-01 | Recall |
+| 5 | C | 1 | ST2-SCI-01 | Classification |
+| 6 | A, C | 2 | ST2-SCI-01 | Understanding |
+| 7 | A, C | 2 | ST2-SCI-01 | Application |
+| 8 | A, C | 2 | ST2-SCI-01 | Knowledge |
+| 9 | A, C | 2 | ST2-SCI-01 | Classification |
+|10 | A, B | 2 | ST2-PQU-01 | Process skills |
+|11 | Humerus / radius / ulna (any one) | 1 | ST2-SCI-01 | Recall |
+|12 | Tendons attach muscles to bones so contracting muscles move bones. | 1 | ST2-SCI-01 | Explanation |
+|13 | Any constant variable (e.g. same surface, same measuring device, same jump technique). | 1 | ST2-PQU-01 | Experimental design |
+|14 | Sample differences: more cartilage, fins not limbs, streamlined bone shape for swimming. | 1 | ST2-SCI-01 | Comparison |
+|15 | Exoskeleton cannot expand; insect must shed it to grow larger. | 1 | ST2-SCI-01 | Explanation |
 
 ---
 
-**Q15**  
-When testing how different surfaces affect how far a ball rolls, name one variable you would **measure**.  
-
-Model answer: *The distance the ball rolls* (time taken is also acceptable).
-
----
-
-## ✅ Answer Key & Marks Breakdown
-
-| Q | Correct answer(s) | Marks | Syllabus outcome | Content focus | Cognitive level |
-|---|-------------------|------:|------------------|---------------|-----------------|
-| 1 | C | 1 | ST2-PHYS-01 | Gravity as a force | Knowledge |
-| 2 | B | 1 | ST2-PHYS-01 | Push vs pull | Knowledge |
-| 3 | A, C | 2 | ST2-PHYS-01 | Contact forces | Comprehension |
-| 4 | A, B | 2 | ST2-PHYS-02 | Forces in everyday life | Application |
-| 5 | A, C | 2 | ST2-PHYS-01 | Magnetic force | Comprehension |
-| 6 | C | 1 | ST2-PHYS-02 | Effects of friction | Knowledge |
-| 7 | B | 1 | ST2-PHYS-01 | Magnetic attraction | Knowledge |
-| 8 | A, D | 2 | ST2-PHYS-02 | Reducing friction | Application |
-| 9 | C | 1 | ST2-PHYS-02 | Friction slows motion | Knowledge |
-| 10 | A, C | 2 | ST2-PQU-01 | Fair-testing variables | Analysis |
-| 11 | Magnetism | 1 | ST2-PHYS-01 | Non-contact forces | Knowledge |
-| 12 | Low friction speeds motion | 1 | ST2-PHYS-02 | Force & motion link | Comprehension |
-| 13 | High friction prevents slips | 1 | ST2-PHYS-02 | Everyday application | Application |
-| 14 | Reduce friction | 1 | ST2-PHYS-02 | Changing variables | Application |
-| 15 | Distance (or time) | 1 | ST2-PQU-01 | Measuring variables | Analysis |
-
----
-
-**End of assessment**
+*End of assessment*
