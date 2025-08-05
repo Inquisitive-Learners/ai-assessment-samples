@@ -1,118 +1,118 @@
-# Year 3 Science & Technology — **Body Systems & Movement**  
-End-of-Unit Summative Assessment (NSW Syllabus 2024)
+# Year 3 Science & Technology – Summative Assessment  
+Topic: **Body Systems & Human Movement**
 
-**Total marks:** 20  **Items:** 15  
-• 5 × MCQ (1 mark) • 5 × MCQ (2 marks) • 5 × Short-answer (1 mark)  
+**Total marks:** 20  **Time allowed:** 35 minutes  
+**Question types:**  
+• 5 × multiple-choice (1 mark each)  
+• 5 × multiple-choice (2 marks each)  
+• 5 × short-answer (1 mark each)
+
+**Syllabus:** NSW Science & Technology 2024  
 **Aligned outcomes:** ST2-SCI-01, ST2-PQU-01  
 
 ---
 
 ## 🔢 Questions
 
-### A. Multiple-Choice — 1 mark each
+### A. Multiple-Choice (1 mark each)
 
-1. **What is the main job of the skull?**  
-   - [ ] A. Help us walk  
-   - [ ] B. Protect the brain  
-   - [ ] C. Digest food  
-   - [ ] D. Pump blood  
+1. Which organ does the skull protect?  
+   A. Heart B. Brain C. Lungs D. Stomach  
 
-2. **Which body part is made of many small bones stacked together so we can twist and bend?**  
-   - [ ] A. Spine  
-   - [ ] B. Pelvis  
-   - [ ] C. Ribcage  
-   - [ ] D. Femur  
+2. The longest bone in the human body is the:  
+   A. Humerus B. Femur C. Tibia D. Spine  
 
-3. **A hinge joint (like the knee) allows movement in:**  
-   - [ ] A. One main direction  
-   - [ ] B. All directions  
-   - [ ] C. No direction  
-   - [ ] D. A complete circle  
+3. What type of joint is found at the knee?  
+   A. Fixed B. Ball-and-socket C. Hinge D. Pivot  
 
-4. **What connects muscles to bones?**  
-   - [ ] A. Cartilage  
-   - [ ] B. Ligaments  
-   - [ ] C. Tendons  
-   - [ ] D. Nerves  
+4. Which sense would you mainly use to decide if a surface is too hot to touch?  
+   A. Sight B. Hearing C. Smell D. Touch  
 
-5. **Which of these animals is an invertebrate?**  
-   - [ ] A. Snake  
-   - [ ] B. Sparrow  
-   - [ ] C. Jellyfish  
-   - [ ] D. Cat  
+5. A scientist’s question must be…  
+   A. testable through investigation  
+   B. answered only by experts  
+   C. written as a yes/no statement  
+   D. about living things only  
 
 ---
 
-### B. Multiple-Choice — 2 marks each  
-(Select **two** correct answers.)
+### B. Multiple-Choice (2 marks each)  
+(Each question has **two correct answers**.)
 
-6. **Which two jobs are performed by our muscles?**  
-   - [ ] A. Produce movement  
-   - [ ] B. Store calcium  
-   - [ ] C. Keep body posture  
-   - [ ] D. Make red blood cells  
+6. Which TWO functions are performed by the muscular system?  
+   A. Producing blood cells  
+   B. Creating body movement  
+   C. Pumping blood through the body  
+   D. Storing minerals  
 
-7. **When you straighten your leg, which two of the following happen?**  
-   - [ ] A. The quadricep muscle contracts  
-   - [ ] B. The hamstring muscle contracts  
-   - [ ] C. The lower-leg bone moves  
-   - [ ] D. The knee joint disappears  
+7. When you straighten your arm:  
+   A. The bicep relaxes  
+   B. The tricep contracts  
+   C. The elbow joint locks permanently  
+   D. The shoulder blade disappears  
 
-8. **Which two are parts of the axial skeleton?**  
-   - [ ] A. Skull  
-   - [ ] B. Humerus  
-   - [ ] C. Ribs  
-   - [ ] D. Tibia  
+8. Which TWO animals are vertebrates?  
+   A. Earthworm  
+   B. Sparrow  
+   C. Sea star  
+   D. Blue-tongue lizard  
 
-9. **Which two animals have an external skeleton (exoskeleton)?**  
-   - [ ] A. Crab  
-   - [ ] B. Earthworm  
-   - [ ] C. Butterfly  
-   - [ ] D. Lizard  
+9. Select TWO ways scientists keep an investigation fair.  
+   A. Change several variables at once  
+   B. Use measuring tools correctly  
+   C. Keep conditions the same for all trials  
+   D. Allow different groups to choose any equipment they like  
 
-10. **Which two statements describe a fair scientific test?**  
-    - [ ] A. Only one variable is changed at a time  
-    - [ ] B. Results are measured or observed carefully  
-    - [ ] C. The equipment is colourful  
-    - [ ] D. No observations are recorded  
+10. Which TWO structures help protect internal organs?  
+    A. Ribcage  
+    B. Small intestine  
+    C. Pelvis  
+    D. Trachea  
 
 ---
 
-### C. Short-Answer — 1 mark each
+### C. Short-Answer (1 mark each)
 
-11. Name **one** bone found in the human arm.  
+11. Name one muscle in the upper arm.  
+    ________________________________________________________
 
-12. Explain how **tendons** help your body move.  
+12. Explain why joints are needed between bones.  
+    ________________________________________________________
 
-13. You want to test whether wearing heavy shoes affects how high students can jump.  
-    State **one** variable you would keep the same for all students.  
+13. You want to test whether heavier balls travel further when rolled down a ramp.  
+    State one variable you would keep the same.  
+    ________________________________________________________
 
-14. Give **one** way a fish’s skeleton is different from a human skeleton.  
+14. Give one reason an octopus can squeeze through very small gaps.  
+    ________________________________________________________
 
-15. Why do insects need to **shed (moult) their exoskeleton** as they grow?  
+15. How do the skeletal and muscular systems work together to let you kick a ball?  
+    ________________________________________________________
 
 ---
 
 ## ✅ Answer Key & Marking Guide
 
-| Q | Answer(s) | Marks | Outcome | Cognitive focus |
-|---|-----------|------:|---------|-----------------|
-| 1 | B | 1 | ST2-SCI-01 | Recall |
-| 2 | A | 1 | ST2-SCI-01 | Recall |
-| 3 | A | 1 | ST2-SCI-01 | Comprehension |
-| 4 | C | 1 | ST2-SCI-01 | Recall |
-| 5 | C | 1 | ST2-SCI-01 | Classification |
-| 6 | A, C | 2 | ST2-SCI-01 | Understanding |
-| 7 | A, C | 2 | ST2-SCI-01 | Application |
-| 8 | A, C | 2 | ST2-SCI-01 | Knowledge |
-| 9 | A, C | 2 | ST2-SCI-01 | Classification |
-|10 | A, B | 2 | ST2-PQU-01 | Process skills |
-|11 | Humerus / radius / ulna (any one) | 1 | ST2-SCI-01 | Recall |
-|12 | Tendons attach muscles to bones so contracting muscles move bones. | 1 | ST2-SCI-01 | Explanation |
-|13 | Any constant variable (e.g. same surface, same measuring device, same jump technique). | 1 | ST2-PQU-01 | Experimental design |
-|14 | Sample differences: more cartilage, fins not limbs, streamlined bone shape for swimming. | 1 | ST2-SCI-01 | Comparison |
-|15 | Exoskeleton cannot expand; insect must shed it to grow larger. | 1 | ST2-SCI-01 | Explanation |
+| Q | Answer(s) | Marks | Outcome | Cognitive level |
+|---|-----------|:-----:|---------|-----------------|
+| 1 | B | 1 | ST2-SCI-01 | Knowledge |
+| 2 | B | 1 | ST2-SCI-01 | Knowledge |
+| 3 | C | 1 | ST2-SCI-01 | Knowledge |
+| 4 | D | 1 | ST2-SCI-01 | Comprehension |
+| 5 | A | 1 | ST2-PQU-01 | Knowledge |
+| 6 | B & C | 2 | ST2-SCI-01 | Comprehension |
+| 7 | A & B | 2 | ST2-SCI-01 | Understanding |
+| 8 | B & D | 2 | ST2-SCI-01 | Knowledge |
+| 9 | B & C | 2 | ST2-PQU-01 | Application |
+| 10 | A & C | 2 | ST2-SCI-01 | Knowledge |
+| 11 | Bicep / tricep / deltoid | 1 | ST2-SCI-01 | Knowledge |
+| 12 | They allow movement between bones | 1 | ST2-SCI-01 | Understanding |
+| 13 | Same ramp angle / surface / release point / ball size | 1 | ST2-PQU-01 | Application |
+| 14 | It has no bones (soft body) | 1 | ST2-SCI-01 | Comprehension |
+| 15 | Muscles contract to pull on leg bones, moving the joint | 1 | ST2-SCI-01 | Application |
+
+**Total marks: 20**
 
 ---
 
-*End of assessment*
+_End of assessment_
