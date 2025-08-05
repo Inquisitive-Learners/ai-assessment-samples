@@ -1,111 +1,156 @@
-```markdown
-# Year 1 Science & Technology  
-## Summative Assessment — **“Pushes, Pulls & Magnets”**
+# Year 3 Science & Technology – Summative Assessment  
+**Unit:** Body Systems and Movement  
+**NSW Syllabus (2024) Outcomes:** ST2-SCI-01, ST2-PQU-01  
 
-**Total marks:** 20  **Number of questions:** 15  **Time allowed:** 30 min  
-
-### Aligned NSW 2024 syllabus outcomes (verbatim)
-• **ST1-PQU-01**  “explores how forces can be exerted on an object to change its movement”  
-• **ST1-SCI-01**   “uses their observations to suggest why things happen the way they do”  
-• **ST1-DAT-01**  “collects, explores and sorts data, and uses digital systems to present the data creatively”  
+* Total Marks: **20**  
+* Time Allowed: **30 minutes**  
+* Format: **15 questions**
 
 ---
 
-## 1. Question Set
+### STUDENT DETAILS  
 
-### 1.1 Multiple-choice (1 mark each)
-
-1. Pushing a toy car makes it move because a push is a …  
-   A. sound  B. light  C. **force**  D. liquid  
-
-2. Which picture shows a pull?  
-   A. kicking a ball  B. **stretching a rubber band**  C. apple falling  D. lamp shining  
-
-3. When you sprinkle sand on a smooth slide, the slide becomes slower. The sand is increasing …  
-   A. gravity  B. **friction**  C. magnetism  D. light  
-
-4. A magnet will attract which object?  
-   A. wooden ruler  B. plastic spoon  C. **iron nail**  D. paper-clip made of cardboard  
-
-5. Which statement about magnets is *true*?  
-   A. They push or pull only in water.  
-   B. They need batteries to work.  
-   C. **They can exert a force without touching.**  
-   D. They always repel metal objects.  
+| Name | Class | Date |
+|------|-------|------|
+|  |  |  |
 
 ---
 
-### 1.2 Multiple-choice — *Choose TWO answers* (2 marks each)
-
-6. **Which TWO actions use a push?**  
-   A. Opening a drawer toward you  
-   B. **Rolling dough with a rolling pin**  
-   C. Tugging a rope in tug-of-war  
-   D. **Pressing a door-bell button**  
-
-7. **Which TWO factors could make a toy car roll *further* down a ramp?**  
-   A. **Making the ramp steeper**  
-   B. Adding rough sand-paper to the ramp  
-   C. Using a heavier car  
-   D. **Using a lighter car with smooth wheels**  
-
-8. **Which TWO objects rely mostly on friction to work?**  
-   A. **Rubbing hands to get warm**  
-   B. Skates on ice  
-   C. **Bicycle brakes**  
-   D. Floating balloon  
-
-9. **Which TWO statements describe non-contact forces?**  
-   A. **A magnet attracting a paper-clip**  
-   B. Hands squeezing a sponge  
-   C. **Earth pulling a ball downward**  
-   D. Feet kicking a football  
-
-10. **When recording results of an investigation on ramp height and distance travelled, which TWO digital tools could Year 1 students use to present the data?**  
-    A. A tally table drawn on paper  
-    B. **A bar graph made in a simple spreadsheet app**  
-    C. **Voice recording to describe what happened**  
-    D. A hand-held fan  
+## Instructions to Students
+1. Read every question carefully.  
+2. For multiple-choice questions, shade **ONE** circle.  
+3. For the “Choose TWO” questions, shade **TWO** circles.  
+4. Write all short answers in the space provided.  
+5. Check your work if you finish early.
 
 ---
 
-### 1.3 Short-answer (1 mark each)
+## Questions
 
-11. Name one everyday object that needs a *push* to start moving.  
+### A. Multiple-Choice (1 mark each)
 
-12. How does friction affect a moving object? *(One short sentence.)*  
+**Q1** What is the main job of the ribcage?  
+- ⭘ A. Help us chew food  
+- ⭘ B. Support our arms  
+- ⭘ C. Protect our heart and lungs  
+- ⭘ D. Connect legs to hips  
 
-13. In an investigation to see if bigger magnets pick up more paper-clips, what ONE thing should you keep the same to make it a *fair test*?  
+**Q2** Which part of the skeleton connects the upper body to the legs?  
+- ⭘ A. Skull  
+- ⭘ B. Pelvis  
+- ⭘ C. Spine  
+- ⭘ D. Ribcage  
 
-14. Give one example of a *non-contact* force other than magnetism.  
+**Q6** A ball-and-socket joint allows:  
+- ⭘ A. Only bending  
+- ⭘ B. No movement  
+- ⭘ C. Movement in all directions  
+- ⭘ D. Jumping  
 
-15. A student sorted objects into “magnetic” and “non-magnetic”. What type of data representation could they use on a tablet to show their results clearly?  
+**Q7** What is the job of a joint in your skeleton?  
+- ⭘ A. Protect your brain  
+- ⭘ B. Help you move by connecting bones  
+- ⭘ C. Make bones grow longer  
+- ⭘ D. Pump blood around the body  
 
----
-
-## 2. Answer Key & Marking Guide
-
-| Q | Correct answer(s) | Marks | Outcome | Syllabus descriptor (verbatim) | Cognitive level |
-|---|-------------------|------:|---------|--------------------------------|-----------------|
-| 1 | C | 1 | ST1-PQU-01 | explores how forces can be exerted on an object to change its movement | Recall |
-| 2 | B | 1 | ST1-PQU-01 | ” | Identify |
-| 3 | B | 1 | ST1-PQU-01 | ” | Concept |
-| 4 | C | 1 | ST1-PQU-01 | ” | Recall |
-| 5 | C | 1 | ST1-PQU-01 | ” | Concept |
-| 6 | B & D | 2 | ST1-PQU-01 | ” | Application |
-| 7 | A & D | 2 | ST1-PQU-01 | ” | Predict |
-| 8 | A & C | 2 | ST1-PQU-01 | ” | Application |
-| 9 | A & C | 2 | ST1-PQU-01 | ” | Classify |
-|10 | B & C | 2 | ST1-DAT-01 | collects, explores and sorts data, and uses digital systems to present the data creatively | Apply |
-|11 | e.g. supermarket trolley, door, basketball | 1 | ST1-PQU-01 | ” | Recall |
-|12 | “Friction slows things down.” (or equivalent) | 1 | ST1-PQU-01 | ” | Explain |
-|13 | Any controlled variable sensibly stated (e.g. same size paper-clips / same surface) | 1 | ST1-SCI-01 | uses their observations to suggest why things happen the way they do | Plan fair test |
-|14 | Gravity | 1 | ST1-PQU-01 | explores how forces can be exerted … | Recall |
-|15 | e.g. simple column chart, pictograph, bar graph | 1 | ST1-DAT-01 | collects, explores … | Apply digital data |
-
-**Grand total: 20 marks**
+**Q9** Which animal has no spine?  
+- ⭘ A. Fish  
+- ⭘ B. Dog  
+- ⭘ C. Octopus  
+- ⭘ D. Frog  
 
 ---
 
-_End of assessment_
-```
+### B. Multiple-Choice – *Choose TWO answers* (2 marks each)
+
+**Q3** Which of the following are jobs of the human skeleton?  
+- ⭘ A. Make blood  
+- ⭘ B. Help digestion  
+- ⭘ C. Protect organs  
+- ⭘ D. Support the body  
+
+**Q4** When you bend your arm, which of the following happens?  
+- ⭘ A. The bicep muscle shortens  
+- ⭘ B. The tricep muscle shortens  
+- ⭘ C. The lower-arm bone moves  
+- ⭘ D. The elbow joint shortens  
+
+**Q5** Which body parts are directly involved in making the arm bend?  
+- ⭘ A. Shoulder joint  
+- ⭘ B. Elbow joint  
+- ⭘ C. Bicep muscle  
+- ⭘ D. Skull  
+
+**Q8** Which animals are invertebrates?  
+- ⭘ A. Hamster  
+- ⭘ B. Squid  
+- ⭘ C. Stag beetle  
+- ⭘ D. Frog  
+
+**Q10** What makes a question a scientific question?  
+- ⭘ A. It has a long answer  
+- ⭘ B. It is about animals or people  
+- ⭘ C. It can be tested through an investigation  
+- ⭘ D. It has only one correct answer  
+
+---
+
+### C. Short-Answer (1 mark each)
+
+| Q | Question | Answer space |
+|---|----------|--------------|
+| 11 | Name **one** part of the human skeleton that supports the body. | |
+| 12 | How do the skeletal and muscular systems work together? | |
+| 13 | You are testing whether students with longer arms can throw a ball further. Describe **one** way to make sure your test is fair. | |
+| 14 | How do invertebrates move differently from vertebrates? | |
+| 15 | Why might a crab need an external skeleton? | |
+
+---
+
+### --- END OF STUDENT PAPER ---
+
+---
+
+# Teacher Answer Key & Marking Guide
+
+| Q | Correct Answer(s) | Marks |
+|---|-------------------|-------|
+| 1 | C | 1 |
+| 2 | B | 1 |
+| 3 | C and D | 2 |
+| 4 | A and C | 2 |
+| 5 | B and C | 2 |
+| 6 | C | 1 |
+| 7 | B | 1 |
+| 8 | B and C | 2 |
+| 9 | C | 1 |
+| 10 | C | 1 |
+| 11 | Spine / pelvis / femur (any one) | 1 |
+| 12 | Muscles pull on bones to create movement | 1 |
+| 13 | Any control of variables, e.g. same ball and throw position | 1 |
+| 14 | They move without bones (crawl, slither, float, etc.) | 1 |
+| 15 | For protection and support of soft tissues | 1 |
+
+---
+
+## Marks Breakdown by Syllabus Outcome
+- **ST2-SCI-01:** 17 marks  
+- **ST2-PQU-01:** 3 marks  
+- **Total:** 20 marks
+
+---
+
+## Cognitive Demand
+- **Knowledge / Understanding:** Q1–10  
+- **Applying / Communicating:** Q11–15  
+
+---
+
+## Administration Notes
+* Suggested timing: 15 min (MC) + 15 min (Short-answer).  
+* Resources: None required.  
+* Record individual and class-level data against outcomes to inform next-step teaching.
+
+---
+
+### --- END OF ASSESSMENT PACK ---
