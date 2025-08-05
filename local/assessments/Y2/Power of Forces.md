@@ -1,104 +1,125 @@
+Below is the assessment re-formatted entirely in Markdown.  
+(You can copy-paste it straight into any Markdown editor or LMS that supports GitHub-flavoured Markdown.)
+
 ```markdown
-# Year 3 Science & Technology Assessment — **Body Systems & Movement**
-
-**Total marks:** 20  
-**Question types (15):**  
-- 5 × multiple-choice (1 mark each)  
-- 5 × multiple-choice **“Choose TWO”** (2 marks each)  
-- 5 × short-answer (1 mark each)  
-
-**Aligned outcomes:** ST2-SCI-01, ST2-PQU-01  
-**NSW syllabus version:** 2024  
+# Year 3 Science & Technology Assessment  
+### Unit: Body Systems and Movement  
+**Total marks:** 20 | **Questions:** 15  
+**Syllabus:** NSW Science & Technology 2024  
+**Outcomes:** ST2-SCI-01, ST2-PQU-01  
 
 ---
 
-## 🔢 Assessment Questions
+## 🔢 Questions
 
-### Multiple-Choice — 1 mark each  
+### 1. Multiple-choice (1 mark each)
 
-**Q1** Which bones protect your brain?  
-A. Ribs  B. **Skull**  C. Spine  D. Pelvis  
+1. **Which organ does the skull protect?**  
+   - A. Heart  
+   - B. Brain  
+   - C. Lungs  
+   - D. Stomach  
 
-**Q2** What connects muscles to bones?  
-A. Ligaments B. Cartilage C. **Tendons** D. Nerves  
+2. **Which bones make up your backbone?**  
+   - A. Ribs  
+   - B. Vertebrae  
+   - C. Phalanges  
+   - D. Femur  
 
-**Q3** The long bone in your upper arm is called the:  
-A. Femur B. **Humerus** C. Tibia D. Fibula  
+3. **Where is your patella located?**  
+   - A. Elbow  
+   - B. Knee  
+   - C. Shoulder  
+   - D. Neck  
 
-**Q4** Which type of joint lets you bend and straighten your knee?  
-A. Ball-and-socket B. Pivot C. **Hinge** D. Fixed  
+4. **Which body system carries messages between the brain and the muscles?**  
+   - A. Digestive system  
+   - B. Respiratory system  
+   - C. Nervous system  
+   - D. Circulatory system  
 
-**Q5** An animal without a backbone is called an:  
-A. Insectivore B. Vertebrate C. Herbivore D. **Invertebrate**  
-
----
-
-### Multiple-Choice — **Choose TWO** (2 marks each)  
-
-**Q6** *Which TWO jobs are done by the human skeleton?*  
-A. Producing movement chemicals  
-B. **Making blood cells**  
-C. **Protecting organs**  
-D. **Supporting the body**  
-
-**Q7** *When you straighten your arm, which TWO things happen?*  
-A. **Bicep muscle relaxes**  
-B. **Tricep muscle shortens**  
-C. Elbow joint locks  
-D. Lower-arm bone disappears  
-
-**Q8** *Which TWO animals are invertebrates?*  
-A. **Earthworm**  
-B. Bat  
-C. **Jellyfish**  
-D. Koala  
-
-**Q9** *Which TWO statements describe a fair scientific test?*  
-A. **Only one variable is changed**  
-B. Everyone guesses the result first  
-C. **Results are measured the same way each time**  
-D. The test is done once only  
-
-**Q10** *Which TWO features make a question suitable for investigation?*  
-A. **It can be measured or observed**  
-B. It starts with “Why”  
-C. It is answered by opinion  
-D. **It can be tested with an experiment**  
+5. **An example of a hinge joint is found in your:**  
+   - A. Hip  
+   - B. Knee  
+   - C. Skull  
+   - D. Wrist  
 
 ---
 
-### ✍️ Short-Answer — 1 mark each  
+### 2. Multiple-choice — Select TWO (2 marks each)
 
-**Q11** Name **one** bone that helps support the body’s weight.  
+6. **Which *two* bones are found in the lower arm?**  
+   - A. Ulna  
+   - B. Tibia  
+   - C. Radius  
+   - D. Fibula  
 
-**Q12** Explain, in **one sentence**, how muscles move bones.  
+7. **When you straighten your leg, which *two* of the following occur?**  
+   - A. The quadriceps muscle shortens  
+   - B. The hamstring muscle shortens  
+   - C. The knee joint extends  
+   - D. The femur shrinks  
 
-**Q13** A student wants to test if heavier balls roll faster down a ramp.  
-Write **one** variable that should stay the same to keep the test fair.  
+8. **Which *two* animals are vertebrates?**  
+   - A. Earthworm  
+   - B. Kangaroo  
+   - C. Sparrow  
+   - D. Snail  
 
-**Q14** Give **one** example of how an octopus moves without bones.  
+9. **Which *two* actions help to make a fair scientific test?**  
+   - A. Changing several variables at once  
+   - B. Writing a prediction  
+   - C. Controlling variables not being tested  
+   - D. Ignoring unexpected results  
 
-**Q15** Why do insects have an exoskeleton instead of internal bones?  
+10. **Which *two* statements best describe a scientific prediction?**  
+    - A. It is based on prior knowledge or evidence  
+    - B. It is always correct  
+    - C. It can be tested by investigation  
+    - D. It is a question  
+
+---
+
+### 3. Short-answer (1 mark each)
+
+11. **Name one bone that protects internal organs.**  
+    _Sample answer: Skull, ribs or pelvis._
+
+12. **Explain briefly how muscles and bones work together to move your arm.**  
+    _Sample answer: A contracting muscle pulls on its attached bone, acting like a lever to move the arm._
+
+13. **You are testing if different shoe types affect running speed. State one variable you would keep the same to make the test fair.**  
+    _Sample answer: Keep the running distance (or the runner, surface, time of day, etc.) the same._
+
+14. **Give one reason insects can move quickly even though they have no internal bones.**  
+    _Sample answer: Their lightweight exoskeleton with jointed legs allows rapid movement._
+
+15. **Why is a hinge joint suitable for the knee?**  
+    _Sample answer: It allows bending in one direction, supporting walking, running and standing._
 
 ---
 
 ## ✅ Answer Key & Marks Breakdown
 
-| Q  | Acceptable answer(s)                                                   | Marks | Outcome     | Cognitive level |
-|----|------------------------------------------------------------------------|------:|-------------|-----------------|
-| 1  | Skull                                                                  | 1     | ST2-SCI-01  | Remember        |
-| 2  | Tendons                                                                | 1     | ST2-SCI-01  | Remember        |
-| 3  | Humerus                                                                | 1     | ST2-SCI-01  | Remember        |
-| 4  | Hinge joint                                                            | 1     | ST2-SCI-01  | Understand      |
-| 5  | Invertebrate                                                           | 1     | ST2-SCI-01  | Remember        |
-| 6  | Making blood cells; Protecting organs *(1 mark each, any order)*       | 2     | ST2-SCI-01  | Understand      |
-| 7  | Bicep relaxes; Tricep shortens *(1 mark each, any order)*              | 2     | ST2-SCI-01  | Understand      |
-| 8  | Earthworm; Jellyfish *(1 mark each, any order)*                        | 2     | ST2-SCI-01  | Apply           |
-| 9  | Only one variable changed; Results measured consistently *(1 each)*    | 2     | ST2-PQU-01  | Apply           |
-| 10 | Can be measured/observed; Can be tested experimentally *(1 each)*      | 2     | ST2-PQU-01  | Understand      |
-| 11 | e.g. Femur, pelvis, spine                                              | 1     | ST2-SCI-01  | Recall          |
-| 12 | Muscles contract (shorten) and **pull** on bones to move them          | 1     | ST2-SCI-01  | Explain         |
-| 13 | Any constant, e.g. same ramp, angle, surface, start point              | 1     | ST2-PQU-01  | Apply           |
-| 14 | e.g. Jet propulsion by squirting water; crawling with tentacles        | 1     | ST2-SCI-01  | Explain         |
-| 15 | Exoskeleton protects soft body parts and provides support              | 1     | ST2-SCI-01  | Explain         |
+| Q | Correct answer(s) | Marks | Outcome | Descriptor | Cognitive level |
+|---|-------------------|:----:|---------|------------|-----------------|
+| 1 | B | 1 | ST2-SCI-01 | Protection (skull) | Knowledge |
+| 2 | B | 1 | ST2-SCI-01 | Backbone structure | Knowledge |
+| 3 | B | 1 | ST2-SCI-01 | Bone identification | Knowledge |
+| 4 | C | 1 | ST2-SCI-01 | Body systems | Knowledge |
+| 5 | B | 1 | ST2-SCI-01 | Joint types | Knowledge |
+| 6 | A & C | 2 | ST2-SCI-01 | Arm bones | Knowledge |
+| 7 | A & C | 2 | ST2-SCI-01 | Muscles & movement | Understanding |
+| 8 | B & C | 2 | ST2-SCI-01 | Vertebrate/invertebrate | Knowledge |
+| 9 | B & C | 2 | ST2-PQU-01 | Fair testing | Understanding |
+|10 | A & C | 2 | ST2-PQU-01 | Nature of prediction | Understanding |
+|11 | Skull / ribs / pelvis | 1 | ST2-SCI-01 | Skeletal protection | Knowledge |
+|12 | Muscles pull bones | 1 | ST2-SCI-01 | Systems interaction | Understanding |
+|13 | Any valid control | 1 | ST2-PQU-01 | Fair testing | Application |
+|14 | Lightweight exoskeleton | 1 | ST2-SCI-01 | Movement comparison | Understanding |
+|15 | Allows controlled bending | 1 | ST2-SCI-01 | Joint function | Understanding |
+
+---
+
+*End of assessment.*
 ```
