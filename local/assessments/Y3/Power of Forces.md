@@ -1,93 +1,108 @@
-# Cognitive Assessment Subsystem
+# Year 3 Science & Technology Assessment — Body Systems and Movement
 
-## 1. Framework  
-- Based on a simplified Bloom’s taxonomy:  
-  - **Remember** (recall facts and terminology)  
-  - **Understand** (explain ideas or concepts)  
-  - **Apply/Analyse** (use information in new situations; interpret data; follow procedures)  
-- “Scientific skills” questions are drawn from Apply/Analyse—pose, test, observe, record, interpret.
+**Total Marks:** 20  
+**Format:** 15 questions  
+- 5 × multiple-choice (1 mark each)  
+- 5 × multiple-choice (2 marks each)  
+- 5 × short-answer (1 mark each)  
 
-## 2. Question‐Level Descriptors  
-| Level           | Focus                                                         | Marks       | Format                                           |
-|-----------------|---------------------------------------------------------------|-------------|--------------------------------------------------|
-| Remember (L1)   | identify, list, label, recognise                              | 1 each      | single‐best‐answer MCQ; short label/annotation    |
-| Understand (L2) | describe in own words; compare; explain cause–effect          | 2 each      | MCQ with two‐step reasoning; short open response |
-| Apply/Analyse (L3) | interpret data/diagrams; sequence events; record observations; test hypotheses; outline procedures | 1–2 each    | 1-mark MCQ; 1-mark short answer; 2-mark open answer |
-
-## 3. Scientific Skills Allocation  
-- **Total “skills” questions:** 3  
-  - 2 × 1-mark questions (e.g. label parts of a diagram; record a single observation)  
-  - 1 × 2-mark question (e.g. outline steps of a simple experiment)
-
-## 4. Overall Distribution (15 questions, 20 marks)  
-- **Remember:** 6 × 1 mark = 6 marks  
-- **Understand:** 2 × 2 marks = 4 marks  
-- **Apply/Analyse:**  
-  - 5 × 1 mark = 5 marks  
-  - 2 × 2 marks = 4 marks  
-
-## 5. Cognitive Constraints Checklist  
-- At least 2 understanding questions worth 2 marks each ✔  
-- Scientific skills: 1 @ 2 marks, 2 @ 1 mark each ✔  
-- Remaining questions sample across recall and application ✔  
-
-## 6. Verbs and Prompts by Level  
-- **Remember:** name, list, label, match, recognise  
-- **Understand:** describe, explain, compare, summarise  
-- **Apply/Analyse:** observe, record, interpret, outline, sequence, test, predict, design  
-
+**Syllabus:** NSW 2024  
+**Aligned Outcomes:** ST2-SCI-01, ST2-PQU-01
 
 ---
 
-# Question Construction Guidelines Subsystem
+## Multiple-Choice (1 mark each)
 
-## 1. Alignment & Coverage  
-- Map each item to a published outcome and content descriptor.  
-- Ensure breadth: recall, conceptual, skills, application.
+1. **Q1** What is the main job of the ribcage?  
+   - A. Help us chew food  
+   - B. Support our arms  
+   - C. Protect our heart and lungs  
+   - D. Connect our legs to our hips  
 
-## 2. Language & Clarity  
-- Use age-appropriate vocabulary and syntax.  
-- Phrase stems positively; avoid negatives unless necessary.  
-- Each question should ask one clear thing.
+2. **Q2** Which part of the skeleton connects the upper body to the legs?  
+   - A. Skull  
+   - B. Pelvis  
+   - C. Spine  
+   - D. Ribcage  
 
-## 3. Multiple-Choice Items  
-- 4 options (A–D); one correct only.  
-- Plausible, homogeneous distractors.  
-- Randomise correct‐answer positions.  
-- Avoid “all of the above”/“none of the above.”
+3. **Q6** A ball-and-socket joint allows:  
+   - A. Only bending  
+   - B. No movement  
+   - C. Movement in all directions  
+   - D. Jumping  
 
-## 4. Short-Answer Items  
-- Indicate required form/length (e.g. “In one sentence…”).  
-- 1 mark = one point; 2 marks = two distinct points.  
-- Encourage concise, specific answers.
+4. **Q7** What is the job of a joint in your skeleton?  
+   - A. To protect your brain  
+   - B. To help you move by connecting bones  
+   - C. To make your bones grow longer  
+   - D. To pump blood around your body  
 
-## 5. Diagrams & Data  
-- Label graphics clearly; refer in stem (“see diagram”).  
-- Ensure tables/graphs are uncluttered and legible.
-
-## 6. Marking & Feedback  
-- Provide an answer key with model answers.  
-- Break down multi-point items by element.  
-- Use consistent numbering and formatting.
-
-## 7. Layout & Formatting  
-- Use clear headings (e.g. “Multiple-Choice (2 marks each)”).  
-- Leave white space for student responses.  
-- Number questions sequentially; sub-parts as a), b), etc.  
-
+5. **Q9** Which animal has no spine?  
+   - A. Fish  
+   - B. Dog  
+   - C. Octopus  
+   - D. Frog  
 
 ---
 
-# Key Information for the Assessment Subsystem
+## Multiple-Choice (2 marks each)
 
-**Please confirm the following before drafting the paper:**
+6. **Q3** Which of the following are jobs of the human skeleton? _Choose TWO_  
+   - A. Make blood  
+   - B. Help digestion  
+   - C. Protect organs  
+   - D. Support the body  
 
-- **Year level & subject**  
-- **Unit title & key inquiry question**  
-- **Syllabus/outcome codes to assess**  
-- **Specific content/topics** (with approximate weighting)  
-- **Total marks**, **number of questions**, **time allowance**  
-- **Question types desired** (e.g. MCQ 1-mark; MCQ 2-marks; short-answer)  
-- **Special conditions** (e.g. calculator use; language support)  
+7. **Q4** When you bend your arm, which of the following happens? _Choose TWO_  
+   - A. The bicep muscle shortens  
+   - B. The tricep muscle shortens  
+   - C. The lower-arm bone moves  
+   - D. The elbow joint shortens  
 
-Once confirmed, the full assessment paper can be produced—complete with aligned mark allocations, item‐to‐outcome mapping, and an answer key.
+8. **Q5** Which body parts are involved in making the arm bend? _Choose TWO_  
+   - A. Shoulder joint  
+   - B. Elbow joint  
+   - C. Bicep muscle  
+   - D. Skull  
+
+9. **Q8** Which animals are invertebrates? _Choose TWO_  
+   - A. Hamster  
+   - B. Squid  
+   - C. Stag beetle  
+   - D. Frog  
+
+10. **Q10** What makes a question a scientific question?  
+    - A. It has a long answer  
+    - B. It is about animals or people  
+    - C. It can be tested through an investigation  
+    - D. It has only one correct answer  
+
+---
+
+## Short-Answer (1 mark each)
+
+11. **Q11** Name one part of the human skeleton that supports the body.  
+12. **Q12** How do the skeletal and muscular systems work together?  
+13. **Q13** You are testing whether students with longer arms can throw a ball further. Describe one way to make sure your test is fair.  
+14. **Q14** How do invertebrates move differently from vertebrates?  
+15. **Q15** Why might a crab need an external skeleton?  
+
+---
+
+## Answer Key & Marks Breakdown
+
+- Q1: C — 1 mark — ST2-SCI-01 — Knowledge  
+- Q2: B — 1 mark — ST2-SCI-01 — Knowledge  
+- Q3: C, D — 2 marks — ST2-SCI-01 — Knowledge  
+- Q4: A, C — 2 marks — ST2-SCI-01 — Understanding  
+- Q5: B, C — 2 marks — ST2-SCI-01 — Understanding  
+- Q6: C — 1 mark — ST2-SCI-01 — Understanding  
+- Q7: B — 1 mark — ST2-SCI-01 — Understanding  
+- Q8: B, C — 2 marks — ST2-SCI-01 — Understanding  
+- Q9: C — 1 mark — ST2-SCI-01 — Scientific Skills  
+- Q10: C — 2 marks — ST2-PQU-01 — Scientific Skills  
+- Q11: Spine / pelvis / femur — 1 mark — ST2-SCI-01 — Scientific Skills  
+- Q12: “Muscles pull on bones to create movement.” — 1 mark — ST2-SCI-01 — Scientific Skills  
+- Q13: “Use the same ball and starting position for everyone; only arm length varies.” — 1 mark — ST2-PQU-01 — Scientific Skills  
+- Q14: “Invertebrates move without bones, so they crawl, slither, or use muscles against their body wall.” — 1 mark — ST2-SCI-01 — Scientific Skills  
+- Q15: “It protects the crab’s soft body and gives points of attachment for muscles to help it move.” — 1 mark — ST2-SCI-01 — Scientific Skills
