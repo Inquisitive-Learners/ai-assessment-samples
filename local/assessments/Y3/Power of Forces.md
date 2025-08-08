@@ -1,108 +1,133 @@
-# Year 3 Science & Technology Assessment — Body Systems and Movement
-
-**Total Marks:** 20  
-**Format:** 15 questions  
-- 5 × multiple-choice (1 mark each)  
-- 5 × multiple-choice (2 marks each)  
-- 5 × short-answer (1 mark each)  
-
-**Syllabus:** NSW 2024  
-**Aligned Outcomes:** ST2-SCI-01, ST2-PQU-01
+## Stage 1 Science & Technology – Year 2  
+### Summative Assessment: *Forces Around Us*  
+*(15 questions – 20 marks — 45 – 60 minutes)*  
 
 ---
 
-## Multiple-Choice (1 mark each)
+### Assessed NSW outcomes  
+- **ST1-SCI-01** measures and describes changes in movement  
+- **ST1-PQU-01** poses questions to investigate cause and effect  
+- **ST1-DAT-01** collects, represents and uses data to identify patterns and relationships  
 
-1. **Q1** What is the main job of the ribcage?  
-   - A. Help us chew food  
-   - B. Support our arms  
-   - C. Protect our heart and lungs  
-   - D. Connect our legs to our hips  
+### Assessed content points (taken from Lessons 6280 – 6284)  
+- Recognise that a force is a push or a pull  
+- Pose questions and test the effects of forces on an object’s movement  
+- Test how frictional forces affect moving objects  
+- Test how the force of magnetism affects objects  
+- Investigate how applied forces change the movement of traditional toys and tools used by Aboriginal and/or Torres Strait Islander Peoples  
+- Sequence simple and compound sentences, and use labelled diagrams and data to describe cause and effect  
+- Use nouns, noun groups and verbs to create notes, annotations and labels to document observations  
 
-2. **Q2** Which part of the skeleton connects the upper body to the legs?  
-   - A. Skull  
-   - B. Pelvis  
-   - C. Spine  
-   - D. Ribcage  
-
-3. **Q6** A ball-and-socket joint allows:  
-   - A. Only bending  
-   - B. No movement  
-   - C. Movement in all directions  
-   - D. Jumping  
-
-4. **Q7** What is the job of a joint in your skeleton?  
-   - A. To protect your brain  
-   - B. To help you move by connecting bones  
-   - C. To make your bones grow longer  
-   - D. To pump blood around your body  
-
-5. **Q9** Which animal has no spine?  
-   - A. Fish  
-   - B. Dog  
-   - C. Octopus  
-   - D. Frog  
+### Materials required for students  
+- Pencil, coloured pencils  
+- 15 cm ruler  
+- 1 small magnet (shared)  
+- 1 metal paper clip (shared)  
 
 ---
 
-## Multiple-Choice (2 marks each)
+## Section A – Multiple-choice (4 marks)  
+*Circle the correct answer.*
 
-6. **Q3** Which of the following are jobs of the human skeleton? _Choose TWO_  
-   - A. Make blood  
-   - B. Help digestion  
-   - C. Protect organs  
-   - D. Support the body  
+1. **Which sentence best describes a push?** (1 mark)  
+   a. An object moves towards you  b. **An object moves away from you** ✔️  c. An object changes colour  d. An object gets heavier  
 
-7. **Q4** When you bend your arm, which of the following happens? _Choose TWO_  
-   - A. The bicep muscle shortens  
-   - B. The tricep muscle shortens  
-   - C. The lower-arm bone moves  
-   - D. The elbow joint shortens  
+2. **Which picture shows a pull?** (1 mark)  
+   a. Child kicking a ball  b. Child sliding a book across a desk  c. **Child opening a drawer** ✔️  d. Child pressing a door-bell  
 
-8. **Q5** Which body parts are involved in making the arm bend? _Choose TWO_  
-   - A. Shoulder joint  
-   - B. Elbow joint  
-   - C. Bicep muscle  
-   - D. Skull  
+3. **When two magnets’ north poles are placed together they will …** (1 mark)  
+   a. attract  b. **repel** ✔️  c. melt  d. make a sound  
 
-9. **Q8** Which animals are invertebrates? _Choose TWO_  
-   - A. Hamster  
-   - B. Squid  
-   - C. Stag beetle  
-   - D. Frog  
-
-10. **Q10** What makes a question a scientific question?  
-    - A. It has a long answer  
-    - B. It is about animals or people  
-    - C. It can be tested through an investigation  
-    - D. It has only one correct answer  
+4. **On which surface will a toy car roll the furthest if you use the same force?** (1 mark)  
+   a. Carpet  b. Sandpaper  c. Bubble wrap  d. **Smooth plastic tray** ✔️  
 
 ---
 
-## Short-Answer (1 mark each)
+## Section B – Short-answer & diagrams (9 marks)
 
-11. **Q11** Name one part of the human skeleton that supports the body.  
-12. **Q12** How do the skeletal and muscular systems work together?  
-13. **Q13** You are testing whether students with longer arms can throw a ball further. Describe one way to make sure your test is fair.  
-14. **Q14** How do invertebrates move differently from vertebrates?  
-15. **Q15** Why might a crab need an external skeleton?  
+5. **Label the forces.** (2 marks)  
+   Below is a picture of a girl pushing a trolley.  
+   - Draw one arrow from the girl’s hands to the trolley to show the push. (1)  
+   - Write the word **push** next to your arrow. (1)
+
+6. **Cause and effect.** (1 mark)  
+   Complete the sentence using *towards* or *away from*.  
+   “When I pull the rope, the bucket moves __________ me.”  
+   *Answer: **towards***  
+
+7. **Friction words.** (1 mark)  
+   Tick (✔️) one word that best describes a surface with strong friction.  
+
+   ☐ smooth  ☑ **rough**  ☐ shiny  ☐ wet  
+
+8. **Magnets at work.** (2 marks)  
+   You test five classroom objects with a magnet; three are attracted.  
+   a. What type of material are the attracted objects most likely made from? **__________** (iron / steel / nickel) (1)  
+   b. Explain in one sentence *why* the wooden ruler did not move. (1)  
+      *Sample:* “Wood is not a magnetic material, so the magnet cannot attract it.”
+
+9. **Traditional spinning top.** (3 marks)  
+   Look at the photo of a First Nations spinning top (teacher to project).  
+   a. Circle the action that starts the top spinning: push pull **twist** ✔️ (1)  
+   b. Draw two small arrows on the picture to show the push and pull parts of the twist. (1)  
+   c. Describe in one compound sentence *how* the twist makes the top move. Use **because** or **and**. (1)  
+      *Example:* “I twist the stick by pushing and pulling, **and** the spinning top turns fast.”
 
 ---
 
-## Answer Key & Marks Breakdown
+## Section C – Investigation & data (7 marks)
 
-- Q1: C — 1 mark — ST2-SCI-01 — Knowledge  
-- Q2: B — 1 mark — ST2-SCI-01 — Knowledge  
-- Q3: C, D — 2 marks — ST2-SCI-01 — Knowledge  
-- Q4: A, C — 2 marks — ST2-SCI-01 — Understanding  
-- Q5: B, C — 2 marks — ST2-SCI-01 — Understanding  
-- Q6: C — 1 mark — ST2-SCI-01 — Understanding  
-- Q7: B — 1 mark — ST2-SCI-01 — Understanding  
-- Q8: B, C — 2 marks — ST2-SCI-01 — Understanding  
-- Q9: C — 1 mark — ST2-SCI-01 — Scientific Skills  
-- Q10: C — 2 marks — ST2-PQU-01 — Scientific Skills  
-- Q11: Spine / pelvis / femur — 1 mark — ST2-SCI-01 — Scientific Skills  
-- Q12: “Muscles pull on bones to create movement.” — 1 mark — ST2-SCI-01 — Scientific Skills  
-- Q13: “Use the same ball and starting position for everyone; only arm length varies.” — 1 mark — ST2-PQU-01 — Scientific Skills  
-- Q14: “Invertebrates move without bones, so they crawl, slither, or use muscles against their body wall.” — 1 mark — ST2-SCI-01 — Scientific Skills  
-- Q15: “It protects the crab’s soft body and gives points of attachment for muscles to help it move.” — 1 mark — ST2-SCI-01 — Scientific Skills
+10. **Planning an investigation – Friction ramp.** (2 marks)  
+    You have a ramp that can be covered with felt or aluminium foil. Write **one question** you could ask to find out which surface has more friction.  
+    *Sample:* “Which surface, felt or foil, makes the block stop sooner?”  
+    - Clear comparison (1)  
+    - Mentions friction/stop/slow (1)
+
+11. **Collecting data.** (2 marks)  
+
+    | Surface | Distance (cm) |
+    |---------|--------------:|
+    | Foil    | 45            |
+    | Felt    | 18            |
+
+    a. Which surface had the weaker friction? **__________** (foil) (1)  
+    b. What pattern do you notice? Write one sentence. (1)  
+       *Sample:* “The block travelled further on the foil because the friction was weaker.”
+
+12. **Non-contact force challenge.** (3 marks)  
+    You placed a paper clip on a paper plate and moved it with a magnet held underneath.  
+    a. Draw the plate from above and use a dotted arrow to show the paper clip’s path. (1)  
+    b. Why did the paper clip move even though the magnet did not touch it? (1)  
+       *Sample:* “The magnet’s magnetic force acted at a distance and attracted the paper clip.”  
+    c. Write **yes** or **no**: *Can this force travel through thick steel?* _____ (No) (1)
+
+---
+
+## Total marks: **20**
+
+---
+
+## Teacher marking guide (overview)
+
+| Question(s) | Marks | Key point(s) for full credit |
+|-------------|------:|------------------------------|
+| 1 – 4       | 1 each | Correct option circled |
+| 5           | 2 | Arrow direction (1) + label (1) |
+| 6           | 1 | Correct word: *towards* |
+| 7           | 1 | Tick on **rough** |
+| 8a          | 1 | Names an iron/steel/nickel metal |
+| 8b          | 1 | Mentions non-magnetic reason |
+| 9a          | 1 | *twist* circled |
+| 9b          | 1 | Two arrows shown |
+| 9c          | 1 | Correct compound sentence |
+| 10          | 2 | Clear comparison (1) + friction idea (1) |
+| 11a         | 1 | *Foil* |
+| 11b         | 1 | Pattern identified with reasoning |
+| 12a         | 1 | Correct path arrow |
+| 12b         | 1 | Explains magnetic force at a distance |
+| 12c         | 1 | *No* |
+
+Scoring bands  
+- **14–20 marks:** Confidently demonstrates targeted outcomes  
+- **10–13 marks:** Sound understanding  
+- **Below 10 marks:** Targeted reteaching or support required
