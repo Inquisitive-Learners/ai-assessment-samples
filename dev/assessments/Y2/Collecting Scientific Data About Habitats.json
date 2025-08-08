@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "Assessment Title",
+    "unitId": 0,
+    "unitName": "Unit Name",
+    "yearLevel": "Year Level",
+    "subject": "Subject",
+    "totalMarks": 100,
+    "estimatedDuration": "e.g., 45 minutes",
+    "instructions": "Replace this with assessment-wide instructions.",
+    "createdAt": "YYYY-MM-DD"
+  },
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 5,
+      "question": "Write the question text here.",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Option A",
+          "isCorrect": false,
+          "explanation": "Why A is incorrect (optional)."
+        },
+        {
+          "id": "B",
+          "content": "Option B",
+          "isCorrect": true,
+          "explanation": "Why B is correct."
+        },
+        {
+          "id": "C",
+          "content": "Option C",
+          "isCorrect": false,
+          "explanation": "Why C is incorrect (optional)."
+        },
+        {
+          "id": "D",
+          "content": "Option D",
+          "isCorrect": false,
+          "explanation": "Why D is incorrect (optional)."
+        }
+      ],
+      "rubric": "Award full marks for selecting the correct option."
+    },
+    {
+      "id": "Q2",
+      "type": "short-answer",
+      "marks": 8,
+      "question": "Write the short-answer prompt here.",
+      "answers": [
+        {
+          "id": "model",
+          "content": "Sample/model answer goes here.",
+          "isCorrect": true,
+          "explanation": "Key points expected in the answer."
+        }
+      ],
+      "rubric": "4 marks for concept A, 2 for concept B, 2 for clarity/examples."
+    }
+  ]
+}
