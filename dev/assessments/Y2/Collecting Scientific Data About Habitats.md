@@ -1,1 +1,30 @@
-{"metadata":{"title":"Ready-to-Fill Markdown Assessment Template","unitId":0,"unitName":"","yearLevel":"","subject":"","totalMarks":100,"estimatedDuration":"Specify duration (e.g., 45 minutes)","instructions":"Paste your assessment content and replace the placeholders below. If you share your existing assessment, I can convert it to Markdown for you.","createdAt":"2025-08-08T00:00:00Z"},"questions":[{"id":"md-1","type":"short-answer","marks":1,"question":"Copy and paste this Markdown template and fill in your details:\n\n# Assessment Title\n\n- Subject: <Subject>\n- Unit: <Unit Name/Number>\n- Year/Grade: <Year Level>\n- Total Marks: <Total>\n- Estimated Duration: <Duration>\n\n## Instructions\n\nProvide clear instructions for students here.\n\n---\n\n## Multiple-Choice Questions\n\n### Q1. <Question text>\n- A) <Option A>\n- B) <Option B>\n- C) <Option C>\n- D) <Option D>\n\nAnswer: <Correct option letter>\nExplanation: <Optional explanation>\n\n### Q2. <Question text>\n- A) <Option A>\n- B) <Option B>\n- C) <Option C>\n- D) <Option D>\n\nAnswer: <Correct option letter>\nExplanation: <Optional explanation>\n\n---\n\n## Short-Answer Questions\n\n### Q3. <Question prompt>\nExpected answer points:\n- <Key point 1>\n- <Key point 2>\n- <Key point 3>\nMarks: <X>\n\n### Q4. <Question prompt>\nExpected answer points:\n- <Key point 1>\n- <Key point 2>\n- <Key point 3>\nMarks: <X>\n\n---\n\n## Rubrics\n\n### Short-Answer Rubric (Generic)\n- Full marks: All key points addressed with clarity and accuracy.\n- Partial credit: Some key points addressed; minor inaccuracies.\n- Minimal credit: Limited understanding; major inaccuracies.\n- No credit: Off-topic or blank.\n\n### Presentation/Working (Optional)\n- Clear working and neat presentation: +/− <marks if applicable>","answers":[{"id":"note","content":"Please paste your assessment text, or provide subject, year level, number of questions, and topics so I can generate and format it in Markdown for you.","isCorrect":true,"explanation":""}],"rubric":""}]}
+{
+  "metadata": {
+    "title": "I can format your assessment in Markdown",
+    "unitId": 0,
+    "unitName": "",
+    "yearLevel": "",
+    "subject": "",
+    "totalMarks": 100,
+    "estimatedDuration": "",
+    "instructions": "Please paste the assessment (or the structured_assessment JSON) and tell me whether you want a Student version (no answers), an Answer Key, or both.",
+    "createdAt": ""
+  },
+  "questions": [
+    {
+      "id": "template",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "Paste your assessment details and I will return a neatly formatted Markdown version. If you provide the JSON, I’ll auto-convert it.",
+      "answers": [
+        {
+          "id": "what-i-need",
+          "content": "Send either: 1) structured_assessment JSON; or 2) plain text with title, metadata, instructions, and questions. Also specify Student vs Answer Key.",
+          "isCorrect": true,
+          "explanation": "Below is the Markdown template I will use."
+        }
+      ],
+      "rubric": "Markdown output template:\n\n# Assessment Title\n\n- Unit: <Unit Name> (ID: <Unit ID>)\n- Year Level: <Year Level>\n- Subject: <Subject>\n- Total Marks: <Total Marks>\n- Estimated Duration: <Estimated Duration>\n- Created: <Created At>\n\nInstructions:\n> <Instructions>\n\n## Questions\n\n1) [<Marks> marks] <Question text>\n   - A) <Option A>\n   - B) <Option B>\n   - C) <Option C>\n   - D) <Option D>\n   Answer (for Answer Key version): <Correct option and brief explanation>\n\n2) [<Marks> marks] <Short-answer question>\n   Answer (for Answer Key version): <Model answer>\n   Rubric: <If provided>\n\n— Repeat for all questions —"
+    }
+  ]
+}
