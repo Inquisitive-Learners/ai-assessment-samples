@@ -1,160 +1,93 @@
-# Summative Assessment  
-**Unit:** “Natural Forces Shape Earth’s Surface” – Year 4 (Stage 2)  
-**Total marks:** 40  **Working time:** 60 minutes  
+Stage 2 Science – Summative Assessment  
+Unit: “Processes that Shape Earth’s Surface” (Layers of the Earth, Earthquakes, Volcanoes, Weathering & Erosion)
 
-> *Complete individually. No reference notes permitted.*
+Outcomes assessed  
+• ST2-PQU-01  
+• ST2-SCI-01  
 
----
+Instructions  
+Answer all questions in the spaces provided. Use Tier 2 and Tier 3 scientific vocabulary where appropriate, write in full sentences unless a different format is requested, and label all diagrams carefully.
 
-## Section A – Multiple-choice (10 marks – 1 mark each)  
-Circle **ONE** best answer.
+--------------------------------------------------------------------
+Section A – Multiple-choice (1 mark each)  
+Circle the correct letter.
 
-1. The thinnest of Earth’s four main layers is the …  
-   a) mantle b) **crust** c) outer core d) inner core  
+1 . Which statement best describes Earth’s inner core?  
+   a ) A thin, cool layer of solid rock  
+   b ) A semi-solid layer where convection currents occur  
+   c ) A solid sphere of iron and nickel kept solid by immense pressure  
+   d ) A liquid layer that causes Earth’s magnetic field  
 
-2. An earthquake happens when …  
-   a) magma erupts through a weak spot in Earth’s crust  
-   b) temperature suddenly rises inside Earth  
-   c) **tectonic plates get stuck then suddenly slip past each other**  
-   d) wind and rain weather rocks  
+2 . What immediate effect does the force of gravity have on lava during a volcanic eruption?  
+   a ) It pushes lava upward out of the vent.  
+   b ) It pulls lava downhill across the landscape.  
+   c ) It cools the lava quickly.  
+   d ) It turns lava into magma.
 
-3. Which sentence BEST defines *weathering*?  
-   a) Movement of broken rock fragments to a new place  
-   b) **Breaking down of rocks into smaller pieces by natural forces**  
-   c) Dropping of sediments in rivers and oceans  
-   d) Sudden shaking of Earth’s surface  
+3 . Earthquakes most commonly occur  
+   a ) in the centre of tectonic plates.  
+   b ) where tectonic plates stick and suddenly slip.  
+   c ) only near volcanoes.  
+   d ) when weathering weakens rocks.
 
-4. Which layer of a hard-boiled egg is MOST like Earth’s mantle?  
-   a) Yolk b) **White** c) Shell d) (none)  
+4 . When moving water drops the rocks, soil and sand it was carrying, the process is called  
+   a ) weathering  
+   b ) deposition  
+   c ) melting  
+   d ) convection
 
-5. Flowing water can form a V-shaped valley by the process of …  
-   a) deposition b) crystallisation c) **erosion** d) radiation  
+--------------------------------------------------------------------
+Section B – Short-answer (2–4 marks each)
 
-6. The force that keeps Earth and the other planets in their orbits is …  
-   a) magnetism b) **gravity** c) friction d) conduction  
+5 . Label the diagram of Earth (at right) with the words crust, mantle, outer core, inner core.  
+   Then describe the state (solid, liquid or semi-solid) of each layer. (4 marks)
 
-7. Which pair shows a constructive AND a destructive effect of a volcanic eruption?  
-   a) Ash clouds / landslides  
-   b) New fertile soil / new land  
-   c) **New land / ash burying houses**  
-   d) Steam / magma chamber  
+6 . “The force of wind, water and living things can weather rocks.”  
+   a ) Give one example of weathering caused by wind.  
+   b ) Give one example of weathering caused by moving water.  
+   c ) Explain how plant roots can act as an agent of weathering. (3 marks)
 
-8. In our sand-tray investigation the ONE variable we purposely changed to keep the test fair was the …  
-   a) amount of sand b) **height of the slope** c) amount of water poured each time d) width of the tray  
+7 . Describe two ways a volcanic eruption can change a landscape and give one knock-on effect for each change. Use a causal connective in each sentence. (4 marks)
 
-9. If water inside a crack in a rock freezes and expands, the rock will most likely …  
-   a) melt b) become smoother c) **split apart** d) dissolve completely  
+8 . During the Mars-bar model you created in class, what happened to the “crust” when the two “tectonic plates” were pushed together? Explain how this models the effect of an earthquake on real rock layers. (3 marks)
 
-10. Traditional Aboriginal and Torres Strait Islander Dreaming stories are scientific evidence because they …  
-    a) predict earthquakes perfectly  
-    b) **explain, record and pass on observations of landscape changes over thousands of years**  
-    c) describe planets outside the Solar System  
-    d) use only modern measuring tools  
+--------------------------------------------------------------------
+Section C – Investigating & Fair Testing (ST2-PQU-01)
 
----
+9 . You carried out an investigation to answer the question:  
+   “Does the force of water cause more erosion when it flows down a steeper slope?”  
 
-## Section B – Short-answer (10 marks)
+   a ) Identify:  
+      • the independent variable (what you changed)  
+      • one controlled variable (what you kept the same). (2 marks)
 
-11. Name the four main layers of Earth **in order starting from the surface.** (2 marks)  
+   b ) State your prediction BEFORE the test. Use the word “because”. (1 mark)
 
-12. Describe **ONE** way wind weathers rocks **AND** **ONE** way plants weather rocks. (2 marks)  
+   c ) Summarise your result. Refer to the amount of sand moved in each tray. (2 marks)
 
-13. Complete the causal sentence using the conjunction *so*.  
-    “The earthquake struck the Noto Peninsula, _____ the coastline was lifted by up to four metres.” (1 mark)  
+   d ) Write a conclusion that answers the investigation question. Begin with “The results show that…”. (2 marks)
 
-14. Explain the **difference** between *weathering* and *erosion*. (2 marks)  
+--------------------------------------------------------------------
+Section D – Extended response (6 marks)
 
-15. Identify **TWO** safety precautions you followed while modelling an erupting volcano in the classroom. (2 marks)  
+10 . Explain how the processes of weathering, erosion and deposition work together to form new landforms over time. In your explanation:  
+    • define each process,  
+    • identify at least one natural force that drives each process,  
+    • describe a real Australian landform or landscape example that illustrates the three processes acting together.  
+    Write 2–3 connected paragraphs using compound and complex sentences and appropriate Tier 3 vocabulary.  
 
-16. When a river slows down, what normally happens to the sediment it is carrying? (1 mark)  
+--------------------------------------------------------------------
+Section E – Diagram construction (4 marks)
 
----
+11 . Construct a labelled flow chart that models the energy transfer and force changes that occur from:  
+    magma in a magma chamber → volcanic eruption → lava flow → new rock formation.  
+    Include at least four labelled boxes and two arrows showing cause-and-effect relationships (use terms such as pressure, thermal energy, force, cooling).
 
-## Section C – Diagrams & Labelling (5 marks)
+--------------------------------------------------------------------
+Section F – Reflection / Question-posing (2 marks)
 
-17. On the cross-section below, **label** the crust, mantle, outer core and inner core.  
-    Then add **ONE** fact about temperature or thickness beside **EACH** layer.  
-    *(4 labels + 1 fact each = 4 marks)*  
+12 . After completing this unit you are curious about how earthquakes might trigger landslides.  
+    Pose one scientific question that could be investigated with a fair test, and describe in one sentence how you might model this in the classroom.
 
-18. Draw a simple **food chain** found on the slopes of a volcano after an eruption.  
-    Include arrows to show the direction of energy transfer. (1 mark)  
-
----
-
-## Section D – Extended response (10 marks)
-
-19. Read the statement and answer in a well-structured paragraph of **80–100 words**.  
-
-> “A single volcanic eruption can both create **and** destroy landscapes.”
-
-In your paragraph:  
-• Describe at least **TWO immediate changes** to the landscape (create or destroy).  
-• Explain **TWO knock-on effects** using causal connectives (**because, so, as a result**).  
-• Use at least **THREE Tier 3 words:** *magma, lava, eruption, ash, tectonic, fertile*.  
-
-*(10 marks – see rubric below)*  
-
----
-
-## Section E – Practical investigation design (5 marks)
-
-20. Plan a fair-test investigation to answer:  
-
-> “Does wind speed affect the amount of sand eroded from a dune?”
-
-Include:  
-a) **ONE hypothesis** (1 mark)  
-b) What variable you will **change**, what you will **keep the same**, and what you will **measure** (3 marks)  
-c) **ONE** way to present your results clearly (1 mark)  
-
----
-
-## Marking Guide & Outcome Mapping
-
-### Section A  
-• 1 mark per correct response.  
-
-### Section B  
-• Q11: ½ mark per correct layer (surface ➜ centre).  
-• Q12: 1 mark each accurate description.  
-• Q13: Correct connective (so) – 1 mark.  
-• Q14: 1 mark each clear difference.  
-• Q15: 1 mark each valid precaution.  
-• Q16: Correct effect – 1 mark.  
-
-### Section C  
-• 0.5 mark per correct label (2 marks).  
-• 0.5 mark per accurate fact (2 marks).  
-• Accurate arrows/organism order in food chain (1 mark).  
-
-### Section D – Rubric (10 marks)  
-1. Scientific ideas/content (4)  
-2. Cause–effect with connectives (2)  
-3. Correct Tier 3 vocabulary (2)  
-4. Paragraph structure, grammar & spelling (2)  
-
-### Section E  
-• a) Hypothesis – 1.  
-• b) Variables – 3 (changed, controlled, measured).  
-• c) Results presentation – 1.  
-
----
-
-### Outcome links  
-
-• **ST2-SCI-01** – Q1-10, 11, 12, 14, 16-20  
-• **ST2-PQU-01** – Q8, 20  
-
-### Content mapping  
-
-• Internal structure of Earth – Q1, 4, 11, 17  
-• Earthquakes – Q2, 6, 8, 13, 19  
-• Volcanoes – Q7, 15, 18, 19  
-• Weathering & erosion – Q3, 5, 9, 12, 14, 16, 20  
-• Moving water investigation – Q8, 20  
-• Aboriginal & Torres Strait Islander landform stories – Q10  
-• Tier 2/3 vocabulary & causal/complex sentences – Q13, 19, 20  
-
----
-
-*End of paper*
+--------------------------------------------------------------------
+Total: 40 marks
