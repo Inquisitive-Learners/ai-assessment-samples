@@ -1,111 +1,63 @@
 {
   "metadata": {
-    "title": "[Insert Assessment Title]",
+    "title": "Assessment Title",
     "unitId": 0,
-    "unitName": "[Insert Unit/Topic Name]",
-    "yearLevel": "[Year/Stage and typical age]",
-    "subject": "[Subject]",
+    "unitName": "Unit Name",
+    "yearLevel": "Year/Stage",
+    "subject": "Subject",
     "totalMarks": 100,
-    "estimatedDuration": "[e.g., 50 minutes]",
-    "instructions": "- Read all questions carefully.\n- Show working where required.\n- Answer in the spaces provided.\n- Calculators: [allowed/not allowed].\n- This is a [closed/open]-book assessment.\n- Total marks: [X]. Duration: [Y].",
-    "createdAt": "[Auto-fill on finalisation]"
+    "estimatedDuration": "Time limit (e.g., 60 minutes)",
+    "instructions": "General instructions for students go here.",
+    "createdAt": "YYYY-MM-DD"
   },
   "questions": [
     {
-      "id": "MCQ-1",
+      "id": "A1",
       "type": "multiple-choice",
       "marks": 1,
-      "question": "[Write clear, single-focus question stem here.]",
+      "question": "Sample MCQ question text goes here.",
       "answers": [
         {
           "id": "A",
           "content": "Option A",
           "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "B",
-          "content": "Option B",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "C",
-          "content": "Option C",
-          "isCorrect": true,
-          "explanation": "[Optional rationale for teacher key.]"
-        },
-        {
-          "id": "D",
-          "content": "Option D",
-          "isCorrect": false,
-          "explanation": ""
-        }
-      ],
-      "rubric": ""
-    },
-    {
-      "id": "MCQ-2",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "[Question stem]",
-      "answers": [
-        {
-          "id": "A",
-          "content": "Option A",
-          "isCorrect": false,
-          "explanation": ""
+          "explanation": "Why A is incorrect."
         },
         {
           "id": "B",
           "content": "Option B",
           "isCorrect": true,
-          "explanation": "[Why this is correct]"
+          "explanation": "Why B is correct."
         },
         {
           "id": "C",
           "content": "Option C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Why C is incorrect."
         },
         {
           "id": "D",
           "content": "Option D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Why D is incorrect."
         }
       ],
-      "rubric": ""
+      "rubric": "Award 1 mark for correct option only."
     },
     {
-      "id": "SA-1",
+      "id": "B1",
       "type": "short-answer",
       "marks": 4,
-      "question": "[Prompt requiring explanation/calculation/application. Include any stimulus references.]",
+      "question": "Sample short-answer prompt goes here. Provide a concise explanation.",
       "answers": [
         {
-          "id": "model-answer",
-          "content": "[Concise model answer or key points to earn full credit.]",
+          "id": "model",
+          "content": "Model answer outline: key point 1, key point 2, example/evidence.",
           "isCorrect": true,
-          "explanation": "[Marking notes: acceptable variants, common misconceptions to accept/penalise.]"
+          "explanation": "Allocate marks for each key element."
         }
       ],
-      "rubric": "Full marks (4): [specific criteria].\n3: [criteria].\n2: [criteria].\n1: [criteria].\n0: [no relevant response]."
-    },
-    {
-      "id": "SA-2",
-      "type": "short-answer",
-      "marks": 6,
-      "question": "[Data/graphing/analysis prompt. Include units and required significant figures if applicable.]",
-      "answers": [
-        {
-          "id": "model-answer",
-          "content": "[Expected calculation/graph description/conclusion with justification.]",
-          "isCorrect": true,
-          "explanation": "[Stepwise allocation of marks, e.g., 1 mark setup, 2 marks calculation, 1 mark units, 2 marks interpretation.]"
-        }
-      ],
-      "rubric": "[Analytic breakdown by step/criterion.]"
+      "rubric": "- 1 mark: States key concept\n- 2 marks: Accurate explanation with relevant detail\n- 1 mark: Correct example or application"
     }
   ]
 }
