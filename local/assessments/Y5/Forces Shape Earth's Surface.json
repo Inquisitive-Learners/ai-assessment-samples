@@ -3,10 +3,10 @@
     "unitId": 3662,
     "unitName": "Forces Shape Earth's Surface",
     "yearId": 5,
-    "userId": 12345,
-    "totalQuestions": 30,
-    "totalMarks": 71,
-    "generatedAt": "2025-08-21T02:49:11.656Z",
+    "userId": 250733,
+    "totalQuestions": 23,
+    "totalMarks": 65,
+    "generatedAt": "2025-08-21T02:50:56.030Z",
     "processingStrategy": "lesson-parallel-maximum",
     "lessonCount": 5,
     "generationDetails": {
@@ -18,416 +18,218 @@
       "questionsPerLesson": [
         {
           "lessonName": "Layers of the Earth",
-          "questionCount": 7,
-          "marks": 14
-        },
-        {
-          "lessonName": "Exploring Earthquakes",
-          "questionCount": 6,
-          "marks": 20
-        },
-        {
-          "lessonName": "Volcano Power!",
           "questionCount": 5,
           "marks": 10
         },
         {
-          "lessonName": "Weathering Rocks",
+          "lessonName": "Exploring Earthquakes",
+          "questionCount": 1,
+          "marks": 0
+        },
+        {
+          "lessonName": "Volcano Power!",
           "questionCount": 6,
-          "marks": 15
+          "marks": 10
+        },
+        {
+          "lessonName": "Weathering Rocks",
+          "questionCount": 5,
+          "marks": 10
         },
         {
           "lessonName": "The Force of Moving Water ",
           "questionCount": 6,
-          "marks": 12
+          "marks": 15
         }
       ]
     }
   },
   "questions": [
     {
-      "id": "Q1",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "Which layer of the Earth is the thickest?",
-      "answers": [
-        {
-          "id": "A",
-          "content": "Crust",
-          "isCorrect": false,
-          "explanation": "The crust is the thinnest layer."
-        },
-        {
-          "id": "B",
-          "content": "Mantle",
-          "isCorrect": true,
-          "explanation": "The mantle is the thickest layer of the Earth."
-        },
-        {
-          "id": "C",
-          "content": "Outer core",
-          "isCorrect": false,
-          "explanation": "The outer core is thick but not as thick as the mantle."
-        },
-        {
-          "id": "D",
-          "content": "Inner core",
-          "isCorrect": false,
-          "explanation": "The inner core is solid and dense but smaller in radius than the mantle."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5886,
-        "lessonName": "Layers of the Earth"
-      }
-    },
-    {
-      "id": "Q2",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "Which layer remains solid despite its high temperature due to immense pressure?",
-      "answers": [
-        {
-          "id": "A",
-          "content": "Crust",
-          "isCorrect": false,
-          "explanation": "The crust is solid but not under extreme pressure like the inner core."
-        },
-        {
-          "id": "B",
-          "content": "Mantle",
-          "isCorrect": false,
-          "explanation": "The mantle is semi-solid and convects slowly."
-        },
-        {
-          "id": "C",
-          "content": "Outer core",
-          "isCorrect": false,
-          "explanation": "The outer core is liquid because pressures are lower there."
-        },
-        {
-          "id": "D",
-          "content": "Inner core",
-          "isCorrect": true,
-          "explanation": "The inner core remains solid due to the immense pressure despite high temperatures."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5886,
-        "lessonName": "Layers of the Earth"
-      }
-    },
-    {
-      "id": "Q3",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "Describe the composition of Earth’s crust.",
-      "answers": [
-        {
-          "id": "A",
-          "content": "The crust is composed mostly of solid rock and soil, with thicker sections under continents and thinner sections under oceans.",
-          "isCorrect": true,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5886,
-        "lessonName": "Layers of the Earth"
-      }
-    },
-    {
-      "id": "Q4",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "Explain how movement in the mantle can lead to volcanic eruptions.",
-      "answers": [
-        {
-          "id": "A",
-          "content": "Slow-moving currents in the semi-solid mantle cause magma to rise through the crust and erupt as volcanoes.",
-          "isCorrect": true,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5886,
-        "lessonName": "Layers of the Earth"
-      }
-    },
-    {
-      "id": "Q5",
-      "type": "drawing-response",
-      "marks": 3,
-      "question": "Draw and label a cross-sectional diagram of the Earth’s four main layers: crust, mantle, outer core, and inner core.",
-      "answers": [
-        {
-          "id": "A",
-          "content": "A cross-section drawing correctly shows and labels, in order from outermost to innermost, the crust, mantle, outer core, and inner core, using different colours or textures.",
-          "isCorrect": true,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5886,
-        "lessonName": "Layers of the Earth"
-      }
-    },
-    {
-      "id": "Q6",
-      "type": "drawing-response",
-      "marks": 3,
-      "question": "Create a Venn diagram comparing the layers of the Earth with the layers of a hard-boiled egg. Identify at least two similarities and two differences.",
-      "answers": [
-        {
-          "id": "A",
-          "content": "A Venn diagram showing overlapping properties (e.g., both have an outer layer and a core) and differences (e.g., Earth’s mantle is semi-solid rock vs. egg white is liquid-solid protein; Earth’s inner core is solid iron-nickel vs. yolk is soft organic matter).",
-          "isCorrect": true,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5886,
-        "lessonName": "Layers of the Earth"
-      }
-    },
-    {
-      "id": "Q7",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "Using Tier 2 and Tier 3 vocabulary, write a sentence describing how temperature changes from the crust to the inner core.",
-      "answers": [
-        {
-          "id": "A",
-          "content": "“Temperature escalates dramatically from the relatively cool lithospheric crust to the incandescent, high-pressure inner core, approaching temperatures of the Sun’s surface.”",
-          "isCorrect": true,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5886,
-        "lessonName": "Layers of the Earth"
-      }
-    },
-    {
-      "id": "Q1",
-      "type": "multiple-choice",
-      "marks": 2,
-      "question": "What is an earthquake?",
-      "answers": [
-        {
-          "id": "A",
-          "content": "A gradual sinking of the Earth's crust",
-          "isCorrect": false,
-          "explanation": "This describes subsidence, not an earthquake."
-        },
-        {
-          "id": "B",
-          "content": "The sudden and intense shaking of Earth's surface",
-          "isCorrect": true,
-          "explanation": "Correct definition of an earthquake."
-        },
-        {
-          "id": "C",
-          "content": "The slow movement of the Earth's mantle",
-          "isCorrect": false,
-          "explanation": "Mantle movement is very slow and not itself an earthquake."
-        },
-        {
-          "id": "D",
-          "content": "A rapid increase in volcanic activity",
-          "isCorrect": false,
-          "explanation": "Volcanic activity can accompany quakes but is not the definition."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5887,
-        "lessonName": "Exploring Earthquakes"
-      }
-    },
-    {
-      "id": "Q2",
-      "type": "multiple-choice",
-      "marks": 2,
-      "question": "Why do earthquakes occur along tectonic plate boundaries?",
-      "answers": [
-        {
-          "id": "A",
-          "content": "Because the Earth's inner core overheats and expands",
-          "isCorrect": false,
-          "explanation": "Earthquakes are caused by plate movements, not core expansion."
-        },
-        {
-          "id": "B",
-          "content": "Because tectonic plates get stuck against each other and then suddenly slip",
-          "isCorrect": true,
-          "explanation": "Release of built-up tension along faults causes earthquakes."
-        },
-        {
-          "id": "C",
-          "content": "Because water erodes the plate edges",
-          "isCorrect": false,
-          "explanation": "Erosion affects surface features but not quake mechanics."
-        },
-        {
-          "id": "D",
-          "content": "Because the Moon’s gravity pulls on the plates",
-          "isCorrect": false,
-          "explanation": "Lunar gravity affects tides, not direct plate movement."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5887,
-        "lessonName": "Exploring Earthquakes"
-      }
-    },
-    {
-      "id": "Q3",
-      "type": "short-answer",
-      "marks": 4,
-      "question": "In your own words, explain what you observed when you modelled tectonic plates using two halves of a Mars bar. Use the conjunction 'so' to show cause and effect.",
-      "answers": [
-        {
-          "id": "A",
-          "content": "The two halves of the Mars bar pushed together so the top layer cracked and buckled, showing how Earth's crust breaks and folds during an earthquake.",
-          "isCorrect": true,
-          "explanation": "Includes accurate observation and correct use of 'so' to link cause and effect."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5887,
-        "lessonName": "Exploring Earthquakes"
-      }
-    },
-    {
-      "id": "Q4",
-      "type": "drawing-response",
-      "marks": 4,
-      "question": "Draw and label a diagram showing two tectonic plates meeting and the resulting change in the Earth's crust (e.g., buckling or cracking). Include arrows to show the direction of plate movement.",
-      "answers": [
-        {
-          "id": "A",
-          "content": "Expected diagram: Two blocks pushed together with arrows pointing inward, top layer cracked and uplifted or folded, labels for 'tectonic plate' and 'Earth's crust'.",
-          "isCorrect": true,
-          "explanation": "Diagram shows correct mechanics of plate convergence and crust deformation."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5887,
-        "lessonName": "Exploring Earthquakes"
-      }
-    },
-    {
-      "id": "Q5",
-      "type": "short-answer",
-      "marks": 4,
-      "question": "Describe two ways the 2024 Noto Peninsula earthquake changed the landscape. Which change do you think was the most severe and why?",
-      "answers": [
-        {
-          "id": "A",
-          "content": "The earthquake caused the coastline to uplift so new cliffs formed and roads to crack so transport was disrupted. The uplift of the coastline was most severe because it permanently altered habitats and required large-scale rebuilding.",
-          "isCorrect": true,
-          "explanation": "Identifies two landscape changes and gives a justified opinion on severity."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5887,
-        "lessonName": "Exploring Earthquakes"
-      }
-    },
-    {
-      "id": "Q6",
-      "type": "short-answer",
-      "marks": 4,
-      "question": "What is a tsunami, and why can an underwater earthquake cause one?",
-      "answers": [
-        {
-          "id": "A",
-          "content": "A tsunami is a series of large ocean waves, and an underwater earthquake can cause one so the sudden shift of the sea floor displaces water, creating powerful waves.",
-          "isCorrect": true,
-          "explanation": "Correct definition and causal explanation using 'so'."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5887,
-        "lessonName": "Exploring Earthquakes"
-      }
-    },
-    {
       "id": "q1",
       "type": "multiple-choice",
       "marks": 1,
-      "question": "Which of the following best describes lava?",
+      "question": "Which layer is the Earth's outermost layer?",
       "answers": [
         {
           "id": "a",
-          "content": "Liquid rock that remains deep beneath Earth’s surface.",
-          "isCorrect": false,
-          "explanation": "This describes magma, not lava."
+          "content": "Crust",
+          "isCorrect": true,
+          "explanation": "The crust is the outermost solid layer of the Earth."
         },
         {
           "id": "b",
-          "content": "Liquid rock that flows out of the volcano during an eruption.",
-          "isCorrect": true,
-          "explanation": "Lava is the term for molten rock once it reaches Earth's surface."
+          "content": "Mantle",
+          "isCorrect": false,
+          "explanation": "The mantle lies beneath the crust."
         },
         {
           "id": "c",
-          "content": "The hardened rock formed after a volcanic eruption.",
+          "content": "Outer core",
           "isCorrect": false,
-          "explanation": "This describes solidified lava, or volcanic rock, not lava itself."
+          "explanation": "The outer core lies beneath the mantle and is liquid."
+        },
+        {
+          "id": "d",
+          "content": "Inner core",
+          "isCorrect": false,
+          "explanation": "The inner core is at the very center of the Earth."
         }
       ],
       "lessonSource": {
-        "lessonId": 5917,
-        "lessonName": "Volcano Power!"
+        "lessonId": 5886,
+        "lessonName": "Layers of the Earth"
       }
     },
     {
       "id": "q2",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "Describe two ways that volcanic eruptions can change the landscape (one positive and one negative).",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which layer of the Earth is completely liquid?",
       "answers": [
         {
           "id": "a",
-          "content": "Positive: Lava can build up and create new land and enrich soil fertility. Negative: Ash and lava can bury towns and destroy habitats.",
+          "content": "Crust",
+          "isCorrect": false,
+          "explanation": "The crust is solid."
+        },
+        {
+          "id": "b",
+          "content": "Mantle",
+          "isCorrect": false,
+          "explanation": "The mantle is semi-solid rock."
+        },
+        {
+          "id": "c",
+          "content": "Outer core",
           "isCorrect": true,
-          "explanation": "Students should mention one constructive effect (e.g., new land, fertile soils) and one destructive effect (e.g., burial of land, habitat loss)."
+          "explanation": "The outer core is a hot, liquid layer of molten iron and nickel."
+        },
+        {
+          "id": "d",
+          "content": "Inner core",
+          "isCorrect": false,
+          "explanation": "The inner core is solid due to immense pressure."
         }
       ],
       "lessonSource": {
-        "lessonId": 5917,
-        "lessonName": "Volcano Power!"
+        "lessonId": 5886,
+        "lessonName": "Layers of the Earth"
       }
     },
     {
       "id": "q3",
       "type": "short-answer",
-      "marks": 3,
-      "question": "Using a causal connective (for example, 'because' or 'therefore'), explain a \"knock-on\" effect that results from new land created by a volcanic eruption.",
+      "marks": 2,
+      "question": "Describe the state (solid, liquid or semi-solid) and composition of the mantle.",
       "answers": [
         {
           "id": "a",
-          "content": "Because the eruption created new land, farmers were able to grow more crops on the fertile soil, so the local population had more food.",
+          "content": "The mantle is semi-solid rock that becomes hotter and more plastic with depth, composed mainly of silicate minerals.",
           "isCorrect": true,
-          "explanation": "Answer uses a causal connective and links the immediate effect (new land) to a knock-on effect (increased agriculture/food supply)."
+          "explanation": "The mantle behaves like a very slow-moving solid or plastic and is composed of silicate minerals (e.g., olivine, pyroxene)."
         }
       ],
       "lessonSource": {
-        "lessonId": 5917,
-        "lessonName": "Volcano Power!"
+        "lessonId": 5886,
+        "lessonName": "Layers of the Earth"
       }
     },
     {
       "id": "q4",
-      "type": "drawing-response",
+      "type": "short-answer",
       "marks": 2,
-      "question": "Draw and label a diagram of a volcano showing the magma chamber, conduit, vent, and lava flow.",
+      "question": "Explain why the inner core remains solid despite having temperatures as high as the surface of the Sun.",
       "answers": [
         {
           "id": "a",
-          "content": "A clear diagram that labels: magma chamber underground, conduit (pipe) to the surface, vent at the top, and flowing lava on the slopes.",
+          "content": "The inner core remains solid because the immense pressure at Earth’s center prevents the iron and nickel from melting.",
           "isCorrect": true,
-          "explanation": "Student diagram should accurately show and label each part of the volcano structure."
+          "explanation": "High pressure raises the melting point of materials, keeping the inner core solid even at very high temperatures."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5886,
+        "lessonName": "Layers of the Earth"
+      }
+    },
+    {
+      "id": "q5",
+      "type": "drawing-response",
+      "marks": 4,
+      "question": "Draw a cross-sectional diagram of the Earth and label its four main layers: crust, mantle, outer core, and inner core.",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Crust labeled correctly",
+          "isCorrect": true,
+          "explanation": "Student has labeled the outermost layer as 'Crust'. (1 mark)"
+        },
+        {
+          "id": "b",
+          "content": "Mantle labeled correctly",
+          "isCorrect": true,
+          "explanation": "Student has labeled the layer beneath the crust as 'Mantle'. (1 mark)"
+        },
+        {
+          "id": "c",
+          "content": "Outer core labeled correctly",
+          "isCorrect": true,
+          "explanation": "Student has labeled the liquid layer as 'Outer core'. (1 mark)"
+        },
+        {
+          "id": "d",
+          "content": "Inner core labeled correctly",
+          "isCorrect": true,
+          "explanation": "Student has labeled the central solid layer as 'Inner core'. (1 mark)"
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5886,
+        "lessonName": "Layers of the Earth"
+      }
+    },
+    {
+      "id": "L5887-TP",
+      "type": "short-answer",
+      "marks": 20,
+      "question": "Detailed Teacher’s Plan: “Exploring Earthquakes”",
+      "answers": [
+        {
+          "id": "1",
+          "content": "Unit: Forces Shape Earth’s Surface\nYear Level: Year 4\nLesson ID: 5887\nLesson Name: Exploring Earthquakes\nDuration: 100 minutes\nFocus Question: What might cause Earth’s surface to change quickly?\nKey Inquiry Question: How do natural forces shape the Earth’s surface?\n\nLesson Overview:\nIn this lesson, students investigate how sudden forces—specifically earthquakes—can rapidly alter Earth’s surface. They will: understand plate tectonics, model plate movements using a chocolate bar, analyse the 2024 Noto Peninsula earthquake, and practise writing cause–effect sentences using the conjunction “so.”\n\nCurriculum Outcomes:\n• ST2-PQU-01: Poses questions to create fair tests that investigate the effects of energy on living things and physical systems.\n• ST2-SCI-01: Uses information to investigate the solar system and the effects of energy on living, physical and geological systems.\n• EN2-CWT-02: Uses compound and complex sentences to sequence connected ideas into paragraphs when explaining cause and effect.\n\nLearning Intentions:\nStudents are learning to:\n- Describe how earthquakes can change the landscape.\n\nSuccess Criteria:\nBy the end of the lesson, students will:\n- Understand that the movement of tectonic plates causes earthquakes.\n- Model what happens to the land during an earthquake.\n- Use the causal connective “so” to describe the effect of an earthquake on the landscape.\n\nKey Vocabulary (Tier 2 & 3):\n- Tectonic plate\n- Epicentre\n- Landscape\n- Causal connective\n\nBackground Reading for Teachers:\nEarth’s crust is divided into giant, interacting slabs of rock called tectonic plates. These plates move slowly, driven by forces in Earth’s interior. When stress builds at plate boundaries or faults and is suddenly released, shock waves send energy through the crust, producing an earthquake and shaking the ground.\n\nMaterials:\n- Mini chocolate bars (Mars bar or similar), one per pair\n- Plastic knife\n- iPad or tablet (for recording slow-motion video)\n- Projector or screen for videos\n- Printed images (road cracks, tilted house, flooded buildings)\n- E-book or article on the Noto Peninsula earthquake (2024)\n- Article on Tohoku tsunami (2011)\n\nAssessment Guidance:\n• Formative: Observe students’ discussions and quiz responses to check understanding of earthquake causes.\n• Informal: Monitor pairs during the model-making activity to assess their ability to describe plate movements and use “so.”\n• Checkpoint: Review students’ completed cause–effect table for accurate use of “so” and correct identification of landscape changes.\n\nLesson Sequence:\n1. Introduction (5 min)\n   • Display the road-crack image. Ask: “What might cause Earth’s surface to change quickly?” Record ideas. Address misconceptions.\n\n2. Activity 1 – Global Earthquake Animation (5 min)\n   • Play “Forces Change Earth’s Surface: 120 Years of Earthquakes” without context. Students describe what they see and hypothesise the map’s meaning. Show three photos of earthquake damage; ask if these inform their hypotheses.\n\n3. Activity 2 – What Causes Earthquakes? (10 min)\n   • Explain the animation shows earthquakes from 2000–2021. Define “earthquake.”\n   • Watch “What Causes Earthquakes?” video. Complete a four-question multiple-choice quiz on plate movement and Australia’s seismic activity.\n\n4. Activity 3 – Mars Bar Plate Model (15 min)\n   • In pairs, model plate convergence using a halved Mars bar. Predict what will happen when halves meet. Gently push halves together; record slow-mo video. Complete the sentence: “The tectonic plates met so Earth’s crust ___.”\n\n5. Activity 4 – Defining Landscape (5 min)\n   • Introduce “landscape” (all natural or built features in an area). Students complete a quick interactive labeling local features.\n\n6. Activity 5 – Noto Peninsula Case Study (30 min)\n   • Read about the 2024 Noto Peninsula earthquake. Discuss:\n     – Which landscape features changed?\n     – Which change was worst and why?\n   • Introduce causal table: Cause / so / Effect. Complete three rows using examples from the case study.\n\n7. Activity 6 – Tsunami Extension (20 min)\n   • Replay the opening earthquake animation; focus on purple flashes. Ask: “What do these flashes show?” Explain tsunamis form when epicentres are offshore.\n   • Read the 2011 Tohoku earthquake and tsunami article. Discuss scale of landscape and human damage.\n\n8. Activity 7 – Government Aid Debate (15 min)\n   • Present the 2009 Samoa earthquake/tsunami case. Students debate whether Australia’s $10 million aid was justified. Each student must state their position and then articulate an opposing viewpoint.\n\nDifferentiation:\n• Green Circle (core): Activities 1–5. Essential for meeting learning intentions.\n• Blue Square (deeper): Activity 6. Extends understanding to secondary effects (tsunami).\n• Black Diamond (challenging): Activity 7. Encourages critical and creative thinking through debate.\n\nClosure (5 min):\n• Revisit focus question: “What might cause Earth’s surface to change quickly?” Summarise how plate movements cause rapid change and how we describe effects using “so.”\n\nHomework / Extension:\n• Research a local or historical earthquake event. Write three cause–effect sentences using “so.”",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5887,
+        "lessonName": "Exploring Earthquakes"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "What is magma?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Molten rock beneath the Earth's surface.",
+          "isCorrect": true,
+          "explanation": "Magma is molten rock stored beneath the surface; it becomes lava when it erupts."
+        },
+        {
+          "id": "B",
+          "content": "Lava that has cooled on the Earth's surface.",
+          "isCorrect": false,
+          "explanation": "Lava is magma that has reached the surface and cooled."
+        },
+        {
+          "id": "C",
+          "content": "Solid rock fragments ejected during an eruption.",
+          "isCorrect": false,
+          "explanation": "Those fragments are volcanic ash or pyroclastic material."
         }
       ],
       "lessonSource": {
@@ -436,16 +238,112 @@
       }
     },
     {
-      "id": "q5",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "Choose a planet or moon with volcanoes (for example, Mars with Olympus Mons) and explain why its volcanoes are interesting, using 'because'.",
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "When magma reaches the Earth's surface, it is called what?",
       "answers": [
         {
-          "id": "a",
-          "content": "I think Mars’s Olympus Mons is interesting because it is the largest volcano in the solar system, showing that volcanism can build much larger features where gravity is weaker.",
+          "id": "A",
+          "content": "Ash",
+          "isCorrect": false,
+          "explanation": "Ash consists of fine particles of rock and glass produced by eruptions."
+        },
+        {
+          "id": "B",
+          "content": "Lava",
           "isCorrect": true,
-          "explanation": "Answer names an extraterrestrial volcano and uses a causal connective to explain its significance."
+          "explanation": "Lava is molten rock once it reaches the surface."
+        },
+        {
+          "id": "C",
+          "content": "Magma chamber",
+          "isCorrect": false,
+          "explanation": "A magma chamber is the underground pool of magma."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5917,
+        "lessonName": "Volcano Power!"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which of the following is an immediate effect of a volcanic eruption on the landscape?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Creation of new land from cooled lava",
+          "isCorrect": true,
+          "explanation": "Lava flows can cool and solidify to form new land."
+        },
+        {
+          "id": "B",
+          "content": "Gradual soil erosion by wind",
+          "isCorrect": false,
+          "explanation": "Wind erosion is a slow process, not immediate from eruption."
+        },
+        {
+          "id": "C",
+          "content": "Formation of ice caps",
+          "isCorrect": false,
+          "explanation": "Ice caps form from frozen water, unrelated to eruptions."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5917,
+        "lessonName": "Volcano Power!"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Describe two ways in which volcanic eruptions can change the Earth's landscape.",
+      "answers": [
+        {
+          "id": "1",
+          "content": "Volcanic eruptions can cover areas with ash, burying existing landforms, and lava flows can build up new landforms such as volcanic cones and plateaus.",
+          "isCorrect": true,
+          "explanation": "Ash deposits and lava flows are primary ways eruptions alter landscapes."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5917,
+        "lessonName": "Volcano Power!"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Explain a knock-on effect of new land formation after a volcanic eruption, using a causal connective (e.g., because, therefore).",
+      "answers": [
+        {
+          "id": "1",
+          "content": "Because new land formed from cooled lava, fertile soil developed over time, which therefore allowed new plants to grow and animals to repopulate the area.",
+          "isCorrect": true,
+          "explanation": "Uses causal connective 'because' and 'therefore' to explain the sequence of effects."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5917,
+        "lessonName": "Volcano Power!"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "drawing-response",
+      "marks": 3,
+      "question": "Draw and label a simple model of a volcanic eruption showing the magma chamber, vent, and lava flow, and illustrate how the landscape changes before and after the eruption.",
+      "answers": [
+        {
+          "id": "1",
+          "content": "Expected drawing includes: a cross-section showing a magma chamber beneath the surface, a central vent, arrows indicating rising magma, and surface flows labeled lava. Before-and-after panels showing original landscape and new landforms built by cooled lava.",
+          "isCorrect": true,
+          "explanation": "The drawing correctly labels key parts and shows landscape change."
         }
       ],
       "lessonSource": {
@@ -456,32 +354,32 @@
     {
       "id": "Q1",
       "type": "multiple-choice",
-      "marks": 2,
-      "question": "Which of the following best describes the process of weathering?",
+      "marks": 1,
+      "question": "What does the term 'weathering' describe?",
       "answers": [
         {
           "id": "A",
-          "content": "The breaking down of rocks in place by natural agents such as water, wind and plants.",
+          "content": "The breaking down of rocks into smaller pieces by natural forces.",
           "isCorrect": true,
-          "explanation": "Weathering refers specifically to the in-situ breakdown of rocks by physical and biological forces."
+          "explanation": "Weathering is the process that breaks down rocks over time."
         },
         {
           "id": "B",
-          "content": "The movement of weather systems like rain and snow across the globe.",
+          "content": "The movement of rock particles by water or wind.",
           "isCorrect": false,
-          "explanation": "This describes atmospheric weather, not the breakdown of rocks."
+          "explanation": "That describes erosion, not weathering."
         },
         {
           "id": "C",
-          "content": "The transport of rock particles by rivers, wind or ice to new locations.",
+          "content": "The melting of ice into water.",
           "isCorrect": false,
-          "explanation": "That process is erosion, which moves weathered particles."
+          "explanation": "This describes a change of state, not weathering."
         },
         {
           "id": "D",
-          "content": "The eruption of molten rock from a volcano.",
+          "content": "The formation of clouds in the atmosphere.",
           "isCorrect": false,
-          "explanation": "Volcanic eruption is a geological event, not the gradual breakdown of existing rocks."
+          "explanation": "This is a meteorological process, not weathering."
         }
       ],
       "lessonSource": {
@@ -492,32 +390,32 @@
     {
       "id": "Q2",
       "type": "multiple-choice",
-      "marks": 2,
-      "question": "Which of the following is NOT considered an agent of weathering?",
+      "marks": 1,
+      "question": "Which of these is NOT considered an agent of weathering?",
       "answers": [
         {
           "id": "A",
-          "content": "Moving water",
+          "content": "Wind",
           "isCorrect": false,
-          "explanation": "Moving water is a key physical agent of weathering."
+          "explanation": "Wind is an agent of weathering."
         },
         {
           "id": "B",
-          "content": "Wind",
+          "content": "Water",
           "isCorrect": false,
-          "explanation": "Wind abrasion is a common form of weathering in arid regions."
+          "explanation": "Water is an agent of weathering."
         },
         {
           "id": "C",
           "content": "Plants",
           "isCorrect": false,
-          "explanation": "Plant roots can grow into cracks and break rock apart biologically."
+          "explanation": "Plant roots can break rocks and cause weathering."
         },
         {
           "id": "D",
-          "content": "Volcanoes",
+          "content": "Gravity",
           "isCorrect": true,
-          "explanation": "Volcanic eruptions are geological processes, but not agents that gradually break down rock."
+          "explanation": "Gravity alone moves material (erosion) but is not classified as a direct agent of weathering."
         }
       ],
       "lessonSource": {
@@ -533,9 +431,9 @@
       "answers": [
         {
           "id": "A",
-          "content": "Moving water carries sand, soil and other particles that repeatedly strike rock surfaces. Over time, these particles chip away at and smooth the rock, gradually breaking it into smaller pieces.",
+          "content": "Moving water carries sand and small particles that collide with rock surfaces, wearing them down by abrasion over time.",
           "isCorrect": true,
-          "explanation": "Mentions particles carried by water, repeated impact, gradual breakdown of rock."
+          "explanation": ""
         }
       ],
       "lessonSource": {
@@ -547,13 +445,13 @@
       "id": "Q4",
       "type": "short-answer",
       "marks": 2,
-      "question": "Describe how plant roots contribute to the weathering of rocks.",
+      "question": "Describe one example of biological weathering caused by plants.",
       "answers": [
         {
           "id": "A",
-          "content": "Plant roots grow into tiny cracks in rocks. As the roots expand, they force the cracks wider and eventually split the rock apart.",
+          "content": "Plant roots grow into cracks in rocks. As the roots expand, they pry the rock apart and cause pieces to break off.",
           "isCorrect": true,
-          "explanation": "Includes root growth into cracks and mechanical splitting of rock."
+          "explanation": ""
         }
       ],
       "lessonSource": {
@@ -564,32 +462,14 @@
     {
       "id": "Q5",
       "type": "drawing-response",
-      "marks": 3,
-      "question": "Draw and label an example of weathering caused by wind.",
-      "answers": [
-        {
-          "id": "A",
-          "content": "A sketch showing a rock surface being hit by sand grains carried in a gust of wind, with labels: 'wind direction', 'sand particles', 'abrasion of rock' and 'smoothed rock surface'.",
-          "isCorrect": true,
-          "explanation": "Shows wind-blown particles striking and wearing away rock, with correct labels."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5884,
-        "lessonName": "Weathering Rocks"
-      }
-    },
-    {
-      "id": "Q6",
-      "type": "short-answer",
       "marks": 4,
-      "question": "Write a paragraph using causal connectives to explain how wind weathers rocks. Include a topic sentence, at least two causal connectives (e.g., \"so\", \"as a result\", \"therefore\"), and a concluding sentence.",
+      "question": "Draw and label a simple diagram showing how wind weathers rocks.",
       "answers": [
         {
           "id": "A",
-          "content": "\"Wind can weather rocks through abrasion by sand and dust particles. As wind speed increases, it picks up small grains of sand that strike the rock surface repeatedly, wearing it away. Therefore, rocks exposed to strong, persistent winds become smoother and smaller over time. As a result, wind abrasion reshapes desert landscapes and coastal cliffs.\":",
+          "content": "A sketch of rock surfaces being hit by airborne sand particles with arrows indicating wind direction, labels for 'wind', 'sand particles', and 'abraded rock surface'.",
           "isCorrect": true,
-          "explanation": "Contains a clear topic sentence, two causal connectives (\"therefore\", \"as a result\"), and a concluding sentence restating the main idea."
+          "explanation": "The diagram shows wind carrying particles that strike and wear away rock surfaces."
         }
       ],
       "lessonSource": {
@@ -598,32 +478,32 @@
       }
     },
     {
-      "id": "q1",
+      "id": "Q1",
       "type": "multiple-choice",
       "marks": 2,
-      "question": "Which statement best defines erosion?",
+      "question": "What best describes erosion?",
       "answers": [
         {
-          "id": "a",
-          "content": "The breaking of rocks into smaller pieces on Earth’s surface.",
+          "id": "A1",
+          "content": "The breaking of rocks into smaller pieces",
           "isCorrect": false,
           "explanation": "This describes weathering, not erosion."
         },
         {
-          "id": "b",
-          "content": "The movement of rocks, soil and sand from one place to another.",
+          "id": "A2",
+          "content": "The movement of rocks, soil and sand to another place",
           "isCorrect": true,
-          "explanation": "This is the definition of erosion as given in the lesson."
+          "explanation": "Erosion is defined as the movement of rock fragments from one location to another."
         },
         {
-          "id": "c",
-          "content": "The dropping or settling of rock fragments in a particular location.",
+          "id": "A3",
+          "content": "The dropping or settling of rock fragments",
           "isCorrect": false,
-          "explanation": "This describes deposition, not erosion."
+          "explanation": "This describes deposition, which follows erosion."
         },
         {
-          "id": "d",
-          "content": "The chemical change of rocks into new substances.",
+          "id": "A4",
+          "content": "The chemical change of minerals in rocks",
           "isCorrect": false,
           "explanation": "This describes chemical weathering, not erosion."
         }
@@ -634,16 +514,16 @@
       }
     },
     {
-      "id": "q2",
+      "id": "Q2",
       "type": "short-answer",
       "marks": 2,
-      "question": "Describe how the steepness of a slope affects the amount of erosion caused by moving water.",
+      "question": "Explain why a steeper slope causes more erosion in the moving water experiment.",
       "answers": [
         {
-          "id": "a1",
-          "content": "A steeper slope makes water flow faster, increasing its force and causing more erosion.",
+          "id": "A1",
+          "content": "A steeper slope makes water flow faster, increasing its force and ability to carry more sand away.",
           "isCorrect": true,
-          "explanation": "Lesson conclusion: faster water on steeper slopes moves more sand and soil."
+          "explanation": "Faster-moving water exerts greater force on particles, leading to increased erosion."
         }
       ],
       "lessonSource": {
@@ -652,88 +532,88 @@
       }
     },
     {
-      "id": "q3",
+      "id": "Q3",
       "type": "drawing-response",
-      "marks": 2,
-      "question": "Draw and label a side view of the three trays used in the investigation (flat, gentle slope, steep slope). Indicate how much sand was moved in each case.",
-      "answers": [
-        {
-          "id": "d1",
-          "content": "(Student drawing showing three trays with increasing slope and increasing sand displacement from tray 1 to tray 3)",
-          "isCorrect": true,
-          "explanation": "Correct if drawing shows minimal displacement on flat, moderate on gentle, greatest on steep slope."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5885,
-        "lessonName": "The Force of Moving Water "
-      }
-    },
-    {
-      "id": "q4",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "In the investigation, what was the variable that changed between the three trays?",
-      "answers": [
-        {
-          "id": "a",
-          "content": "The amount of water poured each time.",
-          "isCorrect": false,
-          "explanation": "The amount of water was kept the same for a fair test."
-        },
-        {
-          "id": "b",
-          "content": "The steepness of the tray (slope).",
-          "isCorrect": true,
-          "explanation": "The slope was the single variable changed in the fair test."
-        },
-        {
-          "id": "c",
-          "content": "The type of sand used.",
-          "isCorrect": false,
-          "explanation": "The sand type remained the same across all trays."
-        },
-        {
-          "id": "d",
-          "content": "The speed of pouring water.",
-          "isCorrect": false,
-          "explanation": "Students poured at a consistent rate, recordings focused on slope effect."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5885,
-        "lessonName": "The Force of Moving Water "
-      }
-    },
-    {
-      "id": "q5",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "List the main steps students followed to carry out the erosion investigation.",
-      "answers": [
-        {
-          "id": "b1",
-          "content": "1. Set up three trays with different slopes.\n2. Pour the same amount of water onto each tray’s ‘river.’\n3. Record slow-motion video of water flow.\n4. Observe and draw sand displacement.\n5. Compare results across slopes.",
-          "isCorrect": true,
-          "explanation": "Steps match the lesson’s procedure for a fair test of slope and erosion."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 5885,
-        "lessonName": "The Force of Moving Water "
-      }
-    },
-    {
-      "id": "q6",
-      "type": "short-answer",
       "marks": 3,
-      "question": "Plan a follow-up fair investigation to test how another natural force causes erosion (e.g., wind). Outline your question, variable to change, controls and how you will measure erosion.",
+      "question": "Draw and label the three tray setups (flat, gentle slope, steep slope) and show where most sand was moved. Include arrows for water flow and indicate sand displacement.",
       "answers": [
         {
-          "id": "c1",
-          "content": "Example plan:\nQuestion: Does higher wind speed cause more erosion?\nVariable: Fan speed (low, medium, high).\nControls: Same sand type, tray size, wind distance, duration of wind.\nMeasurement: Weigh sand before and after wind, photograph and measure displaced area.",
+          "id": "A1",
+          "content": "A diagram showing three trays: flat tray with little sand at bottom, gentle slope with moderate sand displacement, steep slope with large sand pile at end. Arrows indicate increasing water speed down steeper trays.",
           "isCorrect": true,
-          "explanation": "Includes clear question, independent variable, controlled factors and measurement method."
+          "explanation": "The drawing correctly shows the relative erosion in each setup with labeled trays and displacement."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5885,
+        "lessonName": "The Force of Moving Water "
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "In the erosion investigation, what was the independent variable?",
+      "answers": [
+        {
+          "id": "A1",
+          "content": "The amount of water poured",
+          "isCorrect": false,
+          "explanation": "The water amount remained the same each trial."
+        },
+        {
+          "id": "A2",
+          "content": "The slope of the tray",
+          "isCorrect": true,
+          "explanation": "The slope was the one factor that was changed between trials."
+        },
+        {
+          "id": "A3",
+          "content": "The type of sand used",
+          "isCorrect": false,
+          "explanation": "The sand type was kept constant to ensure a fair test."
+        },
+        {
+          "id": "A4",
+          "content": "The time taken to pour the water",
+          "isCorrect": false,
+          "explanation": "The pouring time was kept consistent to focus on slope effects."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5885,
+        "lessonName": "The Force of Moving Water "
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Name two factors that were kept the same in each tray to ensure a fair test.",
+      "answers": [
+        {
+          "id": "A1",
+          "content": "The amount of water poured and the type of sand used",
+          "isCorrect": true,
+          "explanation": "Keeping water volume and sand type constant controls other variables besides slope."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 5885,
+        "lessonName": "The Force of Moving Water "
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "short-answer",
+      "marks": 4,
+      "question": "Write a conclusion to answer: Does the force of water cause more erosion when it flows down a steeper slope? Provide evidence from the experiment.",
+      "answers": [
+        {
+          "id": "A1",
+          "content": "Yes. The tray with the steepest slope showed the most sand displacement because the water flowed fastest there. The flat tray had the least erosion, and the gentle slope was intermediate. This shows that greater slope (and thus greater water force) increases erosion.",
+          "isCorrect": true,
+          "explanation": "This conclusion correctly answers the question and cites experimental evidence comparing the three slopes."
         }
       ],
       "lessonSource": {
