@@ -5,40 +5,40 @@
     "yearId": 6,
     "userId": 251228,
     "totalQuestions": 31,
-    "totalMarks": 58,
-    "generatedAt": "2025-09-04T02:27:46.234Z",
+    "totalMarks": 67,
+    "generatedAt": "2025-09-04T02:37:46.546Z",
     "lessonCount": 4
   },
   "questions": [
     {
       "id": "Q1",
       "type": "multiple-choice",
-      "marks": 1,
-      "question": "Which of the following sets of characteristics can ALL be used to classify and sort matter?",
+      "marks": 2,
+      "question": "Which property best describes all solids?",
       "answers": [
         {
           "id": "Q1A",
-          "content": "Shape",
-          "isCorrect": false,
-          "explanation": ""
+          "content": "They keep a fixed shape",
+          "isCorrect": true,
+          "explanation": "Solids have a definite, fixed shape that does not depend on their container."
         },
         {
           "id": "Q1B",
-          "content": "Colour",
+          "content": "They flow to fill the bottom of a container",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "This is a property of liquids, not solids."
         },
         {
           "id": "Q1C",
-          "content": "State (solid, liquid, gas)",
+          "content": "They can be compressed easily",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Gases can be compressed easily; solids generally cannot."
         },
         {
           "id": "Q1D",
-          "content": "All of the above",
-          "isCorrect": true,
-          "explanation": "Matter can be classified using any observable property, including shape, colour and state."
+          "content": "They are invisible to the eye",
+          "isCorrect": false,
+          "explanation": "Visibility is not a defining property of solids."
         }
       ],
       "lessonSource": {
@@ -49,32 +49,32 @@
     {
       "id": "Q2",
       "type": "multiple-choice",
-      "marks": 1,
-      "question": "In the syringe investigation, which state of matter could be compressed most easily?",
+      "marks": 2,
+      "question": "In the syringe investigation, which state of matter was easily compressed?",
       "answers": [
         {
           "id": "Q2A",
-          "content": "Solid (sand)",
+          "content": "Solid",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "The sand (solid) did not compress."
         },
         {
           "id": "Q2B",
-          "content": "Liquid (water)",
+          "content": "Liquid",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "The water (liquid) did not compress."
         },
         {
           "id": "Q2C",
-          "content": "Gas (air)",
+          "content": "Gas",
           "isCorrect": true,
-          "explanation": "Because the particles in a gas are far apart, air can be forced into a smaller volume when pressure is applied."
+          "explanation": "Air (gas) compressed when pressure was applied."
         },
         {
           "id": "Q2D",
-          "content": "None of them",
+          "content": "Both solid and liquid",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Neither solids nor liquids compressed in the investigation."
         }
       ],
       "lessonSource": {
@@ -84,15 +84,33 @@
     },
     {
       "id": "Q3",
-      "type": "short-answer",
+      "type": "multiple-choice",
       "marks": 2,
-      "question": "Give a scientific definition of matter.",
+      "question": "Which group of objects could be classified together because they are flexible?",
       "answers": [
         {
           "id": "Q3A",
-          "content": "Matter is anything that has mass and takes up space (has volume).",
+          "content": "Coins, aluminium foil, metal spoon",
+          "isCorrect": false,
+          "explanation": "These objects are metallic but not all are flexible."
+        },
+        {
+          "id": "Q3B",
+          "content": "Pipe cleaners, Blu Tack, eraser",
           "isCorrect": true,
-          "explanation": "Accept wording that clearly states both mass and volume as essential features of matter."
+          "explanation": "All three items can be bent or shaped—they are flexible."
+        },
+        {
+          "id": "Q3C",
+          "content": "Drinking glass, window pane, glass bottle",
+          "isCorrect": false,
+          "explanation": "These are all made of glass, not chosen for flexibility."
+        },
+        {
+          "id": "Q3D",
+          "content": "Stop sign, post box, tomato",
+          "isCorrect": false,
+          "explanation": "These do not share the property of flexibility."
         }
       ],
       "lessonSource": {
@@ -102,32 +120,14 @@
     },
     {
       "id": "Q4",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "What common property was used to group coins, aluminium foil, car parts and water tanks together during the lesson?",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Define the term ‘property’ in the context of matter and give TWO different properties scientists use to classify substances.",
       "answers": [
         {
           "id": "Q4A",
-          "content": "They are flexible",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q4B",
-          "content": "They are sticky",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q4C",
-          "content": "They are made of metal",
+          "content": "A property is any observable characteristic of a substance, such as appearance or behaviour. Examples include colour, hardness, flexibility, mass, state (solid/liquid/gas), compressibility.",
           "isCorrect": true,
-          "explanation": "All the listed items are metallic objects."
-        },
-        {
-          "id": "Q4D",
-          "content": "They are transparent",
-          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -138,32 +138,14 @@
     },
     {
       "id": "Q5",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "When you tried to push the plunger of the syringe filled with water all the way down, what happened?",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Why can a kitchen sponge be squeezed even though it is mostly a solid material?",
       "answers": [
         {
           "id": "Q5A",
-          "content": "The water compressed easily",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q5B",
-          "content": "The water did not compress noticeably",
+          "content": "A sponge contains many tiny pockets of air (a gas) within the solid network. When you press it, the air pockets are compressed, so the sponge as a whole can be squeezed.",
           "isCorrect": true,
-          "explanation": "Liquids are almost incompressible because their particles are already close together."
-        },
-        {
-          "id": "Q5C",
-          "content": "The syringe cracked",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q5D",
-          "content": "The water changed into a solid",
-          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -175,32 +157,32 @@
     {
       "id": "Q6",
       "type": "multiple-choice",
-      "marks": 1,
-      "question": "The ‘Ooho’ water bottle shown in the video is mainly made from:",
+      "marks": 2,
+      "question": "Which statement about plasma is TRUE?",
       "answers": [
         {
           "id": "Q6A",
-          "content": "Plastic and air",
+          "content": "Plasma forms when a solid melts.",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Melting produces a liquid, not plasma."
         },
         {
           "id": "Q6B",
-          "content": "Glass and metal",
-          "isCorrect": false,
-          "explanation": ""
+          "content": "Plasma can conduct electricity and is affected by magnetic fields.",
+          "isCorrect": true,
+          "explanation": "These are key properties that distinguish plasma from ordinary gases."
         },
         {
           "id": "Q6C",
-          "content": "A biodegradable brown-algae film containing water",
-          "isCorrect": true,
-          "explanation": "The edible membrane is produced from brown algae; it holds liquid water inside."
+          "content": "There is very little plasma in the universe compared with solids.",
+          "isCorrect": false,
+          "explanation": "Scientists believe plasma is the most abundant state of matter in the universe."
         },
         {
           "id": "Q6D",
-          "content": "Compressed gas only",
+          "content": "Plasma has a fixed volume like a liquid.",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Plasma, like gases, does not have a fixed volume."
         }
       ],
       "lessonSource": {
@@ -210,69 +192,15 @@
     },
     {
       "id": "Q7",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "List the three main states of matter discussed in the lesson.",
+      "type": "drawing-response",
+      "marks": 4,
+      "question": "Draw particle diagrams for a solid and a gas. Label each diagram with TWO properties that explain why the particles are arranged that way.",
       "answers": [
         {
           "id": "Q7A",
-          "content": "Solid, liquid and gas",
+          "content": "Expected drawing: 1) Solid – particles closely packed in a fixed, orderly arrangement. Labels could include ‘fixed shape’ and ‘not easily compressed’. 2) Gas – particles far apart and randomly arranged. Labels could include ‘fills container’ and ‘compressible’.",
           "isCorrect": true,
-          "explanation": "Order not important; all three states must be named to receive full marks."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 654,
-        "lessonName": "Sorting Things Out"
-      }
-    },
-    {
-      "id": "Q8",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "Plasma is able to conduct electricity because its particles are:",
-      "answers": [
-        {
-          "id": "Q8A",
-          "content": "Tightly packed and neutral",
-          "isCorrect": false,
           "explanation": ""
-        },
-        {
-          "id": "Q8B",
-          "content": "Ionised—many are charged",
-          "isCorrect": true,
-          "explanation": "In plasma, high energy strips electrons off atoms, creating charged particles that carry electric current."
-        },
-        {
-          "id": "Q8C",
-          "content": "Frozen into a rigid lattice",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q8D",
-          "content": "Completely motionless",
-          "isCorrect": false,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 654,
-        "lessonName": "Sorting Things Out"
-      }
-    },
-    {
-      "id": "Q9",
-      "type": "drawing-response",
-      "marks": 4,
-      "question": "Draw and label one everyday example of a solid, a liquid and a gas. Next to each drawing, list at least two observable properties that justify why it belongs to that state of matter.",
-      "answers": [
-        {
-          "id": "Q9A",
-          "content": "Student drawings showing three labelled examples with properties (e.g. brick—rigid, keeps shape; water—flows, takes shape of container; steam—fills space, compressible).",
-          "isCorrect": true,
-          "explanation": "Award full marks for correctly identifying all three states with accurate properties; partial marks may be given as per rubric."
         }
       ],
       "lessonSource": {
@@ -283,30 +211,30 @@
     {
       "id": "Q1",
       "type": "multiple-choice",
-      "marks": 1,
-      "question": "Which of the following is NOT a property of gases discussed in the lesson?",
+      "marks": 2,
+      "question": "Which property of gases is demonstrated when the air inside a bike pump can be squeezed into a smaller space?",
       "answers": [
         {
           "id": "Q1A",
-          "content": "Gases have mass",
-          "isCorrect": false,
-          "explanation": ""
+          "content": "Gases can be compressed.",
+          "isCorrect": true,
+          "explanation": "Pushing the handle forces the same amount of air into a smaller volume, showing compressibility."
         },
         {
           "id": "Q1B",
-          "content": "Gases take the shape of their container",
+          "content": "Gases have mass.",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q1C",
-          "content": "Gases have a fixed shape",
-          "isCorrect": true,
-          "explanation": "Unlike solids, gases do not keep a fixed shape; they expand to fill any container."
+          "content": "Gases take the shape of their container.",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "id": "Q1D",
-          "content": "Gases can be compressed",
+          "content": "Gases flow from place to place.",
           "isCorrect": false,
           "explanation": ""
         }
@@ -319,30 +247,30 @@
     {
       "id": "Q2",
       "type": "multiple-choice",
-      "marks": 1,
-      "question": "In Investigation 2 (Water-proof Paper), why did the tissue stay dry when the cup was lowered straight down into the water?",
+      "marks": 2,
+      "question": "During Investigation 2 (Waterproof Paper), the tissue stayed dry when the cup was lowered straight down. What is the BEST explanation?",
       "answers": [
         {
           "id": "Q2A",
-          "content": "The plastic cup was waterproof",
+          "content": "Air trapped in the cup takes up space and keeps water out.",
+          "isCorrect": true,
+          "explanation": "The trapped air acts as a barrier because gases occupy space."
+        },
+        {
+          "id": "Q2B",
+          "content": "Water cannot rise inside clear plastic cups.",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "id": "Q2B",
-          "content": "Air trapped in the cup took up space and prevented water from reaching the tissue",
-          "isCorrect": true,
-          "explanation": "The trapped gas (air) occupied the space inside the inverted cup so water could not enter."
-        },
-        {
           "id": "Q2C",
-          "content": "Water cannot rise inside transparent plastics",
+          "content": "The tissue is waterproof.",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q2D",
-          "content": "The tissue is naturally hydrophobic",
+          "content": "Water is repelled by nitrogen in the air.",
           "isCorrect": false,
           "explanation": ""
         }
@@ -354,33 +282,15 @@
     },
     {
       "id": "Q3",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "During the Gas Bag investigation, the bag inflated because",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Name the gas that is produced when vinegar reacts with baking soda in Investigation 3 (Gas Bag).",
       "answers": [
         {
           "id": "Q3A",
-          "content": "heat from your hands expanded the air already in the bag",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q3B",
-          "content": "vinegar and baking-soda reacted to produce carbon-dioxide gas",
+          "content": "Carbon dioxide (CO₂)",
           "isCorrect": true,
-          "explanation": "The acid–base reaction releases CO₂, which takes up more space and inflates the bag."
-        },
-        {
-          "id": "Q3C",
-          "content": "the liquid vinegar evaporated instantly",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q3D",
-          "content": "oxygen leaked into the bag through the plastic",
-          "isCorrect": false,
-          "explanation": ""
+          "explanation": "The chemical reaction between acetic acid and sodium bicarbonate releases carbon dioxide gas, inflating the bag."
         }
       ],
       "lessonSource": {
@@ -390,14 +300,32 @@
     },
     {
       "id": "Q4",
-      "type": "short-answer",
+      "type": "multiple-choice",
       "marks": 2,
-      "question": "Why does a balloon filled with helium rise in air?",
+      "question": "Which of the following is NOT a property of gases?",
       "answers": [
         {
           "id": "Q4A",
-          "content": "Helium is less dense (lighter) than the surrounding air, so the balloon experiences an upward buoyant force and rises.",
+          "content": "Gases have a fixed shape.",
           "isCorrect": true,
+          "explanation": "Unlike solids, gases do not keep a fixed shape; they fill the shape of their container."
+        },
+        {
+          "id": "Q4B",
+          "content": "Gases have mass.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q4C",
+          "content": "Gases can flow.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q4D",
+          "content": "Gases have volume.",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -408,14 +336,32 @@
     },
     {
       "id": "Q5",
-      "type": "short-answer",
+      "type": "multiple-choice",
       "marks": 2,
-      "question": "Describe TWO different ways students observed moving air in Investigation 1 and explain what each observation demonstrated about gas behaviour.",
+      "question": "Why can you smell a cake baking in the kitchen from your bedroom?",
       "answers": [
         {
           "id": "Q5A",
-          "content": "Example: (1) Standing in front of a fan – moving air could be felt on skin, showing that gases can flow. (2) Pumping a bike pump – resistance increased when the nozzle was blocked, demonstrating that gases can be compressed and have pressure.",
+          "content": "Gases flow from one place to another, carrying the smell through the air.",
           "isCorrect": true,
+          "explanation": "Odour molecules in the air move throughout the house because gases can flow."
+        },
+        {
+          "id": "Q5B",
+          "content": "Heat travels faster than smell.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q5C",
+          "content": "Solids turn into gases instantly.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q5D",
+          "content": "Sound waves carry the smell.",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -426,33 +372,15 @@
     },
     {
       "id": "Q6",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "The ability to smell freshly-baked cookies from another room is evidence that a gas",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Explain why a helium-filled balloon rises in air.",
       "answers": [
         {
           "id": "Q6A",
-          "content": "has mass",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q6B",
-          "content": "can flow from one place to another",
+          "content": "Helium is less dense (lighter) than the surrounding air, so the balloon experiences an upward buoyant force and rises.",
           "isCorrect": true,
-          "explanation": "Odour molecules travel through the air, showing that gases flow and mix."
-        },
-        {
-          "id": "Q6C",
-          "content": "is colourless",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q6D",
-          "content": "is compressible",
-          "isCorrect": false,
-          "explanation": ""
+          "explanation": "Objects containing gas that is less dense than air displace heavier air and float upward."
         }
       ],
       "lessonSource": {
@@ -462,15 +390,15 @@
     },
     {
       "id": "Q7",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "Suggest ONE improvement to the Moving Air investigation that would allow students to collect quantitative (numerical) data about gas behaviour.",
+      "type": "drawing-response",
+      "marks": 4,
+      "question": "Draw and clearly label the Gas Bag investigation. Your diagram should show:\n• the vinegar, baking soda and bag before sealing\n• the production of carbon dioxide gas\n• how the gas changes the shape/volume of the bag.",
       "answers": [
         {
           "id": "Q7A",
-          "content": "Attach a small anemometer or wind-speed sensor in front of the fan to record the speed of the moving air in metres per second.",
+          "content": "Student supplies labelled drawing.",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "A complete diagram will show the reactants, arrows or bubbles indicating CO₂ production, and the inflated bag demonstrating gas volume."
         }
       ],
       "lessonSource": {
@@ -480,14 +408,32 @@
     },
     {
       "id": "Q8",
-      "type": "drawing-response",
+      "type": "multiple-choice",
       "marks": 2,
-      "question": "Draw and label a diagram showing an inverted cup under water with trapped air. Include labels for water, trapped air, tissue, and direction of any escaping bubbles.",
+      "question": "Which statement about aerogel, featured in Activity 7, is TRUE?",
       "answers": [
         {
           "id": "Q8A",
-          "content": "A labelled diagram with cup, water surface, air pocket, dry tissue, and arrows for bubbles escaping receives full marks.",
+          "content": "Aerogel is about 99 % gas and is an excellent thermal insulator.",
           "isCorrect": true,
+          "explanation": "Its structure is mostly trapped gas, making it lightweight and very good at preventing heat transfer."
+        },
+        {
+          "id": "Q8B",
+          "content": "Aerogel is a dense metal that conducts heat well.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q8C",
+          "content": "Aerogel is widely used because it is inexpensive.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q8D",
+          "content": "Aerogel is made entirely of liquid nitrogen.",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -500,29 +446,29 @@
       "id": "q1",
       "type": "multiple-choice",
       "marks": 2,
-      "question": "What is viscosity?",
+      "question": "Which definition BEST describes the term “viscosity”?",
       "answers": [
         {
-          "id": "q1a",
-          "content": "A measure of how quickly a liquid evaporates",
+          "id": "a",
+          "content": "The temperature at which a substance melts.",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "id": "q1b",
-          "content": "A measure of how easily a liquid flows",
+          "id": "b",
+          "content": "The amount of space a substance occupies.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "c",
+          "content": "A measure of how quickly a liquid flows.",
           "isCorrect": true,
-          "explanation": "Viscosity describes the internal resistance of a liquid to flow; high-viscosity liquids flow slowly, low-viscosity liquids flow quickly."
+          "explanation": "Viscosity refers to the “runniness” of a liquid—how easily it flows."
         },
         {
-          "id": "q1c",
-          "content": "A measure of the temperature of a liquid",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "q1d",
-          "content": "A measure of how much a liquid weighs",
+          "id": "d",
+          "content": "The mass of a substance per unit volume.",
           "isCorrect": false,
           "explanation": ""
         }
@@ -536,31 +482,31 @@
       "id": "q2",
       "type": "multiple-choice",
       "marks": 2,
-      "question": "When you compare the \"runniness\" of honey, shampoo and custard on the same tilted tray, which ONE variable are you intentionally changing to make it a fair test?",
+      "question": "During the ‘Runny Honey’ race, which ONE of the following variables MUST be kept the SAME to ensure a fair test?",
       "answers": [
         {
-          "id": "q2a",
-          "content": "The angle of the tray",
+          "id": "a",
+          "content": "Type of liquid.",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "id": "q2b",
-          "content": "The distance each sample travels",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "q2c",
-          "content": "The amount of time you observe the samples",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "q2d",
-          "content": "The type of liquid used",
+          "id": "b",
+          "content": "Amount of liquid placed at the start line.",
           "isCorrect": true,
-          "explanation": "For a fair test only the type of liquid should change; all other conditions stay the same."
+          "explanation": "Only the amount, plate, distance and angle should stay the same. The liquid type is the variable that is changed."
+        },
+        {
+          "id": "c",
+          "content": "Angle of the tray for honey and a different angle for shampoo.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "d",
+          "content": "Time allowed for each liquid to finish the race.",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "lessonSource": {
@@ -570,15 +516,33 @@
     },
     {
       "id": "q3",
-      "type": "short-answer",
-      "marks": 3,
-      "question": "Give TWO practical actions you would take to ensure your viscosity \"race\" is a fair test.",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Squeezy Vegemite introduced in 2020 must have ________ viscosity compared with regular jar Vegemite.",
       "answers": [
         {
-          "id": "q3a",
-          "content": "Sample answer: 1) Use the same volume of each liquid. 2) Tilt the tray to the same angle for every trial (or keep distance and surface the same).",
+          "id": "a",
+          "content": "higher",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "b",
+          "content": "lower",
           "isCorrect": true,
-          "explanation": "Students should mention keeping all but one variable constant, e.g. equal volumes, identical surface/distance, identical tilt angle, identical start line."
+          "explanation": "To flow out of a squeeze bottle Vegemite must be thinner → lower viscosity."
+        },
+        {
+          "id": "c",
+          "content": "the same",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "d",
+          "content": "zero",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "lessonSource": {
@@ -589,30 +553,30 @@
     {
       "id": "q4",
       "type": "multiple-choice",
-      "marks": 1,
-      "question": "A group timed three liquids travelling 20 cm down the tray:\n• Honey – 12 s\n• Custard – 8 s\n• Shampoo – 6 s\nWhich liquid has the HIGHEST viscosity?",
+      "marks": 2,
+      "question": "Which statement about the University of Queensland Pitch-Drop experiment is CORRECT?",
       "answers": [
         {
-          "id": "q4a",
-          "content": "Shampoo",
+          "id": "a",
+          "content": "It proves pitch is a solid because it never drips.",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "id": "q4b",
-          "content": "Custard",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "q4c",
-          "content": "Honey",
+          "id": "b",
+          "content": "It demonstrates that very viscous liquids can appear solid but still flow.",
           "isCorrect": true,
-          "explanation": "Honey took the longest time to travel the same distance, so it flows slowest and therefore has the highest viscosity."
+          "explanation": "The pitch eventually forms drops, showing it is an extremely viscous liquid."
         },
         {
-          "id": "q4d",
-          "content": "All three have the same viscosity",
+          "id": "c",
+          "content": "It measures the boiling point of pitch.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "d",
+          "content": "It lasts one school term.",
           "isCorrect": false,
           "explanation": ""
         }
@@ -624,15 +588,33 @@
     },
     {
       "id": "q5",
-      "type": "short-answer",
+      "type": "multiple-choice",
       "marks": 2,
-      "question": "Explain why the new squeezable Vegemite must have a LOWER viscosity than Vegemite that comes in a jar.",
+      "question": "Which of the following liquids would you PREDICT to have the LOWEST viscosity?",
       "answers": [
         {
-          "id": "q5a",
-          "content": "Sample answer: To be squeezed through a nozzle, Vegemite needs to flow more easily. Reducing its viscosity (for example by adding water or removing some solids) lets it move under gentle pressure from the tube.",
+          "id": "a",
+          "content": "Honey",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "b",
+          "content": "Tomato sauce",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "c",
+          "content": "Water",
           "isCorrect": true,
-          "explanation": "Students should link the ability to squeeze/pour with lower viscosity and may describe thinning or formulation changes."
+          "explanation": "Water flows fastest and therefore has the lowest viscosity."
+        },
+        {
+          "id": "d",
+          "content": "Custard",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "lessonSource": {
@@ -642,15 +624,51 @@
     },
     {
       "id": "q6",
-      "type": "drawing-response",
-      "marks": 4,
-      "question": "Draw and label three everyday liquids ordered from LOWEST to HIGHEST viscosity, and write one sentence explaining your order.",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Describe ONE challenge you or your partner faced while timing the liquids during the viscosity race and suggest a way to improve the method next time.",
       "answers": [
         {
-          "id": "q6a",
-          "content": "Expected: a labelled sequence such as water → cooking oil → honey with an explanation sentence (e.g. \"Water flows fastest so it has the lowest viscosity, honey flows slowest so it has the highest\").",
+          "id": "model",
+          "content": "Sample answer: We found it hard to start and stop the stopwatch at exactly the right moment. Next time we would record a slow-motion video of the run and use the timecode so our measurements are more accurate.",
           "isCorrect": true,
-          "explanation": "Award full marks for clearly ordered drawings/labels plus a correct viscosity justification; partial marks for partial accuracy."
+          "explanation": "Any reasonable description of a procedural difficulty and a realistic improvement earns full marks."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 656,
+        "lessonName": "Runny Honey"
+      }
+    },
+    {
+      "id": "q7",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Complete the table by filling in ONE control variable (kept the same for every trial) and ONE measured variable from the ‘Runny Honey’ experiment.",
+      "answers": [
+        {
+          "id": "model",
+          "content": "Control variable: length of the tray (distance travelled).   Measured variable: time taken for each liquid to reach the finish line.",
+          "isCorrect": true,
+          "explanation": "Other valid control variables include amount of liquid, angle of tray, or surface material."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 656,
+        "lessonName": "Runny Honey"
+      }
+    },
+    {
+      "id": "q8",
+      "type": "drawing-response",
+      "marks": 4,
+      "question": "Draw and label the experimental set-up you used to test viscosity, including the start line, finish line, three liquids, and the direction of movement.",
+      "answers": [
+        {
+          "id": "rubric",
+          "content": "Drawing contains: clear tray/plate outline (1 mark); labelled start & finish lines (1 mark); at least three different liquids indicated (1 mark); arrow or description showing flow direction (1 mark).",
+          "isCorrect": true,
+          "explanation": "Assess using the rubric."
         }
       ],
       "lessonSource": {
@@ -661,30 +679,30 @@
     {
       "id": "Q1",
       "type": "multiple-choice",
-      "marks": 2,
-      "question": "When most solids, liquids and gases are heated they:",
+      "marks": 1,
+      "question": "When any state of matter is heated it generally _______.",
       "answers": [
         {
           "id": "Q1A",
-          "content": "Expand – their volume increases",
+          "content": "expands",
           "isCorrect": true,
-          "explanation": "Adding heat energy makes particles move faster and spread out."
+          "explanation": "Heating gives the particles more energy so they move further apart, increasing the volume."
         },
         {
           "id": "Q1B",
-          "content": "Contract – their volume decreases",
+          "content": "contracts",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q1C",
-          "content": "Keep the same volume",
+          "content": "stays the same size",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q1D",
-          "content": "Turn instantly into a gas",
+          "content": "disappears",
           "isCorrect": false,
           "explanation": ""
         }
@@ -696,15 +714,33 @@
     },
     {
       "id": "Q2",
-      "type": "short-answer",
-      "marks": 3,
-      "question": "Describe why the glass jug shatters when very cold water is poured onto its hot surface.",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "In the ‘Amazing Self-Inflating Balloon’ demonstration, the balloon inflated in hot water because:",
       "answers": [
         {
           "id": "Q2A",
-          "content": "The sudden cooling makes the outside of the glass contract quickly while the inside is still hot and expanded. This creates large stresses (thermal shock) that crack and shatter the brittle glass.",
+          "content": "the air inside the bottle expanded and pushed into the balloon",
           "isCorrect": true,
-          "explanation": "Students must mention rapid temperature change, uneven contraction/expansion and resulting stress."
+          "explanation": "Heating the trapped air increased its volume and pressure, forcing it into the balloon."
+        },
+        {
+          "id": "Q2B",
+          "content": "water flowed into the bottle and blew up the balloon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2C",
+          "content": "the air inside the bottle contracted",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2D",
+          "content": "the rubber of the balloon expanded on its own",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "lessonSource": {
@@ -714,32 +750,14 @@
     },
     {
       "id": "Q3",
-      "type": "multiple-choice",
-      "marks": 2,
-      "question": "In the self-inflating balloon investigation, the balloon inflates in hot water because:",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "Explain why a glass bottle that is filled with water may crack or shatter after being placed in a freezer overnight.",
       "answers": [
         {
           "id": "Q3A",
-          "content": "Air inside the bottle expands, raising the pressure and pushing into the balloon.",
+          "content": "Water expands when it freezes; the increased volume exerts pressure on the glass until it breaks.",
           "isCorrect": true,
-          "explanation": "Heating a gas increases its volume and pressure in a closed space."
-        },
-        {
-          "id": "Q3B",
-          "content": "Water enters the bottle and blows up the balloon.",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q3C",
-          "content": "The rubber of the balloon contracts in heat.",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q3D",
-          "content": "Cold air is heavier than hot air.",
-          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -751,30 +769,30 @@
     {
       "id": "Q4",
       "type": "multiple-choice",
-      "marks": 2,
-      "question": "Why are expansion joints built into long bridges?",
+      "marks": 1,
+      "question": "Under the same rise in temperature, which state of matter usually expands the most?",
       "answers": [
         {
           "id": "Q4A",
-          "content": "To allow the bridge materials to expand and contract with temperature changes without cracking or buckling.",
+          "content": "gases",
           "isCorrect": true,
-          "explanation": "Metals and concrete change length with temperature; joints prevent structural damage."
+          "explanation": "Gas particles are far apart and move freely, so a temperature rise produces a large change in volume."
         },
         {
           "id": "Q4B",
-          "content": "To drain rain-water quickly",
+          "content": "liquids",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q4C",
-          "content": "To make the bridge look interesting",
+          "content": "solids",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q4D",
-          "content": "To reduce the weight of the bridge",
+          "content": "all expand equally",
           "isCorrect": false,
           "explanation": ""
         }
@@ -787,14 +805,14 @@
     {
       "id": "Q5",
       "type": "short-answer",
-      "marks": 2,
-      "question": "A jar lid loosens after being held under hot tap water. Explain why.",
+      "marks": 1,
+      "question": "What is thermal shock and how did it cause the glass jug in the video to shatter when cold water was poured onto the hot glass?",
       "answers": [
         {
           "id": "Q5A",
-          "content": "The metal lid expands more than the glass jar when heated, increasing the gap between them so the lid can turn more easily.",
+          "content": "Thermal shock is stress produced by a sudden, uneven temperature change; the outside of the hot glass cooled and contracted quickly while the inside stayed hot, creating stress that cracked the glass.",
           "isCorrect": true,
-          "explanation": "Thermal expansion of the metal reduces the friction seal."
+          "explanation": ""
         }
       ],
       "lessonSource": {
@@ -805,30 +823,30 @@
     {
       "id": "Q6",
       "type": "multiple-choice",
-      "marks": 2,
-      "question": "Which statement best explains how a liquid-in-glass thermometer works?",
+      "marks": 1,
+      "question": "Expansion joints are added to bridges primarily to:",
       "answers": [
         {
           "id": "Q6A",
-          "content": "The liquid expands when warmed, rising up the narrow tube; it contracts when cooled, falling back down.",
+          "content": "allow the bridge materials to expand and contract safely with temperature changes",
           "isCorrect": true,
-          "explanation": "Thermal expansion/contraction of the liquid indicates temperature."
+          "explanation": "They prevent bending or cracking by giving the structure space to change length."
         },
         {
           "id": "Q6B",
-          "content": "The glass tube stretches when heated, pulling the liquid upward.",
+          "content": "collect and drain rainwater",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q6C",
-          "content": "Heat causes bubbles that push the liquid up.",
+          "content": "decorate the roadway",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q6D",
-          "content": "Electric sensors inside the tube detect temperature.",
+          "content": "add extra weight for stability",
           "isCorrect": false,
           "explanation": ""
         }
@@ -841,14 +859,14 @@
     {
       "id": "Q7",
       "type": "short-answer",
-      "marks": 3,
-      "question": "Water ‘breaks the rules’ of expansion and contraction when it is cooled below 4 °C. What unusual behaviour does it show and why is this important for life on Earth?",
+      "marks": 1,
+      "question": "Why does running a tight metal lid under hot water often make the jar easier to open?",
       "answers": [
         {
           "id": "Q7A",
-          "content": "Instead of continuing to contract, water expands as it freezes, so ice is less dense than liquid water and floats. This insulates lakes and rivers, allowing aquatic life to survive beneath the ice in winter.",
+          "content": "The metal lid heats up and expands slightly, loosening its grip on the glass jar.",
           "isCorrect": true,
-          "explanation": "Answer must include expansion on freezing, lower density, floating ice and ecological significance."
+          "explanation": ""
         }
       ],
       "lessonSource": {
@@ -860,13 +878,13 @@
       "id": "Q8",
       "type": "drawing-response",
       "marks": 2,
-      "question": "Draw two labelled diagrams to show the air particles in the balloon experiment: one when the bottle is in hot water and one when it is in ice water. Use arrows or spacing to indicate particle movement and volume changes.",
+      "question": "Draw and label a simple liquid-in-glass thermometer. Use arrows to show and explain how the liquid moves when the thermometer is warmed and when it is cooled.",
       "answers": [
         {
           "id": "Q8A",
-          "content": "Hot water diagram shows widely spaced, fast-moving particles filling balloon; cold water diagram shows closely spaced, slower particles with deflated balloon.",
+          "content": "Student drawing shows bulb, liquid column, scale; arrow up for heating (expansion) and arrow down for cooling (contraction).",
           "isCorrect": true,
-          "explanation": "Marks awarded for correctly representing expansion in heat and contraction in cold with clear labels."
+          "explanation": ""
         }
       ],
       "lessonSource": {
