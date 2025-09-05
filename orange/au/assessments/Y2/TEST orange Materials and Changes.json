@@ -4,292 +4,328 @@
     "unitName": "TEST orange Materials and Changes",
     "yearId": 2,
     "userId": 251228,
-    "totalQuestions": 16,
-    "totalMarks": 24,
-    "generatedAt": "2025-09-04T04:19:49.606Z",
+    "totalQuestions": 23,
+    "totalMarks": 34,
+    "generatedAt": "2025-09-05T00:04:07.944Z",
     "lessonCount": 3
   },
   "questions": [
     {
-      "id": "q1",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "Which action below shows a physical change to an object?",
-      "answers": [
-        {
-          "id": "a",
-          "content": "Bending a pipe cleaner into a spiral",
-          "isCorrect": true,
-          "explanation": "Bending changes the shape but the pipe cleaner is still the same material."
-        },
-        {
-          "id": "b",
-          "content": "Burning a piece of paper into ash",
-          "isCorrect": false,
-          "explanation": "Burning is a chemical change, the paper turns into a new material (ash)."
-        },
-        {
-          "id": "c",
-          "content": "Watching a balloon on a table",
-          "isCorrect": false,
-          "explanation": "No change happens."
-        },
-        {
-          "id": "d",
-          "content": "Adding food colouring to water to make coloured water",
-          "isCorrect": false,
-          "explanation": "The colour changes because a new substance is mixed in – not simply a physical change of the water alone."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 678,
-        "lessonName": "Changing Things Up!"
-      }
-    },
-    {
-      "id": "q2",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "After you cut a sheet of paper into small shapes, what material are the pieces made of?",
-      "answers": [
-        {
-          "id": "a",
-          "content": "Plastic",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "b",
-          "content": "Metal",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "c",
-          "content": "Paper",
-          "isCorrect": true,
-          "explanation": "Cutting only changes the size and shape; the material remains paper."
-        },
-        {
-          "id": "d",
-          "content": "Glass",
-          "isCorrect": false,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 678,
-        "lessonName": "Changing Things Up!"
-      }
-    },
-    {
-      "id": "q3",
-      "type": "short-answer",
-      "marks": 1,
-      "question": "Name one object you changed in Activity 4 and describe how its shape looked afterwards.",
-      "answers": [
-        {
-          "id": "sample",
-          "content": "I squashed an empty aluminium can so it looked flat.",
-          "isCorrect": true,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 678,
-        "lessonName": "Changing Things Up!"
-      }
-    },
-    {
-      "id": "q4",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "When the child blew air into the balloon, which property of the balloon changed the MOST?",
-      "answers": [
-        {
-          "id": "a",
-          "content": "Its colour",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "b",
-          "content": "Its material",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "c",
-          "content": "Its shape and size",
-          "isCorrect": true,
-          "explanation": "The balloon became larger and rounder while still made of rubber."
-        },
-        {
-          "id": "d",
-          "content": "Its smell",
-          "isCorrect": false,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 678,
-        "lessonName": "Changing Things Up!"
-      }
-    },
-    {
-      "id": "q5",
-      "type": "drawing-response",
-      "marks": 3,
-      "question": "Draw (1) what one of your objects looked like BEFORE you changed it and (2) what it looked like AFTER. Label the object’s material and write the action you used (e.g., twisting, folding).",
-      "answers": [
-        {
-          "id": "info",
-          "content": "Teacher rubric: 1 mark for clear before drawing; 1 mark for clear after drawing; 1 mark for correct labelling of material and action.",
-          "isCorrect": true,
-          "explanation": ""
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 678,
-        "lessonName": "Changing Things Up!"
-      }
-    },
-    {
       "id": "Q1",
       "type": "multiple-choice",
       "marks": 1,
-      "question": "Which action below is an example of stretching a material?",
+      "question": "Which action below is an example of a physical change?",
       "answers": [
         {
           "id": "Q1A",
-          "content": "Pulling the ends of a rubber band farther apart.",
+          "content": "Melting an ice block so it becomes water",
           "isCorrect": true,
-          "explanation": "Stretching involves pulling a material to make it longer."
+          "explanation": "The ice changes state from solid to liquid but is still water."
         },
         {
           "id": "Q1B",
-          "content": "Twisting the lid off a bottle.",
+          "content": "Baking a cake batter",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Baking causes a chemical change that cannot be reversed easily."
         },
         {
           "id": "Q1C",
-          "content": "Bending a plastic straw into a curve.",
+          "content": "Lighting a match",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Burning changes the chemicals in the match head."
         },
         {
           "id": "Q1D",
-          "content": "Rolling a ball of modelling clay.",
+          "content": "Rusting of iron",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Rusting forms a new substance (iron oxide)."
         }
       ],
       "lessonSource": {
-        "lessonId": 679,
-        "lessonName": "Let's Get Physical"
+        "lessonId": 678,
+        "lessonName": "Changing Things Up!"
       }
     },
     {
       "id": "Q2",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "Which material is MOST likely to bend without breaking?",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Explain why inflating a balloon is considered a physical change.",
       "answers": [
         {
           "id": "Q2A",
-          "content": "Rubber band",
+          "content": "The balloon is still made of rubber; only its shape and size change when air is added or released.",
           "isCorrect": true,
-          "explanation": "Rubber is flexible and elastic, so it can bend without snapping."
-        },
-        {
-          "id": "Q2B",
-          "content": "Dry wooden stick",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q2C",
-          "content": "Glass rod",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "id": "Q2D",
-          "content": "Ceramic tile",
-          "isCorrect": false,
           "explanation": ""
         }
       ],
       "lessonSource": {
-        "lessonId": 679,
-        "lessonName": "Let's Get Physical"
+        "lessonId": 678,
+        "lessonName": "Changing Things Up!"
       }
     },
     {
       "id": "Q3",
-      "type": "short-answer",
-      "marks": 2,
-      "question": "Explain why aluminium foil can be twisted into a tight ball, but a plastic cup usually cannot be twisted. Write one or two sentences.",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which of the following objects from the classroom materials list is made of metal?",
       "answers": [
         {
           "id": "Q3A",
-          "content": "Aluminium foil is thin and flexible so it can twist easily, while a plastic cup is rigid and holds its shape, so twisting would crack or crease it instead of smoothly changing its form.",
+          "content": "Aluminium can",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "Aluminium is a metal."
+        },
+        {
+          "id": "Q3B",
+          "content": "Craft stick",
+          "isCorrect": false,
+          "explanation": "A craft stick is made of wood."
+        },
+        {
+          "id": "Q3C",
+          "content": "Plastic bottle",
+          "isCorrect": false,
+          "explanation": "A plastic bottle is made from plastic."
+        },
+        {
+          "id": "Q3D",
+          "content": "Piece of cotton fabric",
+          "isCorrect": false,
+          "explanation": "Cotton fabric is made from plant fibres."
         }
       ],
       "lessonSource": {
-        "lessonId": 679,
-        "lessonName": "Let's Get Physical"
+        "lessonId": 678,
+        "lessonName": "Changing Things Up!"
       }
     },
     {
       "id": "Q4",
-      "type": "drawing-response",
-      "marks": 4,
-      "question": "Choose an object you can see in the classroom. 1. Draw the object. 2. Label the material it is made from. 3. Use arrows and words to show ONE action (bend, stretch, or twist) that could physically change its shape.",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "List two different actions you could use to physically change a sheet of paper.",
       "answers": [
         {
           "id": "Q4A",
-          "content": "Student includes a clear drawing, a correct material label (e.g., “rubber”, “metal”, “plastic”), and shows an appropriate action with arrows and words (e.g., arrows pulling on a rubber band labelled “stretch”).",
+          "content": "Possible answers include: folding, cutting, tearing, rolling, crushing, or bending the paper.",
           "isCorrect": true,
           "explanation": ""
         }
       ],
       "lessonSource": {
-        "lessonId": 679,
-        "lessonName": "Let's Get Physical"
+        "lessonId": 678,
+        "lessonName": "Changing Things Up!"
       }
     },
     {
       "id": "Q5",
       "type": "multiple-choice",
-      "marks": 2,
-      "question": "Select ALL actions that are examples of reversible physical changes.",
+      "marks": 1,
+      "question": "When a scientist watches a rubber band being stretched, which sense are they mainly using to make observations?",
       "answers": [
         {
           "id": "Q5A",
-          "content": "Bending a pipe cleaner into a circle",
+          "content": "Sight",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "They look at the rubber band to see how it changes."
         },
         {
           "id": "Q5B",
-          "content": "Burning a piece of paper",
+          "content": "Taste",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q5C",
-          "content": "Stretching a piece of slime",
-          "isCorrect": true,
+          "content": "Smell",
+          "isCorrect": false,
           "explanation": ""
         },
         {
           "id": "Q5D",
-          "content": "Iron rusting in the rain",
+          "content": "Hearing",
           "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 678,
+        "lessonName": "Changing Things Up!"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "drawing-response",
+      "marks": 3,
+      "question": "Draw two pictures of a rubber band: one before it is stretched and one after it has been stretched. Label your drawings to show the change in shape.",
+      "answers": [
+        {
+          "id": "Q6A",
+          "content": "Student provides two clearly labelled drawings showing a normal and a stretched rubber band, demonstrating understanding that only shape/size changes.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 678,
+        "lessonName": "Changing Things Up!"
+      }
+    },
+    {
+      "id": "Q7",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which statement best describes a physical change?",
+      "answers": [
+        {
+          "id": "Q7A",
+          "content": "The material keeps the same properties but its form or size changes.",
+          "isCorrect": true,
+          "explanation": "Physical changes do not alter the material’s chemical composition."
+        },
+        {
+          "id": "Q7B",
+          "content": "New materials with different properties are always formed.",
+          "isCorrect": false,
+          "explanation": "That describes a chemical change."
+        },
+        {
+          "id": "Q7C",
+          "content": "The change cannot be reversed.",
+          "isCorrect": false,
+          "explanation": "Many physical changes can be reversed."
+        },
+        {
+          "id": "Q7D",
+          "content": "Heat must always be added.",
+          "isCorrect": false,
+          "explanation": "Physical changes can occur without heat."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 678,
+        "lessonName": "Changing Things Up!"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which picture best shows the action of BENDING a material?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "A child pulling a rubber band to make it longer.",
+          "isCorrect": false,
+          "explanation": "This is stretching, not bending."
+        },
+        {
+          "id": "B",
+          "content": "A student curving a plastic straw into a letter U.",
+          "isCorrect": true,
+          "explanation": "Bending means curving the material without breaking it."
+        },
+        {
+          "id": "C",
+          "content": "Two hands twisting the lid off a jar.",
+          "isCorrect": false,
+          "explanation": "This is twisting."
+        },
+        {
+          "id": "D",
+          "content": "A ball of clay being rolled into a long snake.",
+          "isCorrect": false,
+          "explanation": "This is rolling, not bending."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 679,
+        "lessonName": "Let's Get Physical"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which of the following materials is MOST likely to stretch without breaking?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Wooden stick",
+          "isCorrect": false,
+          "explanation": "Wood is rigid and snaps instead of stretching."
+        },
+        {
+          "id": "B",
+          "content": "Rubber band",
+          "isCorrect": true,
+          "explanation": "Rubber is elastic and can stretch easily."
+        },
+        {
+          "id": "C",
+          "content": "Dry spaghetti",
+          "isCorrect": false,
+          "explanation": "Dry spaghetti is brittle and breaks rather than stretches."
+        },
+        {
+          "id": "D",
+          "content": "Ceramic cup",
+          "isCorrect": false,
+          "explanation": "Ceramic is hard and rigid."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 679,
+        "lessonName": "Let's Get Physical"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "A physical change such as twisting a pipe cleaner is usually:",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Permanent and cannot be reversed.",
+          "isCorrect": false,
+          "explanation": "Many physical changes can be reversed."
+        },
+        {
+          "id": "B",
+          "content": "A change in the material's chemical make-up.",
+          "isCorrect": false,
+          "explanation": "Chemical composition stays the same in a physical change."
+        },
+        {
+          "id": "C",
+          "content": "Reversible and keeps the same material.",
+          "isCorrect": true,
+          "explanation": "Physical changes alter shape, not substance."
+        },
+        {
+          "id": "D",
+          "content": "Possible only when heat is added.",
+          "isCorrect": false,
+          "explanation": "Heat is not always needed for physical changes like twisting."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 679,
+        "lessonName": "Let's Get Physical"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Name TWO different actions (other than bend, stretch or twist) that can physically change the shape of a material.",
+      "answers": [
+        {
+          "id": "model",
+          "content": "Possible correct answers include: roll, push, pull, squash, squeeze, fold.",
+          "isCorrect": true,
           "explanation": ""
         }
       ],
@@ -299,178 +335,310 @@
       }
     },
     {
-      "id": "Q1",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "What usually happens to ice when heat is added to it?",
-      "answers": [
-        {
-          "id": "Q1A",
-          "content": "It melts and becomes liquid water.",
-          "isCorrect": true,
-          "explanation": "Heating gives the ice energy, breaking the bonds that keep the water particles in a solid arrangement."
-        },
-        {
-          "id": "Q1B",
-          "content": "It freezes and becomes colder.",
-          "isCorrect": false,
-          "explanation": "Freezing happens when heat is removed, not added."
-        },
-        {
-          "id": "Q1C",
-          "content": "It turns straight into steam without melting first.",
-          "isCorrect": false,
-          "explanation": "Ice normally melts to liquid water before it can evaporate at normal classroom temperatures."
-        },
-        {
-          "id": "Q1D",
-          "content": "Nothing happens to it.",
-          "isCorrect": false,
-          "explanation": "A temperature rise will always cause some change in the ice."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 680,
-        "lessonName": "Heating and Cooling"
-      }
-    },
-    {
-      "id": "Q2",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "When fruit is placed in a freezer, which change can you best observe?",
-      "answers": [
-        {
-          "id": "Q2A",
-          "content": "It becomes harder and its juice turns to ice.",
-          "isCorrect": true,
-          "explanation": "Water inside the fruit freezes, making the fruit feel hard and icy."
-        },
-        {
-          "id": "Q2B",
-          "content": "It starts to boil.",
-          "isCorrect": false,
-          "explanation": "Boiling requires heating, not cooling."
-        },
-        {
-          "id": "Q2C",
-          "content": "Its colour disappears completely.",
-          "isCorrect": false,
-          "explanation": "Freezing does not usually remove colour."
-        },
-        {
-          "id": "Q2D",
-          "content": "It immediately dries out.",
-          "isCorrect": false,
-          "explanation": "Drying is caused by evaporation, a warming process."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 680,
-        "lessonName": "Heating and Cooling"
-      }
-    },
-    {
-      "id": "Q3",
-      "type": "short-answer",
-      "marks": 1,
-      "question": "Give two of the five senses you were asked to use during the Frozen Fruit Investigation.",
-      "answers": [
-        {
-          "id": "Q3A",
-          "content": "Any two of: sight/seeing, touch/feeling, smell, taste, hearing/sound",
-          "isCorrect": true,
-          "explanation": "Students used their senses to describe changes to the fruit."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 680,
-        "lessonName": "Heating and Cooling"
-      }
-    },
-    {
-      "id": "Q4",
-      "type": "multiple-choice",
-      "marks": 1,
-      "question": "What is the correct scientific term for warming frozen fruit until it becomes soft again?",
-      "answers": [
-        {
-          "id": "Q4A",
-          "content": "Thawing",
-          "isCorrect": true,
-          "explanation": "Thawing means changing from frozen (solid) to unfrozen (usually liquid/soft) as heat is added."
-        },
-        {
-          "id": "Q4B",
-          "content": "Freezing",
-          "isCorrect": false,
-          "explanation": "Freezing is cooling a liquid until it turns solid."
-        },
-        {
-          "id": "Q4C",
-          "content": "Evaporating",
-          "isCorrect": false,
-          "explanation": "Evaporation changes liquid to gas, not frozen fruit to soft fruit."
-        },
-        {
-          "id": "Q4D",
-          "content": "Condensing",
-          "isCorrect": false,
-          "explanation": "Condensation is gas turning into liquid."
-        }
-      ],
-      "lessonSource": {
-        "lessonId": 680,
-        "lessonName": "Heating and Cooling"
-      }
-    },
-    {
       "id": "Q5",
-      "type": "drawing-response",
-      "marks": 2,
-      "question": "Draw and label a piece of chocolate before it is heated and after it has warmed up in the sun.",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "During the investigation, which tool helped the class organise and compare their observations?",
       "answers": [
         {
-          "id": "Q5A",
-          "content": "Teacher-graded drawing showing: BEFORE – solid, keeps shape. AFTER – partially or fully melted, loses shape/drips.",
+          "id": "A",
+          "content": "A timeline",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "B",
+          "content": "A table with tick or cross boxes",
           "isCorrect": true,
-          "explanation": "The drawing should clearly show that heating causes the chocolate to melt and change shape."
+          "explanation": "Tables allow clear organisation of results."
+        },
+        {
+          "id": "C",
+          "content": "A comic strip",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "D",
+          "content": "A word-search",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "lessonSource": {
-        "lessonId": 680,
-        "lessonName": "Heating and Cooling"
+        "lessonId": 679,
+        "lessonName": "Let's Get Physical"
       }
     },
     {
       "id": "Q6",
       "type": "multiple-choice",
       "marks": 1,
-      "question": "Why were you asked to wash your hands before handling the fruit in the investigation?",
+      "question": "For a material to be bent, stretched or twisted it must be:",
       "answers": [
         {
-          "id": "Q6A",
-          "content": "To prevent germs from getting on the food and keep everyone safe.",
+          "id": "A",
+          "content": "Magnetic",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "B",
+          "content": "Flexible or elastic",
           "isCorrect": true,
-          "explanation": "Clean hands reduce the spread of germs when working with food during science activities."
+          "explanation": "Flexibility/elasticity allows shape change without breaking."
         },
         {
-          "id": "Q6B",
-          "content": "Because warm water makes the fruit thaw faster.",
+          "id": "C",
+          "content": "Transparent",
           "isCorrect": false,
-          "explanation": "Hand-washing temperature does not affect how quickly the fruit thaws on the plate."
+          "explanation": ""
         },
         {
-          "id": "Q6C",
-          "content": "So the teacher can see who is paying attention.",
+          "id": "D",
+          "content": "Edible",
           "isCorrect": false,
-          "explanation": "The main reason is hygiene, not discipline."
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 679,
+        "lessonName": "Let's Get Physical"
+      }
+    },
+    {
+      "id": "Q7",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Why is candy in the Rainbow Candy Making video WARMED before it is twisted and stretched?",
+      "answers": [
+        {
+          "id": "model",
+          "content": "Heating makes the candy softer and more flexible so it can be twisted and stretched without breaking.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 679,
+        "lessonName": "Let's Get Physical"
+      }
+    },
+    {
+      "id": "Q8",
+      "type": "drawing-response",
+      "marks": 3,
+      "question": "Draw a pipe cleaner before and after you bend it into the shape of the letter S. Label the drawing with the word \"bent\".",
+      "answers": [
+        {
+          "id": "rubric",
+          "content": "Full marks: two clear drawings (before & after), shape resembles S, label \"bent\" present.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 679,
+        "lessonName": "Let's Get Physical"
+      }
+    },
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "What happens to frozen fruit when it is warmed?",
+      "answers": [
+        {
+          "id": "q1a1",
+          "content": "It thaws and becomes softer and juicier.",
+          "isCorrect": true,
+          "explanation": "Adding heat melts the ice inside the fruit, so it softens."
         },
         {
-          "id": "Q6D",
-          "content": "Hand washing changes the taste of the fruit.",
+          "id": "q1a2",
+          "content": "It freezes even harder.",
           "isCorrect": false,
-          "explanation": "Hand washing does not change the flavour of the fruit itself."
+          "explanation": "Freezing harder would require removing heat, not adding it."
+        },
+        {
+          "id": "q1a3",
+          "content": "It turns into steam immediately.",
+          "isCorrect": false,
+          "explanation": "Fruit contains water that first thaws to liquid before any evaporation might occur."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 680,
+        "lessonName": "Heating and Cooling"
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "When heat is added to a solid chocolate bar, which change is most likely?",
+      "answers": [
+        {
+          "id": "q2a1",
+          "content": "It melts into a liquid.",
+          "isCorrect": true,
+          "explanation": "Heating raises the temperature above chocolate’s melting point."
+        },
+        {
+          "id": "q2a2",
+          "content": "It becomes colder.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q2a3",
+          "content": "It turns into ice.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 680,
+        "lessonName": "Heating and Cooling"
+      }
+    },
+    {
+      "id": "q3",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "Name one of the five senses you used while investigating the frozen fruit.",
+      "answers": [
+        {
+          "id": "q3a1",
+          "content": "Any one of: sight, smell, taste, touch, hearing",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 680,
+        "lessonName": "Heating and Cooling"
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Cooling a material removes energy from its particles. This causes the particles to:",
+      "answers": [
+        {
+          "id": "q4a1",
+          "content": "Move more slowly.",
+          "isCorrect": true,
+          "explanation": "Less thermal energy means less particle movement."
+        },
+        {
+          "id": "q4a2",
+          "content": "Move faster.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q4a3",
+          "content": "Disappear.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 680,
+        "lessonName": "Heating and Cooling"
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "What is the name of the process that turns liquid water into ice?",
+      "answers": [
+        {
+          "id": "q5a1",
+          "content": "Freezing",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "q5a2",
+          "content": "Melting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q5a3",
+          "content": "Evaporation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 680,
+        "lessonName": "Heating and Cooling"
+      }
+    },
+    {
+      "id": "q6",
+      "type": "drawing-response",
+      "marks": 3,
+      "question": "Draw and label what a piece of cheese looks like before it is heated and after it is melted.",
+      "answers": [
+        {
+          "id": "q6a1",
+          "content": "Teacher-marked drawing showing solid cheese (before) and melted cheese (after).",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 680,
+        "lessonName": "Heating and Cooling"
+      }
+    },
+    {
+      "id": "q7",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "State one safe procedure you should follow when handling food during a science investigation.",
+      "answers": [
+        {
+          "id": "q7a1",
+          "content": "Example correct responses: wash hands before touching food; use clean utensils; keep food on a clean surface.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 680,
+        "lessonName": "Heating and Cooling"
+      }
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which action would help a person warm up on a cold day?",
+      "answers": [
+        {
+          "id": "q8a1",
+          "content": "Putting on a thick, woollen jumper.",
+          "isCorrect": true,
+          "explanation": "The jumper traps body heat."
+        },
+        {
+          "id": "q8a2",
+          "content": "Standing in front of an open freezer.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q8a3",
+          "content": "Holding an ice cube in each hand.",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "lessonSource": {
