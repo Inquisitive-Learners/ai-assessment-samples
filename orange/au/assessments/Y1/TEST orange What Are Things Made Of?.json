@@ -1,0 +1,770 @@
+{
+  "metadata": {
+    "unitId": 278,
+    "unitName": "TEST orange What Are Things Made Of?",
+    "yearId": 1,
+    "userId": 251647,
+    "totalQuestions": 26,
+    "totalMarks": 36,
+    "generatedAt": "2025-09-16T23:11:11.878Z",
+    "lessonCount": 4
+  },
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which of the following tools would BEST help you look very closely at the surface of a leaf?",
+      "answers": [
+        {
+          "id": "Q1A",
+          "content": "A pair of binoculars made from cardboard tubes",
+          "isCorrect": false,
+          "explanation": "Binoculars help you see things that are far away, not tiny surface details."
+        },
+        {
+          "id": "Q1B",
+          "content": "A hand lens (magnifying glass)",
+          "isCorrect": true,
+          "explanation": "A magnifying glass enlarges small details, allowing close‐up observation."
+        },
+        {
+          "id": "Q1C",
+          "content": "A telescope",
+          "isCorrect": false,
+          "explanation": "Telescopes are designed for viewing very distant objects like stars."
+        },
+        {
+          "id": "Q1D",
+          "content": "Your bare eyes only",
+          "isCorrect": false,
+          "explanation": "You can see some details with bare eyes, but a magnifier gives a clearer, closer view."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 681,
+        "lessonName": "I Spy with My Little Eye"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Some objects, like a school chair with a plastic seat and metal legs, are made from:",
+      "answers": [
+        {
+          "id": "Q2A",
+          "content": "Only one material",
+          "isCorrect": false,
+          "explanation": "The chair clearly contains both plastic and metal."
+        },
+        {
+          "id": "Q2B",
+          "content": "More than one material",
+          "isCorrect": true,
+          "explanation": "Many everyday objects are composed of two or more different materials."
+        },
+        {
+          "id": "Q2C",
+          "content": "Invisible materials",
+          "isCorrect": false,
+          "explanation": "All materials making up the chair are visible and can be touched."
+        },
+        {
+          "id": "Q2D",
+          "content": "Liquid materials",
+          "isCorrect": false,
+          "explanation": "Plastic and metal are solids in this context."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 681,
+        "lessonName": "I Spy with My Little Eye"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "Write the name of ONE natural material you learned about in the lesson.",
+      "answers": [
+        {
+          "id": "Q3A",
+          "content": "Examples include wood, cotton, wool, leather, stone.",
+          "isCorrect": true,
+          "explanation": "Any correct natural material from the eBook or class discussion earns the mark."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 681,
+        "lessonName": "I Spy with My Little Eye"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "drawing-response",
+      "marks": 1,
+      "question": "On a piece of paper, DRAW one object you found during the Materials Scavenger Hunt and LABEL the different materials it is made from.",
+      "answers": [
+        {
+          "id": "Q4A",
+          "content": "Teacher‐marked: drawing shows recognisable object and at least one correct material label.",
+          "isCorrect": true,
+          "explanation": "Award the mark if the student’s drawing is recognisable and the material labels are reasonable."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 681,
+        "lessonName": "I Spy with My Little Eye"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which of these materials is MOST likely to be synthetic (made by people)?",
+      "answers": [
+        {
+          "id": "Q5A",
+          "content": "Wool",
+          "isCorrect": false,
+          "explanation": "Wool comes from sheep, so it is natural."
+        },
+        {
+          "id": "Q5B",
+          "content": "Plastic",
+          "isCorrect": true,
+          "explanation": "Plastic is manufactured from chemicals, so it is synthetic."
+        },
+        {
+          "id": "Q5C",
+          "content": "Wood",
+          "isCorrect": false,
+          "explanation": "Wood is obtained from trees, so it is natural."
+        },
+        {
+          "id": "Q5D",
+          "content": "Cotton",
+          "isCorrect": false,
+          "explanation": "Cotton is a plant fibre, so it is natural."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 681,
+        "lessonName": "I Spy with My Little Eye"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "Explain in ONE sentence why using binoculars or a magnifying glass can help scientists or students when observing materials.",
+      "answers": [
+        {
+          "id": "Q6A",
+          "content": "They make objects look bigger and clearer, so we can see small details we might miss with our eyes alone.",
+          "isCorrect": true,
+          "explanation": "Any response that mentions enlarging/seeing more detail receives the mark."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 681,
+        "lessonName": "I Spy with My Little Eye"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which word describes a material that you can see through?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Transparent",
+          "isCorrect": true,
+          "explanation": "A transparent material lets light pass through so you can see objects on the other side."
+        },
+        {
+          "id": "B",
+          "content": "Heavy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "C",
+          "content": "Rough",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "D",
+          "content": "Flexible",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 682,
+        "lessonName": "Observable Properties"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "When exploring everyday objects in this lesson, which sense should students AVOID using for safety reasons?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Taste",
+          "isCorrect": true,
+          "explanation": "Some classroom materials may be unsafe to put in the mouth, so tasting is not used."
+        },
+        {
+          "id": "B",
+          "content": "Sight",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "C",
+          "content": "Touch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "D",
+          "content": "Hearing",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 682,
+        "lessonName": "Observable Properties"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Sorting objects into ‘shiny’ and ‘dull’ groups is an example of sorting by:",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Observable properties",
+          "isCorrect": true,
+          "explanation": "Shiny and dull describe how a material looks, an observable property."
+        },
+        {
+          "id": "B",
+          "content": "Object size",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "C",
+          "content": "Object purpose",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "D",
+          "content": "Material cost",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 682,
+        "lessonName": "Observable Properties"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which pair of items is BEST grouped together because they are made from the same material?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Glass jar and window pane",
+          "isCorrect": true,
+          "explanation": "Both the jar and the window are made of glass."
+        },
+        {
+          "id": "B",
+          "content": "Paper cup and metal spoon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "C",
+          "content": "Plastic bottle and wool scarf",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "D",
+          "content": "Rock and rubber glove",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 682,
+        "lessonName": "Observable Properties"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which property MOST accurately describes a wool scarf?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Soft",
+          "isCorrect": true,
+          "explanation": "Wool feels soft to the touch, making it comfortable for clothing."
+        },
+        {
+          "id": "B",
+          "content": "Transparent",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "C",
+          "content": "Brittle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "D",
+          "content": "Shiny",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 682,
+        "lessonName": "Observable Properties"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "An elastic band can stretch and bend without breaking. Which word describes this property?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Flexible",
+          "isCorrect": true,
+          "explanation": "Flexible materials can bend or stretch and return to their original shape."
+        },
+        {
+          "id": "B",
+          "content": "Hard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "C",
+          "content": "Heavy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "D",
+          "content": "Dull",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 682,
+        "lessonName": "Observable Properties"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Why are the legs of the grey office chair shown in the lesson made from metal while the seat is cushioned fabric?",
+      "answers": [
+        {
+          "id": "Q1A",
+          "content": "Metal legs are strong and rigid so they can safely support the sitter’s weight, while fabric and foam make the seat comfortable.",
+          "isCorrect": true,
+          "explanation": "The purpose of the legs is to hold the whole chair (and the person) steady, so a strong, hard material is required. The seat’s purpose is comfort, so a soft material is used."
+        },
+        {
+          "id": "Q1B",
+          "content": "Metal is cheaper than fabric so it is always used for every chair part.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1C",
+          "content": "Fabric cannot be shaped into legs.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1D",
+          "content": "Using metal stops the chair from changing colour.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 683,
+        "lessonName": "Just Right"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "A traditional First Nations tarnuk for carrying water is MOST commonly made from which two main materials?",
+      "answers": [
+        {
+          "id": "Q2A",
+          "content": "Wooden bowl sealed with clay and a bark rope handle",
+          "isCorrect": true,
+          "explanation": "Wood was hollowed to form the container, clay sealed the base, and inner bark was twisted into a strong handle."
+        },
+        {
+          "id": "Q2B",
+          "content": "Stone bowl with a bone handle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2C",
+          "content": "Metal bucket with a plastic handle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2D",
+          "content": "Glass bowl with a string handle",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 683,
+        "lessonName": "Just Right"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "List TWO observable properties you could use to sort the materials you find in your classroom.",
+      "answers": [
+        {
+          "id": "Q3A",
+          "content": "Any two of: colour, hardness, texture, flexibility, weight, transparency, strength, waterproofness",
+          "isCorrect": true,
+          "explanation": "These properties can be noticed with our senses or simple tests and help us group materials."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 683,
+        "lessonName": "Just Right"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "In the story, why did Goldilocks like Baby Bear’s chair the best?",
+      "answers": [
+        {
+          "id": "Q4A",
+          "content": "Because it was the right size/height and felt comfortable or ‘just right’.",
+          "isCorrect": true,
+          "explanation": "The smaller chair suited Goldilocks’ body better than the large or hard chairs."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 683,
+        "lessonName": "Just Right"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "drawing-response",
+      "marks": 2,
+      "question": "Draw an object in your classroom that is made from MORE than one material. Label each part with the material it is made from and write one sentence explaining why one of those materials was chosen.",
+      "answers": [
+        {
+          "id": "Q5A",
+          "content": "Teacher-graded drawing; sentence should link a property to a purpose, e.g. ‘The scissors have metal blades because metal is hard and stays sharp.’",
+          "isCorrect": true,
+          "explanation": "Students must show they can identify multiple materials and connect a property to the object’s use."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 683,
+        "lessonName": "Just Right"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which property of the clear plastic covering makes it a GOOD material for greenhouse walls?",
+      "answers": [
+        {
+          "id": "Q6A",
+          "content": "It lets sunlight pass through so plants can grow.",
+          "isCorrect": true,
+          "explanation": "Transparency allows light in while keeping warmth and moisture inside."
+        },
+        {
+          "id": "Q6B",
+          "content": "It is heavier than glass.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q6C",
+          "content": "It blocks all light so plants rest.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q6D",
+          "content": "It is rough and absorbs water.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 683,
+        "lessonName": "Just Right"
+      }
+    },
+    {
+      "id": "Q7",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Give ONE advantage and ONE disadvantage of making furniture out of cardboard.",
+      "answers": [
+        {
+          "id": "Q7A",
+          "content": "Advantage examples: light weight, recyclable, cheap, easy to shape. Disadvantage examples: not very strong, can be damaged by water, wears out quickly.",
+          "isCorrect": true,
+          "explanation": "Students should recognise both positive and negative aspects linked to the material’s properties."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 683,
+        "lessonName": "Just Right"
+      }
+    },
+    {
+      "id": "Q8",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which statement BEST answers the focus question, ‘Why is it made that way?’",
+      "answers": [
+        {
+          "id": "Q8A",
+          "content": "People choose materials whose properties suit the object’s job or purpose.",
+          "isCorrect": true,
+          "explanation": "Material selection is based on matching properties such as strength, flexibility or waterproofness to what the object needs to do."
+        },
+        {
+          "id": "Q8B",
+          "content": "Objects are always made from the cheapest material available.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q8C",
+          "content": "All objects must be made from only one material.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q8D",
+          "content": "Materials never affect how well an object works.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 683,
+        "lessonName": "Just Right"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which word best describes a material that is suitable for making a raincoat?",
+      "answers": [
+        {
+          "id": "Q1A",
+          "content": "Waterproof",
+          "isCorrect": true,
+          "explanation": "A raincoat needs to stop water passing through."
+        },
+        {
+          "id": "Q1B",
+          "content": "Rough",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1C",
+          "content": "Stretchy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1D",
+          "content": "Transparent",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1048,
+        "lessonName": "Who Wears That?"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "During the class investigation, which sense helped you decide if the fabric was waterproof?",
+      "answers": [
+        {
+          "id": "Q2A",
+          "content": "Touch (feeling with your fingers)",
+          "isCorrect": true,
+          "explanation": "You felt whether the water went through or stayed on top of the fabric."
+        },
+        {
+          "id": "Q2B",
+          "content": "Smell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2C",
+          "content": "Taste",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2D",
+          "content": "Hearing",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1048,
+        "lessonName": "Who Wears That?"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Why do construction workers wear hard hats? Give one reason.",
+      "answers": [
+        {
+          "id": "Q3A",
+          "content": "Hard hats protect their heads from falling objects or bumps.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1048,
+        "lessonName": "Who Wears That?"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "In your experiment, which fabric most likely kept the paper person the driest?",
+      "answers": [
+        {
+          "id": "Q4A",
+          "content": "Nylon or polyester (from an umbrella or rain jacket)",
+          "isCorrect": true,
+          "explanation": "These synthetic fabrics are designed to be waterproof."
+        },
+        {
+          "id": "Q4B",
+          "content": "Cotton (from a T-shirt)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q4C",
+          "content": "Wool or acrylic",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q4D",
+          "content": "Paper",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1048,
+        "lessonName": "Who Wears That?"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Name two kinds of protective clothing a child might wear and explain how each item keeps them safe.",
+      "answers": [
+        {
+          "id": "Q5A",
+          "content": "Example answer: 1) A bike helmet protects the head if the rider falls. 2) Sunglasses protect the eyes from bright sunlight.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1048,
+        "lessonName": "Who Wears That?"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "drawing-response",
+      "marks": 3,
+      "question": "Design Task: Draw and label a superhero cape made from a material you think is best. Show its special property and explain why you chose that material.",
+      "answers": [
+        {
+          "id": "Q6A",
+          "content": "Sample rubric: The drawing shows (1) the cape shape, (2) labels the chosen material (e.g., nylon) and property (waterproof, light, strong), and (3) explains how that property helps the superhero.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1048,
+        "lessonName": "Who Wears That?"
+      }
+    }
+  ]
+}
