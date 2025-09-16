@@ -1,0 +1,662 @@
+{
+  "metadata": {
+    "unitId": 281,
+    "unitName": "TEST orange Using Materials for a Purpose",
+    "yearId": 5,
+    "userId": 251647,
+    "totalQuestions": 22,
+    "totalMarks": 30,
+    "generatedAt": "2025-09-16T23:13:35.587Z",
+    "lessonCount": 3
+  },
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which of the following is a natural material?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Plastic",
+          "isCorrect": false,
+          "explanation": "Plastic is manufactured from petro-chemicals, so it is a processed material."
+        },
+        {
+          "id": "B",
+          "content": "Wool",
+          "isCorrect": true,
+          "explanation": "Wool comes directly from sheep, so it is a natural material."
+        },
+        {
+          "id": "C",
+          "content": "Glass",
+          "isCorrect": false,
+          "explanation": "Glass is made by humans by heating sand and other additives, so it is processed."
+        },
+        {
+          "id": "D",
+          "content": "Concrete",
+          "isCorrect": false,
+          "explanation": "Concrete is a human-made composite material."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which pair of words are antonyms when describing material properties?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Rigid – Flexible",
+          "isCorrect": true,
+          "explanation": "Rigid and flexible are opposites."
+        },
+        {
+          "id": "B",
+          "content": "Smooth – Hard",
+          "isCorrect": false,
+          "explanation": "Smooth describes texture, hard describes resistance – they are not opposites."
+        },
+        {
+          "id": "C",
+          "content": "Waterproof – Transparent",
+          "isCorrect": false,
+          "explanation": "A material can be both waterproof and transparent (e.g. glass), so they are not opposites."
+        },
+        {
+          "id": "D",
+          "content": "Strong – Heavy",
+          "isCorrect": false,
+          "explanation": "Strength and mass are different concepts, not opposites."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which two properties best describe ordinary window glass?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Transparent and waterproof",
+          "isCorrect": true,
+          "explanation": "Light passes through glass (transparent) and it does not let water soak in (waterproof)."
+        },
+        {
+          "id": "B",
+          "content": "Opaque and rough",
+          "isCorrect": false,
+          "explanation": "Glass is see-through and usually smooth."
+        },
+        {
+          "id": "C",
+          "content": "Absorbent and flexible",
+          "isCorrect": false,
+          "explanation": "Glass neither soaks up water nor bends easily."
+        },
+        {
+          "id": "D",
+          "content": "Light and soft",
+          "isCorrect": false,
+          "explanation": "Compared to many materials, glass is relatively heavy and hard."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Explain TWO properties that make wood a suitable material for building a treehouse.",
+      "answers": [
+        {
+          "id": "SA1",
+          "content": "Any two of: lightweight / relatively light; strong under compression and tension; renewable / sustainable; can be cut and joined easily; provides good insulation; is rigid.",
+          "isCorrect": true,
+          "explanation": "Wood’s combination of strength and light mass allows a tree to support it; it is also easy to shape and fix, making construction practical."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which item below is made from a processed material?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Granite bench top",
+          "isCorrect": false,
+          "explanation": "Granite is a natural rock (only cut and polished)."
+        },
+        {
+          "id": "B",
+          "content": "Aluminium soft-drink can",
+          "isCorrect": true,
+          "explanation": "Aluminium metal is extracted from bauxite ore by industrial processing."
+        },
+        {
+          "id": "C",
+          "content": "Shell necklace",
+          "isCorrect": false,
+          "explanation": "Shells are natural materials gathered from animals."
+        },
+        {
+          "id": "D",
+          "content": "Woollen scarf",
+          "isCorrect": false,
+          "explanation": "The fibre is natural, only spun and knitted."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "During the Materials Soundscape activity, students used their senses to identify materials. Name TWO senses they used and briefly describe how each sense helped.",
+      "answers": [
+        {
+          "id": "SA1",
+          "content": "Hearing – students listened to the sound each material made (e.g. clink of glass) to identify it; Touch – when handling real samples they felt texture/temperature/rigidity to decide which material matched the clue.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q7",
+      "type": "drawing-response",
+      "marks": 1,
+      "question": "Draw a two-column chart. Label one column ‘Natural’ and the other ‘Processed’. Place at least FOUR everyday materials (two in each column) in the correct place.",
+      "answers": [
+        {
+          "id": "DR",
+          "content": "Teacher to sight student work for two correct examples in each column.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q8",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "In Activity 7, how did students test whether a material was waterproof?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Hit it with a hammer",
+          "isCorrect": false,
+          "explanation": "This tests hardness, not waterproofness."
+        },
+        {
+          "id": "B",
+          "content": "Place it in sunlight",
+          "isCorrect": false,
+          "explanation": "This would not show waterproofness."
+        },
+        {
+          "id": "C",
+          "content": "Drop water onto it with a pipette and observe whether the water is absorbed",
+          "isCorrect": true,
+          "explanation": "If the water beads and runs off, the material is waterproof; if it soaks in, it is absorbent."
+        },
+        {
+          "id": "D",
+          "content": "Weigh it before and after wiping it",
+          "isCorrect": false,
+          "explanation": "Weight change alone was not part of the lesson procedure."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q9",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Gold is prized for jewellery mainly because it is:",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Light and rough",
+          "isCorrect": false,
+          "explanation": "Gold is dense and usually polished smooth."
+        },
+        {
+          "id": "B",
+          "content": "Malleable and shiny",
+          "isCorrect": true,
+          "explanation": "Gold can be hammered into shapes (malleable) and has a bright lustre (shiny)."
+        },
+        {
+          "id": "C",
+          "content": "Absorbent and flexible",
+          "isCorrect": false,
+          "explanation": "Gold neither soaks up liquids nor bends like fabric."
+        },
+        {
+          "id": "D",
+          "content": "Transparent and strong",
+          "isCorrect": false,
+          "explanation": "Gold is opaque and relatively soft."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q10",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Write TWO pairs of opposite (antonym) properties used to describe materials.",
+      "answers": [
+        {
+          "id": "SA1",
+          "content": "Any two correct pairs, e.g. waterproof/absorbent; dull/shiny; strong/weak; transparent/opaque; flexible/rigid; light/heavy; rough/smooth; hard/soft.",
+          "isCorrect": true,
+          "explanation": "Accept any valid antonym pair discussed in the lesson."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 690,
+        "lessonName": "Material Talk"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which property makes rubber a suitable material for making gumboots?",
+      "answers": [
+        {
+          "id": "Q1A",
+          "content": "It is transparent",
+          "isCorrect": false,
+          "explanation": "Transparency is not needed for gumboots."
+        },
+        {
+          "id": "Q1B",
+          "content": "It is waterproof and flexible",
+          "isCorrect": true,
+          "explanation": "Rubber keeps water out while allowing comfortable movement."
+        },
+        {
+          "id": "Q1C",
+          "content": "It conducts electricity",
+          "isCorrect": false,
+          "explanation": "Electrical conductivity is irrelevant here."
+        },
+        {
+          "id": "Q1D",
+          "content": "It is brittle",
+          "isCorrect": false,
+          "explanation": "A brittle material would crack and leak."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 691,
+        "lessonName": "Materials’ Jobs"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Why is glass commonly used for window panes?",
+      "answers": [
+        {
+          "id": "Q2A",
+          "content": "It is magnetic",
+          "isCorrect": false,
+          "explanation": "Glass is not magnetic."
+        },
+        {
+          "id": "Q2B",
+          "content": "It is transparent and lets light through",
+          "isCorrect": true,
+          "explanation": "Transparency allows light into buildings while still providing a barrier."
+        },
+        {
+          "id": "Q2C",
+          "content": "It is a good electrical conductor",
+          "isCorrect": false,
+          "explanation": "Electrical conductivity is not required for windows."
+        },
+        {
+          "id": "Q2D",
+          "content": "It rusts slowly",
+          "isCorrect": false,
+          "explanation": "Glass does not rust."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 691,
+        "lessonName": "Materials’ Jobs"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "What do we call giving an old product a new purpose instead of throwing it away?",
+      "answers": [
+        {
+          "id": "Q3A",
+          "content": "Repurposing",
+          "isCorrect": true,
+          "explanation": "Repurposing means using an object for a different function than it was originally designed for."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 691,
+        "lessonName": "Materials’ Jobs"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Concrete is an example of a composite material. What is a composite material?",
+      "answers": [
+        {
+          "id": "Q4A",
+          "content": "A material found only in nature",
+          "isCorrect": false,
+          "explanation": "Composites can be natural or man-made."
+        },
+        {
+          "id": "Q4B",
+          "content": "A single pure substance with no additives",
+          "isCorrect": false,
+          "explanation": "Composites are made from more than one substance."
+        },
+        {
+          "id": "Q4C",
+          "content": "A material made by combining two or more materials with different properties",
+          "isCorrect": true,
+          "explanation": "The combination gives the new material useful, unique properties."
+        },
+        {
+          "id": "Q4D",
+          "content": "Any material that melts when heated",
+          "isCorrect": false,
+          "explanation": "Melting point does not define a composite."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 691,
+        "lessonName": "Materials’ Jobs"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which of the following is a natural material?",
+      "answers": [
+        {
+          "id": "Q5A",
+          "content": "Plastic",
+          "isCorrect": false,
+          "explanation": "Plastic is processed from petroleum."
+        },
+        {
+          "id": "Q5B",
+          "content": "Steel",
+          "isCorrect": false,
+          "explanation": "Steel is processed from iron ore."
+        },
+        {
+          "id": "Q5C",
+          "content": "Wool",
+          "isCorrect": true,
+          "explanation": "Wool is obtained directly from sheep and is natural."
+        },
+        {
+          "id": "Q5D",
+          "content": "Fibreglass",
+          "isCorrect": false,
+          "explanation": "Fibreglass is a manufactured composite."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 691,
+        "lessonName": "Materials’ Jobs"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "drawing-response",
+      "marks": 5,
+      "question": "Choose one everyday product (e.g., a glass jar, a wooden ladder or a metal frying pan) and sketch a design showing how you could repurpose it for a new use. Label the sketch to explain which material properties make it suitable for its new purpose.",
+      "answers": [
+        {
+          "id": "Q6A",
+          "content": "Teacher-marked",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 691,
+        "lessonName": "Materials’ Jobs"
+      }
+    },
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which statement best describes the scientific property called elasticity?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "A material that keeps its new shape after being stretched or squashed.",
+          "isCorrect": false,
+          "explanation": "If the material does not return to its original shape it is plastic, not elastic."
+        },
+        {
+          "id": "b",
+          "content": "A material that is able to conduct electricity.",
+          "isCorrect": false,
+          "explanation": "Conductivity is a different property."
+        },
+        {
+          "id": "c",
+          "content": "A material that returns to its original shape after a deforming force is removed.",
+          "isCorrect": true,
+          "explanation": "Elastic materials ‘bounce back’ to their original shape when the force is taken away."
+        },
+        {
+          "id": "d",
+          "content": "A material that breaks easily under pressure.",
+          "isCorrect": false,
+          "explanation": "Brittleness is the tendency to break, not elasticity."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 692,
+        "lessonName": "Bouncing Balls"
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "In the bouncing-ball investigation, why must all balls be dropped from the same height onto the same surface?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "To make the video easier to record in slow motion.",
+          "isCorrect": false,
+          "explanation": "Recording quality is not the main scientific reason."
+        },
+        {
+          "id": "b",
+          "content": "To save time while conducting the investigation.",
+          "isCorrect": false,
+          "explanation": "Time saving is not the goal of a fair test."
+        },
+        {
+          "id": "c",
+          "content": "To keep the test fair so that only the elasticity of the balls affects how high they bounce.",
+          "isCorrect": true,
+          "explanation": "Using identical conditions controls variables other than elasticity."
+        },
+        {
+          "id": "d",
+          "content": "Because rulers only measure one metre accurately in one place.",
+          "isCorrect": false,
+          "explanation": "Measurement accuracy does not depend on location."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 692,
+        "lessonName": "Bouncing Balls"
+      }
+    },
+    {
+      "id": "q3",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Name TWO everyday activities from the lesson that rely on elasticity and briefly state why elasticity is important for each activity.",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Sample answer: (1) Jumping on a trampoline – the elastic mat stretches and recoils to lift the jumper back up. (2) Bungee jumping – the elastic cord stretches to slow the jumper safely and then recoils.",
+          "isCorrect": true,
+          "explanation": "Any two of the following with correct reasons earn full marks: playing elastics, bouncing on a trampoline, bungee jumping, firing a slingshot."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 692,
+        "lessonName": "Bouncing Balls"
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Based on their typical materials, which ball from the list below would you predict to have the HIGHEST elasticity (highest bounce)?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Cricket ball (leather and cork)",
+          "isCorrect": false,
+          "explanation": "The layered leather and cork make it less bouncy."
+        },
+        {
+          "id": "b",
+          "content": "Golf ball (synthetic cover, wound core)",
+          "isCorrect": false,
+          "explanation": "Golf balls are hard and designed for distance, not maximum bounce on the spot."
+        },
+        {
+          "id": "c",
+          "content": "Hand ball/rubber ball",
+          "isCorrect": true,
+          "explanation": "Rubber is highly elastic, so a hand ball usually bounces higher than the others."
+        },
+        {
+          "id": "d",
+          "content": "Ping-pong ball (thin celluloid/plastic)",
+          "isCorrect": false,
+          "explanation": "A ping-pong ball is light and does not bounce as high as a solid rubber ball from the same height."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 692,
+        "lessonName": "Bouncing Balls"
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "What happens to a tennis ball when it hits the ground and bounces back up?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "It keeps its shape while energy magically pushes it upward.",
+          "isCorrect": false,
+          "explanation": "The ball actually squashes and then reforms."
+        },
+        {
+          "id": "b",
+          "content": "It briefly flattens, then its elastic rubber core expands back, pushing on the ground and sending the ball upward.",
+          "isCorrect": true,
+          "explanation": "Compression followed by elastic recovery causes the bounce."
+        },
+        {
+          "id": "c",
+          "content": "Air escapes from the ball, making it lighter so it rises.",
+          "isCorrect": false,
+          "explanation": "The internal pressure stays inside the ball during a normal bounce."
+        },
+        {
+          "id": "d",
+          "content": "The felt cover grips the floor and creates spin instead of bounce.",
+          "isCorrect": false,
+          "explanation": "Spin can occur, but the main bounce comes from elasticity of the core."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 692,
+        "lessonName": "Bouncing Balls"
+      }
+    },
+    {
+      "id": "q6",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Explain how understanding the properties of materials helps designers choose the best material for making a particular sports ball.",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Sample answer: Designers test properties such as elasticity, hardness and weight. Knowing, for example, that rubber is elastic tells them it will give basketballs good bounce, while a harder material like cork and leather makes a cricket ball travel fast without too much bounce. Matching material properties to how the ball needs to perform leads to better, safer equipment.",
+          "isCorrect": true,
+          "explanation": "Response should mention matching specific material properties (e.g. elasticity) to the required performance of the sports ball."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 692,
+        "lessonName": "Bouncing Balls"
+      }
+    }
+  ]
+}
