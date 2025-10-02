@@ -1,0 +1,878 @@
+{
+  "metadata": {
+    "unitId": 279,
+    "unitName": "TEST orange Moving Objects",
+    "yearId": 1,
+    "userId": 252947,
+    "totalQuestions": 32,
+    "totalMarks": 63,
+    "generatedAt": "2025-10-02T22:06:13.469Z",
+    "lessonCount": 5
+  },
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which type of force moves an object AWAY from the person applying the force?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "A push",
+          "isCorrect": true,
+          "explanation": "A push directs the object away from the source of the force."
+        },
+        {
+          "id": "B",
+          "content": "A pull",
+          "isCorrect": false,
+          "explanation": "A pull brings the object toward the source of the force."
+        },
+        {
+          "id": "C",
+          "content": "Gravity",
+          "isCorrect": false,
+          "explanation": "Gravity is a downward force, not a push away from you."
+        },
+        {
+          "id": "D",
+          "content": "Friction",
+          "isCorrect": false,
+          "explanation": "Friction is a contact force that resists motion, not a pushing force away."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 684,
+        "lessonName": "Pushing or Pulling?"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which of the following actions is BEST described as a PULL?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "Closing a door",
+          "isCorrect": false,
+          "explanation": "Closing a door is usually a push, moving the door away from you."
+        },
+        {
+          "id": "B",
+          "content": "Opening a drawer",
+          "isCorrect": true,
+          "explanation": "You pull the drawer toward you to open it."
+        },
+        {
+          "id": "C",
+          "content": "Kicking a soccer ball",
+          "isCorrect": false,
+          "explanation": "Kicking applies a push to the ball."
+        },
+        {
+          "id": "D",
+          "content": "Pushing a toy car",
+          "isCorrect": false,
+          "explanation": "As the name suggests, this is a push."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 684,
+        "lessonName": "Pushing or Pulling?"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Write the name of ONE classroom object that you can BOTH push and pull. Explain briefly how you use both forces on it.",
+      "answers": [
+        {
+          "id": "SA1",
+          "content": "Sample correct responses: door, chair, drawer, toy car, box, trolley.\nExplanation example: \"A chair can be pushed to move it away from me, and pulled to bring it closer.\"",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 684,
+        "lessonName": "Pushing or Pulling?"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "When you PUSHED on your playdough ball during the lesson, what MAIN change happened?",
+      "answers": [
+        {
+          "id": "A",
+          "content": "It flattened or became wider.",
+          "isCorrect": true,
+          "explanation": "A push compressed the playdough, making it flatten and spread out."
+        },
+        {
+          "id": "B",
+          "content": "It stretched longer like a string.",
+          "isCorrect": false,
+          "explanation": "Stretching is usually caused by a pull, not a push."
+        },
+        {
+          "id": "C",
+          "content": "It got colder.",
+          "isCorrect": false,
+          "explanation": "Temperature did not noticeably change due to the push."
+        },
+        {
+          "id": "D",
+          "content": "Nothing happened.",
+          "isCorrect": false,
+          "explanation": "A visible shape change should occur when a force is applied."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 684,
+        "lessonName": "Pushing or Pulling?"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Describe what happened to the shape of your playdough when you PULLED it. Use at least one describing word (e.g., longer, thinner).",
+      "answers": [
+        {
+          "id": "SA1",
+          "content": "Expected key ideas: the playdough became longer / stretched / thinner / formed a string shape when it was pulled.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 684,
+        "lessonName": "Pushing or Pulling?"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "When you push a toy car and it moves away from you, which force are you using?",
+      "answers": [
+        {
+          "id": "Q1A",
+          "content": "Push",
+          "isCorrect": true,
+          "explanation": "A push moves an object away from the force maker."
+        },
+        {
+          "id": "Q1B",
+          "content": "Pull",
+          "isCorrect": false,
+          "explanation": "A pull moves an object closer, not away."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 685,
+        "lessonName": "Changing Direction"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Look at the picture of a child tugging a rope toward themselves. Which arrow best shows the direction of the force?",
+      "answers": [
+        {
+          "id": "Q2A",
+          "content": "← (arrow pointing toward the child)",
+          "isCorrect": true,
+          "explanation": "The rope is being pulled toward the child, so the arrow points toward them."
+        },
+        {
+          "id": "Q2B",
+          "content": "→ (arrow pointing away from the child)",
+          "isCorrect": false,
+          "explanation": "This would show a push away, not a pull toward."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 685,
+        "lessonName": "Changing Direction"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Why does a mini-golf ball change direction when it hits a wall or block?",
+      "answers": [
+        {
+          "id": "Q3A",
+          "content": "Because the wall or block pushes on the ball, changing its path.",
+          "isCorrect": true,
+          "explanation": "The obstacle exerts a push on the ball, so the ball’s direction changes."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 685,
+        "lessonName": "Changing Direction"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Name two classroom objects you could place on the floor to make a ball turn a corner in your mini-golf hole.",
+      "answers": [
+        {
+          "id": "Q4A",
+          "content": "Any two of: books, crayon boxes, blocks, rulers, erasers.",
+          "isCorrect": true,
+          "explanation": "These objects can act as obstacles that push the ball sideways."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 685,
+        "lessonName": "Changing Direction"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "During the class pinball game, which rule keeps everyone safe and the game working?",
+      "answers": [
+        {
+          "id": "Q5A",
+          "content": "Keep the ball on the floor.",
+          "isCorrect": true,
+          "explanation": "Keeping the ball low stops it from hitting people above the waist."
+        },
+        {
+          "id": "Q5B",
+          "content": "Kick the ball as hard as you can.",
+          "isCorrect": false,
+          "explanation": "This could break the circle and hurt someone."
+        },
+        {
+          "id": "Q5C",
+          "content": "Let go of your partner’s hands whenever you like.",
+          "isCorrect": false,
+          "explanation": "The circle must stay joined so the ball can bounce off legs safely."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 685,
+        "lessonName": "Changing Direction"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "In the domino maze, what happens to each domino after the one before it falls?",
+      "answers": [
+        {
+          "id": "Q6A",
+          "content": "It gets hit, tips over, and starts the next one tipping.",
+          "isCorrect": true,
+          "explanation": "Each falling domino pushes the next, creating a chain that can turn corners."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 685,
+        "lessonName": "Changing Direction"
+      }
+    },
+    {
+      "id": "Q7",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which statement best describes the word direction as used in this lesson?",
+      "answers": [
+        {
+          "id": "Q7A",
+          "content": "The path an object follows when it moves.",
+          "isCorrect": true,
+          "explanation": "Direction is the line or path an object takes."
+        },
+        {
+          "id": "Q7B",
+          "content": "The speed an object travels.",
+          "isCorrect": false,
+          "explanation": "Speed is how fast, not which way, something moves."
+        },
+        {
+          "id": "Q7C",
+          "content": "The weight of an object.",
+          "isCorrect": false,
+          "explanation": "Weight is how heavy an object is, unrelated to direction."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 685,
+        "lessonName": "Changing Direction"
+      }
+    },
+    {
+      "id": "Q8",
+      "type": "drawing-response",
+      "marks": 4,
+      "question": "Draw your own simple mini-golf hole. • Use arrows to show at least two places where the ball will change direction. • Label one push and one pull that happen in your game.",
+      "answers": [
+        {
+          "id": "Q8A",
+          "content": "Teacher rubric: 0-1 marks = arrows missing or incorrect; 2-3 marks = arrows shown with one correct label; 4 marks = two or more correct arrows and both push/pull labels.",
+          "isCorrect": true,
+          "explanation": "Students’ drawings will vary; assess using the rubric."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 685,
+        "lessonName": "Changing Direction"
+      }
+    },
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which type of surface shape makes objects roll most easily?",
+      "answers": [
+        {
+          "id": "q1a",
+          "content": "Flat surfaces",
+          "isCorrect": false,
+          "explanation": "Flat faces tend to slide rather than roll."
+        },
+        {
+          "id": "q1b",
+          "content": "Curved/round surfaces",
+          "isCorrect": true,
+          "explanation": "Curved surfaces like those on balls or cylinders allow continuous contact that produces rolling."
+        },
+        {
+          "id": "q1c",
+          "content": "Sharp edges",
+          "isCorrect": false,
+          "explanation": "Sharp edges dig in and prevent smooth movement."
+        },
+        {
+          "id": "q1d",
+          "content": "Pointed ends",
+          "isCorrect": false,
+          "explanation": "Pointed shapes do not provide continuous contact for rolling."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 686,
+        "lessonName": "Sliding or Rolling? "
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "After you flattened your playdough ball into a disc and placed it on the desk, which kind of movement was it MOST likely to do?",
+      "answers": [
+        {
+          "id": "q2a",
+          "content": "Roll",
+          "isCorrect": false,
+          "explanation": "The flat faces removed the curved surface needed for rolling."
+        },
+        {
+          "id": "q2b",
+          "content": "Slide",
+          "isCorrect": true,
+          "explanation": "A flat face against the desk allows sliding."
+        },
+        {
+          "id": "q2c",
+          "content": "Bounce",
+          "isCorrect": false,
+          "explanation": "Playdough does not normally bounce."
+        },
+        {
+          "id": "q2d",
+          "content": "Stay perfectly still on any slope",
+          "isCorrect": false,
+          "explanation": "On an inclined surface it will usually slide."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 686,
+        "lessonName": "Sliding or Rolling? "
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which classroom object can BOTH roll and slide, depending on how you place it on a ramp?",
+      "answers": [
+        {
+          "id": "q3a",
+          "content": "Water bottle",
+          "isCorrect": true,
+          "explanation": "Laid on its side it rolls; standing upright it can slide."
+        },
+        {
+          "id": "q3b",
+          "content": "Book",
+          "isCorrect": false,
+          "explanation": "A book mainly slides because of its flat faces."
+        },
+        {
+          "id": "q3c",
+          "content": "Cube block",
+          "isCorrect": false,
+          "explanation": "With six flat faces the cube will usually slide, not roll."
+        },
+        {
+          "id": "q3d",
+          "content": "Sticky-tape roll",
+          "isCorrect": false,
+          "explanation": "Its curved outside means it mostly rolls."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 686,
+        "lessonName": "Sliding or Rolling? "
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "What is the MAIN factor that decides whether an object will roll or slide?",
+      "answers": [
+        {
+          "id": "q4a",
+          "content": "Its colour",
+          "isCorrect": false,
+          "explanation": "Colour does not affect motion type."
+        },
+        {
+          "id": "q4b",
+          "content": "Its shape",
+          "isCorrect": true,
+          "explanation": "Curved shapes roll; flat shapes slide."
+        },
+        {
+          "id": "q4c",
+          "content": "Its temperature",
+          "isCorrect": false,
+          "explanation": "Temperature has little effect on rolling vs sliding for solid classroom objects."
+        },
+        {
+          "id": "q4d",
+          "content": "Its smell",
+          "isCorrect": false,
+          "explanation": "Smell is unrelated to movement type."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 686,
+        "lessonName": "Sliding or Rolling? "
+      }
+    },
+    {
+      "id": "q5",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Describe one safe method you could use to move a very heavy refrigerator across the kitchen floor without lifting it.",
+      "answers": [
+        {
+          "id": "q5a",
+          "content": "Place round rollers or pipes underneath so it can roll, or use a trolley with wheels to push it.",
+          "isCorrect": true,
+          "explanation": "Using wheels or rollers changes the flat base into curved contacts, reducing friction and allowing the fridge to roll."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 686,
+        "lessonName": "Sliding or Rolling? "
+      }
+    },
+    {
+      "id": "q6",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Explain why a wooden cube usually slides rather than rolls when you place it on a ramp.",
+      "answers": [
+        {
+          "id": "q6a",
+          "content": "Because all its faces are flat, only an edge or a whole face touches the ramp, so it cannot turn smoothly; instead gravity pulls it straight down the slope and it slides.",
+          "isCorrect": true,
+          "explanation": "With no continuous curved surface the cube cannot rotate smoothly; friction over each flat face produces sliding."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 686,
+        "lessonName": "Sliding or Rolling? "
+      }
+    },
+    {
+      "id": "q7",
+      "type": "drawing-response",
+      "marks": 2,
+      "question": "Draw a classroom object that can both roll and slide. Label the parts that let it roll and the parts that let it slide.",
+      "answers": [
+        {
+          "id": "q7a",
+          "content": "Sample drawing might show a cylindrical glue stick. The curved side is labelled ‘rolls’, the flat ends are labelled ‘slides’.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 686,
+        "lessonName": "Sliding or Rolling? "
+      }
+    },
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "During the class investigation, which ball is expected to bounce the highest when dropped from the same height?",
+      "answers": [
+        {
+          "id": "q1a1",
+          "content": "Basketball",
+          "isCorrect": true,
+          "explanation": "A basketball is made from an elastic rubber bladder filled with pressurised air, so it stores and releases more energy than the other balls."
+        },
+        {
+          "id": "q1a2",
+          "content": "Golf ball",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q1a3",
+          "content": "Tennis ball",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q1a4",
+          "content": "Glass marble",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1049,
+        "lessonName": "Moving Through the Air"
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which feature best explains why a javelin travels a long way through the air?",
+      "answers": [
+        {
+          "id": "q2a1",
+          "content": "It has a long, narrow, pointed shape",
+          "isCorrect": true,
+          "explanation": "A streamlined, pointed shape reduces air resistance and allows it to cut through the air smoothly."
+        },
+        {
+          "id": "q2a2",
+          "content": "It is brightly coloured",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q2a3",
+          "content": "It is made of rubber",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q2a4",
+          "content": "It has holes in the side",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1049,
+        "lessonName": "Moving Through the Air"
+      }
+    },
+    {
+      "id": "q3",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Why does a glass marble bounce much lower than a basketball when both are dropped from the same height?",
+      "answers": [
+        {
+          "id": "q3a1",
+          "content": "A marble is hard and only squashes a tiny bit, so it cannot store much energy to push back up, while a basketball compresses and the air inside helps it spring back.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1049,
+        "lessonName": "Moving Through the Air"
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Traditional First Nations Peoples of Australia used a toy spear and target for practice. Which modern sporting object is most similar in shape and purpose?",
+      "answers": [
+        {
+          "id": "q4a1",
+          "content": "Javelin",
+          "isCorrect": true,
+          "explanation": "Both are long, straight and pointed, designed to fly through the air toward a target."
+        },
+        {
+          "id": "q4a2",
+          "content": "Soccer ball",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q4a3",
+          "content": "Skateboard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "q4a4",
+          "content": "Boomerang",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1049,
+        "lessonName": "Moving Through the Air"
+      }
+    },
+    {
+      "id": "q5",
+      "type": "drawing-response",
+      "marks": 2,
+      "question": "Draw one object that bounces and one object that flies. Label the material and shape features that help each object move in that way.",
+      "answers": [
+        {
+          "id": "q5a1",
+          "content": "Student supplies drawing and labels (e.g., ‘rubber basketball – elastic, round’ and ‘paper aeroplane – light paper, pointed nose’).",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 1049,
+        "lessonName": "Moving Through the Air"
+      }
+    },
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "When the child wants the kendama ball to rise into the air, which force does the child mainly use on the stick?",
+      "answers": [
+        {
+          "id": "q1a",
+          "content": "A push",
+          "isCorrect": true,
+          "explanation": "The child pushes the stick upward, causing the ball attached by the string to move upward."
+        },
+        {
+          "id": "q1b",
+          "content": "A pull",
+          "isCorrect": false,
+          "explanation": "Pulling is used when catching the ball, not when sending it upward."
+        },
+        {
+          "id": "q1c",
+          "content": "A twist",
+          "isCorrect": false,
+          "explanation": "Twisting is not involved in lifting the kendama ball."
+        },
+        {
+          "id": "q1d",
+          "content": "Gravity",
+          "isCorrect": false,
+          "explanation": "Gravity pulls objects downward, but it is not the force the child applies."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 721,
+        "lessonName": "Toys in Action"
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which action helps the player catch the kendama ball on the cup or spike?",
+      "answers": [
+        {
+          "id": "q2a",
+          "content": "Pulling the stick downward",
+          "isCorrect": true,
+          "explanation": "Pulling slows the ball and guides it onto the cup or spike."
+        },
+        {
+          "id": "q2b",
+          "content": "Pushing the stick upward",
+          "isCorrect": false,
+          "explanation": "Pushing sends the ball upward rather than helping to catch it."
+        },
+        {
+          "id": "q2c",
+          "content": "Letting go of the stick",
+          "isCorrect": false,
+          "explanation": "Releasing the stick does not actively control the ball."
+        },
+        {
+          "id": "q2d",
+          "content": "Twisting the handle",
+          "isCorrect": false,
+          "explanation": "Twisting is not used in catching the kendama ball."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 721,
+        "lessonName": "Toys in Action"
+      }
+    },
+    {
+      "id": "q3",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "A twist is a combination of which two basic forces?",
+      "answers": [
+        {
+          "id": "q3a",
+          "content": "Push and pull",
+          "isCorrect": true,
+          "explanation": "Twisting involves simultaneously pushing on one side and pulling on the opposite side of an object."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 721,
+        "lessonName": "Toys in Action"
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "First Nations Peoples of Australia traditionally made spinning tops mainly from which natural material?",
+      "answers": [
+        {
+          "id": "q4a",
+          "content": "Wood",
+          "isCorrect": true,
+          "explanation": "Many traditional tops were carved from pieces of native timber."
+        },
+        {
+          "id": "q4b",
+          "content": "Plastic",
+          "isCorrect": false,
+          "explanation": "Plastic is a modern material not used in traditional artifacts."
+        },
+        {
+          "id": "q4c",
+          "content": "Glass",
+          "isCorrect": false,
+          "explanation": "Glass was not commonly used for traditional spinning tops."
+        },
+        {
+          "id": "q4d",
+          "content": "Metal",
+          "isCorrect": false,
+          "explanation": "Metal tops exist but are less common in First Nations historical examples."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 721,
+        "lessonName": "Toys in Action"
+      }
+    },
+    {
+      "id": "q5",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "Describe one change you could make to your cardboard–stick spinning top to help it spin faster.",
+      "answers": [
+        {
+          "id": "q5a",
+          "content": "Accept a variety of scientifically valid answers, e.g. ‘Make the cardboard circle heavier at the rim’ or ‘Reduce friction by sharpening the stick point.’",
+          "isCorrect": true,
+          "explanation": "Increasing rim mass or reducing friction increases angular momentum or decreases energy loss, both of which allow faster spinning."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 721,
+        "lessonName": "Toys in Action"
+      }
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "In totem tennis, which two main forces help the ball travel around the pole?",
+      "answers": [
+        {
+          "id": "q6a",
+          "content": "A push from the bat and tension from the rope",
+          "isCorrect": true,
+          "explanation": "The bat pushes (hits) the ball, and the rope’s tension keeps it moving in a circular path."
+        },
+        {
+          "id": "q6b",
+          "content": "Gravity and magnetism",
+          "isCorrect": false,
+          "explanation": "Magnetism is not involved; gravity acts downward and is not the main cause of circular motion."
+        },
+        {
+          "id": "q6c",
+          "content": "Air resistance and friction with the pole",
+          "isCorrect": false,
+          "explanation": "These forces slow the ball rather than make it move."
+        },
+        {
+          "id": "q6d",
+          "content": "Electric force and lift",
+          "isCorrect": false,
+          "explanation": "These forces are unrelated to totem tennis."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 721,
+        "lessonName": "Toys in Action"
+      }
+    },
+    {
+      "id": "q7",
+      "type": "drawing-response",
+      "marks": 2,
+      "question": "Draw and label your own spinning top design. Show where you apply a push or a pull and use arrows to indicate the direction of spin.",
+      "answers": [
+        {
+          "id": "q7a",
+          "content": "Student-generated drawing",
+          "isCorrect": true,
+          "explanation": "Award full marks if the drawing clearly shows a top, indicates a push or pull, and includes arrows for spin direction."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 721,
+        "lessonName": "Toys in Action"
+      }
+    }
+  ]
+}
