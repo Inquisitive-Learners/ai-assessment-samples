@@ -1,0 +1,716 @@
+{
+  "metadata": {
+    "unitId": 156,
+    "unitName": "TEST orange Living Things",
+    "yearId": 1,
+    "userId": 252947,
+    "totalQuestions": 24,
+    "totalMarks": 51,
+    "generatedAt": "2025-10-03T03:19:00.408Z",
+    "lessonCount": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which of the following is a characteristic of ALL living things?",
+      "answers": [
+        {
+          "id": "q1a1",
+          "content": "They can grow.",
+          "isCorrect": true,
+          "explanation": "Growth is one of the key characteristics that defines a living thing."
+        },
+        {
+          "id": "q1a2",
+          "content": "They are always green.",
+          "isCorrect": false,
+          "explanation": "Only some plants are green; colour is not a characteristic of all living things."
+        },
+        {
+          "id": "q1a3",
+          "content": "They never change.",
+          "isCorrect": false,
+          "explanation": "Living things change over time as they grow and respond to their environment."
+        },
+        {
+          "id": "q1a4",
+          "content": "They are made by humans.",
+          "isCorrect": false,
+          "explanation": "Living things come from other living things, not from human manufacture."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 458,
+        "lessonName": "What is a Living Thing?"
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which object listed below is NON-living?",
+      "answers": [
+        {
+          "id": "q2a1",
+          "content": "A dog",
+          "isCorrect": false,
+          "explanation": "A dog eats, grows and reproduces, so it is living."
+        },
+        {
+          "id": "q2a2",
+          "content": "A sunflower",
+          "isCorrect": false,
+          "explanation": "A sunflower is a plant that grows and needs water and sunlight, so it is living."
+        },
+        {
+          "id": "q2a3",
+          "content": "A rock",
+          "isCorrect": true,
+          "explanation": "A rock does not grow, need food or water, or produce young. It is non-living."
+        },
+        {
+          "id": "q2a4",
+          "content": "A goldfish",
+          "isCorrect": false,
+          "explanation": "A goldfish breathes, grows and needs food, so it is living."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 458,
+        "lessonName": "What is a Living Thing?"
+      }
+    },
+    {
+      "id": "q3",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Name any TWO basic needs that all living things have.",
+      "answers": [
+        {
+          "id": "q3a1",
+          "content": "water",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "q3a2",
+          "content": "food",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "q3a3",
+          "content": "air",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "q3a4",
+          "content": "shelter",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 458,
+        "lessonName": "What is a Living Thing?"
+      }
+    },
+    {
+      "id": "q4",
+      "type": "drawing-response",
+      "marks": 3,
+      "question": "Draw and label ONE living thing you observed on the school walk and ONE non-living thing. Circle the living thing in blue and the non-living thing in red.",
+      "answers": [
+        {
+          "id": "q4a1",
+          "content": "Student drawing or photo with correct labels and circles.",
+          "isCorrect": true,
+          "explanation": "Full marks for correctly identifying, labelling and circling one living and one non-living example."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 458,
+        "lessonName": "What is a Living Thing?"
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Plants do not walk like animals, but they still move. How can you BEST show students that a sunflower moves?",
+      "answers": [
+        {
+          "id": "q5a1",
+          "content": "Measure how tall it grows each day.",
+          "isCorrect": false,
+          "explanation": "Height shows growth, not movement toward light."
+        },
+        {
+          "id": "q5a2",
+          "content": "Record time-lapse photos of the flower turning toward the Sun.",
+          "isCorrect": true,
+          "explanation": "Time-lapse reveals the slow movement of the plant as it tracks sunlight."
+        },
+        {
+          "id": "q5a3",
+          "content": "Feel its leaves to see if they are warm.",
+          "isCorrect": false,
+          "explanation": "Leaf warmth does not demonstrate movement."
+        },
+        {
+          "id": "q5a4",
+          "content": "Listen closely for the sound of it rustling.",
+          "isCorrect": false,
+          "explanation": "Rustling may be caused by wind, not the plant's own movement."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 458,
+        "lessonName": "What is a Living Thing?"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Which of the following is NOT one of the four basic things all animals need to stay alive?",
+      "answers": [
+        {
+          "id": "Q1A1",
+          "content": "Air",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1A2",
+          "content": "Water",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1A3",
+          "content": "Shelter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1A4",
+          "content": "Toys",
+          "isCorrect": true,
+          "explanation": "Toys are enjoyable but are not essential for animal survival, unlike air, water and shelter."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 459,
+        "lessonName": "Just What I Need"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "In the class pet shop activity, which pet is MOST likely to need regular walks for exercise?",
+      "answers": [
+        {
+          "id": "Q2A1",
+          "content": "Fish",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2A2",
+          "content": "Dog",
+          "isCorrect": true,
+          "explanation": "Dogs rely on regular walks to exercise, explore and stay healthy."
+        },
+        {
+          "id": "Q2A3",
+          "content": "Rabbit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2A4",
+          "content": "Bird",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 459,
+        "lessonName": "Just What I Need"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "short-answer",
+      "marks": 2,
+      "question": "List TWO things that pets often rely on humans to provide.",
+      "answers": [
+        {
+          "id": "Q3A1",
+          "content": "Any two of: food, water, shelter, grooming, attention/play, exercise/walks",
+          "isCorrect": true,
+          "explanation": "Pets are domestic animals and depend on people for their basic needs such as food, water, shelter and care."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 459,
+        "lessonName": "Just What I Need"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "multiple-choice",
+      "marks": 2,
+      "question": "Why is water important for animals?",
+      "answers": [
+        {
+          "id": "Q4A1",
+          "content": "It keeps predators away.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q4A2",
+          "content": "It helps with digestion and carrying nutrients around the body.",
+          "isCorrect": true,
+          "explanation": "Water is needed for many body processes, including digestion, temperature regulation and transporting nutrients."
+        },
+        {
+          "id": "Q4A3",
+          "content": "It makes their fur grow longer.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q4A4",
+          "content": "It replaces the need for shelter.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 459,
+        "lessonName": "Just What I Need"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "drawing-response",
+      "marks": 2,
+      "question": "Draw a suitable shelter that would meet a rabbit’s need for protection from weather and predators.",
+      "answers": [
+        {
+          "id": "Q5A1",
+          "content": "Student drawing of a hutch or enclosed burrow-like shelter.",
+          "isCorrect": true,
+          "explanation": "Look for features such as walls/cover, a roof, dry bedding and a door/opening small enough to keep predators out."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 459,
+        "lessonName": "Just What I Need"
+      }
+    },
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which TWO things do all plants need to stay alive?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Water",
+          "isCorrect": true,
+          "explanation": "Plants need water for transporting nutrients and keeping their structure."
+        },
+        {
+          "id": "b",
+          "content": "Sunlight",
+          "isCorrect": true,
+          "explanation": "Plants use sunlight for photosynthesis to make their food."
+        },
+        {
+          "id": "c",
+          "content": "Chocolate",
+          "isCorrect": false,
+          "explanation": "Chocolate is not a plant requirement."
+        },
+        {
+          "id": "d",
+          "content": "Music",
+          "isCorrect": false,
+          "explanation": "Music is not essential for plant survival."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 524,
+        "lessonName": "Staying Alive"
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "In the two photos of the same plant, the leaves were droopy in the first and standing up in the second. What most likely helped the plant recover?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "It was spoken to kindly.",
+          "isCorrect": false,
+          "explanation": "Kind words alone do not revive wilted plants."
+        },
+        {
+          "id": "b",
+          "content": "It was given water.",
+          "isCorrect": true,
+          "explanation": "Water allows the plant to regain turgor and lift its leaves."
+        },
+        {
+          "id": "c",
+          "content": "It was moved to a colder room.",
+          "isCorrect": false,
+          "explanation": "Cold does not usually make plants perk up quickly."
+        },
+        {
+          "id": "d",
+          "content": "It was painted green.",
+          "isCorrect": false,
+          "explanation": "Paint cannot restore life to wilted leaves."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 524,
+        "lessonName": "Staying Alive"
+      }
+    },
+    {
+      "id": "q3",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "Why does a plant kept in complete darkness grow weak and pale? Write one reason.",
+      "answers": [
+        {
+          "id": "a",
+          "content": "It cannot get sunlight for photosynthesis.",
+          "isCorrect": true,
+          "explanation": "Without light, the plant cannot make food and becomes unhealthy."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 524,
+        "lessonName": "Staying Alive"
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Which of these is NOT a basic need of plants?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Water",
+          "isCorrect": false,
+          "explanation": "Plants need water."
+        },
+        {
+          "id": "b",
+          "content": "Sunlight",
+          "isCorrect": false,
+          "explanation": "Plants need sunlight."
+        },
+        {
+          "id": "c",
+          "content": "Chocolate",
+          "isCorrect": true,
+          "explanation": "Chocolate is not required by plants."
+        },
+        {
+          "id": "d",
+          "content": "Air (carbon dioxide)",
+          "isCorrect": false,
+          "explanation": "Plants need carbon dioxide from air."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 524,
+        "lessonName": "Staying Alive"
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "After the wilted plant in the video was watered, what change did you observe first?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Its leaves stood up and looked firmer.",
+          "isCorrect": true,
+          "explanation": "Water restored turgor pressure, so leaves stood up."
+        },
+        {
+          "id": "b",
+          "content": "It instantly grew flowers.",
+          "isCorrect": false,
+          "explanation": "Flowering takes more time."
+        },
+        {
+          "id": "c",
+          "content": "The pot changed colour.",
+          "isCorrect": false,
+          "explanation": "The pot colour stayed the same."
+        },
+        {
+          "id": "d",
+          "content": "The soil turned blue.",
+          "isCorrect": false,
+          "explanation": "The soil colour did not change to blue."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 524,
+        "lessonName": "Staying Alive"
+      }
+    },
+    {
+      "id": "q6",
+      "type": "drawing-response",
+      "marks": 2,
+      "question": "Draw a young plant showing one thing it needs to live and grow besides water (for example, sunlight). Label your picture.",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Student includes a clear drawing of sunlight (or air/space) helping the plant and labels it.",
+          "isCorrect": true,
+          "explanation": "The drawing demonstrates understanding of another plant need."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 524,
+        "lessonName": "Staying Alive"
+      }
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "marks": 1,
+      "question": "Plants and animals share some needs. Which need is shared by BOTH plants and animals?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Water",
+          "isCorrect": true,
+          "explanation": "Both plants and animals must have water to survive."
+        },
+        {
+          "id": "b",
+          "content": "Video games",
+          "isCorrect": false,
+          "explanation": "Only people enjoy video games."
+        },
+        {
+          "id": "c",
+          "content": "Car rides",
+          "isCorrect": false,
+          "explanation": "Car rides are not a basic biological need."
+        },
+        {
+          "id": "d",
+          "content": "Sunglasses",
+          "isCorrect": false,
+          "explanation": "Sunglasses are not needed by plants or animals for survival."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 524,
+        "lessonName": "Staying Alive"
+      }
+    },
+    {
+      "id": "q8",
+      "type": "short-answer",
+      "marks": 1,
+      "question": "In the photo of the lawn with two yellow patches, what might have been lying on those spots that stopped the grass getting what it needed?",
+      "answers": [
+        {
+          "id": "a",
+          "content": "Something blocking the sunlight (e.g., a bucket, mat or toy).",
+          "isCorrect": true,
+          "explanation": "The object blocked light, so the grass could not make food and died."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 524,
+        "lessonName": "Staying Alive"
+      }
+    },
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "marks": 3,
+      "question": "Look at the four things your teacher showed (a flower, a painted rock, a child and a kitten). Which one does NOT need water to stay alive?",
+      "answers": [
+        {
+          "id": "Q1A",
+          "content": "The painted rock",
+          "isCorrect": true,
+          "explanation": "Rocks are non-living things, so they do not need water."
+        },
+        {
+          "id": "Q1B",
+          "content": "The flower",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1C",
+          "content": "The child",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q1D",
+          "content": "The kitten",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 865,
+        "lessonName": "I'm Thirsty"
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "marks": 3,
+      "question": "Most animals drink water using which part of their body?",
+      "answers": [
+        {
+          "id": "Q2A",
+          "content": "Their mouths",
+          "isCorrect": true,
+          "explanation": "Animals lap, suck or slurp water with their mouths."
+        },
+        {
+          "id": "Q2B",
+          "content": "Their roots",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2C",
+          "content": "Their leaves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q2D",
+          "content": "Their skin",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 865,
+        "lessonName": "I'm Thirsty"
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "short-answer",
+      "marks": 4,
+      "question": "Explain how a plant takes in water and moves it to its leaves.",
+      "answers": [
+        {
+          "id": "Q3A",
+          "content": "A plant absorbs water through its roots. The water then travels up the stem to the leaves and flowers.",
+          "isCorrect": true,
+          "explanation": "Roots soak up the water from the soil (or cup); tubes in the stem carry the water upward."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 865,
+        "lessonName": "I'm Thirsty"
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "multiple-choice",
+      "marks": 3,
+      "question": "During the class investigation, why was food colouring added to one cup of water?",
+      "answers": [
+        {
+          "id": "Q4A",
+          "content": "So we could see the path the water travelled inside the flower",
+          "isCorrect": true,
+          "explanation": "The coloured water stains the tubes, making the movement of water visible."
+        },
+        {
+          "id": "Q4B",
+          "content": "To feed the flower extra nutrients",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q4C",
+          "content": "To keep insects away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "Q4D",
+          "content": "To make the flower smell nicer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 865,
+        "lessonName": "I'm Thirsty"
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "drawing-response",
+      "marks": 4,
+      "question": "Draw and label what the white flower in the coloured water looked like after one day. Show the coloured parts clearly.",
+      "answers": [
+        {
+          "id": "Q5A",
+          "content": "Student drawing should show petals (and possibly stem) with streaks or patches of the food-colour tint, labelled to indicate water movement.",
+          "isCorrect": true,
+          "explanation": "Colour appearing in the petals shows that the water moved from the cup up through the stem."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 865,
+        "lessonName": "I'm Thirsty"
+      }
+    },
+    {
+      "id": "Q6",
+      "type": "short-answer",
+      "marks": 3,
+      "question": "Give TWO reasons why humans need water.",
+      "answers": [
+        {
+          "id": "Q6A",
+          "content": "Any two of: drinking to stay alive, helping the body digest food, carrying nutrients, keeping body temperature correct, washing/bathing to stay clean.",
+          "isCorrect": true,
+          "explanation": "Water is essential for many body processes and everyday activities."
+        }
+      ],
+      "lessonSource": {
+        "lessonId": 865,
+        "lessonName": "I'm Thirsty"
+      }
+    }
+  ]
+}
